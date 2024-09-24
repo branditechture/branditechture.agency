@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rants &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/rants/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sat, 23 Jul 2022 22:10:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>Rants &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why I Stopped Using CorelDRAW After Over Ten Years</title>
+		<link>https://branditechture.agency/why-i-stopped-using-coreldraw-after-over-ten-years/</link>
+					<comments>https://branditechture.agency/why-i-stopped-using-coreldraw-after-over-ten-years/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:00 +0000</pubDate>
+				<category><![CDATA[Rants]]></category>
+		<category><![CDATA[coreldraw]]></category>
+		<category><![CDATA[rant]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=9733</guid>
+
+					<description><![CDATA[<p>My name is Yusuf. I hold multiple roles at Branditechture, but for the relevance of this article, I&#8217;d say that I am the Design Lead. I&#8217;ve been using the CorelDRAW Graphics Suite since version 12 — for over ten years in a row, but I have mainly used DRAW (or CorelDRAW) for a significant majority [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/why-i-stopped-using-coreldraw-after-over-ten-years/">Why I Stopped Using CorelDRAW After Over Ten Years</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>My name is Yusuf. I hold multiple roles at <a href="https://branditechture.agency/">Branditechture</a>, but for the relevance of this article, I&#8217;d say that I am the Design Lead. <span>I&#8217;ve been using the CorelDRAW Graphics Suite since version 12 — for over ten years in a row, but I have mainly used DRAW (or CorelDRAW) for a significant majority of this time.</span></p>
+<pre><strong>Disclaimer:</strong>
+This article in its entirety is a narration of my own experience. It may or may not define your own experience or that of anybody else with the computer program. However, I wish to implore Corel, Inc. to see this as a feedback and use it to improve their software in future version updates.</pre>
+<p><span>My experience is one that is relatable to a considerable portion of the CorelDRAW design community, and you may be able to relate to this too if you&#8217;ve ever worked with the program long-term. </span></p>
+<p class="q-text qu-display--block"><span>Corel Draw (officially spelled &#8220;CorelDRAW&#8221;) is a professional vector design software used for creating and editing vector graphics (vector graphics are graphics that do not lose visual details regardless of the number of times zoomed in). </span></p>
+<p class="q-text qu-display--block"><span>All my career, I had mainly used CorelDRAW</span><span> to <a href="https://branditechture.agency/start-a-project/">create things</a> like editorials, product packaging, car wraps, billboard artwork, illustrations, logos, signage, and other content that require vector graphics. </span></p>
+<p class="q-text qu-display--block"><span>I loved CorelDRAW so much that I even used it as a UI Design tool when others used Figma, InVision Studio, Adobe XD, etc.</span></p>
+<p>I have had my ups and down with CorelDRAW, but I have recently decided to &#8220;leave my comfort zone&#8221; and end my long-term association with the software — Here are my reasons;</p>
+
+<h2>1. CorelDRAW freezes, a lot.</h2>
+<p>A very long time ago, one of CorelDRAW&#8217;s unique selling points was its high performance on low-end personal computers. It rarely freezes, launches very quickly, and processes several commands very fast. This explains why earlier versions of CorelDRAW are still very much in use in the printing industry today.</p>
+<p>It is not so uncommon to find cyber cafes and print outlets that are still using CorelDRAW X3 in 2021. As a side note, CorelDRAW x3 was released in January 2006.</p>
+<p>As you would expect from a designer, I can&#8217;t keep up with using CorelDRAW X3 in 2021 due to some missing features. So I use the latest stable version, or at least, two versions from the latest version, depending on the computer specifications I am working with. However, I must confess that my all-time favorite was the CorelDRAW version X7, which in my opinion has a good balance between nice features and performance. It freezes too, but not as frequently as its successors.</p>
+<div id="attachment_9840" style="width: 884px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-9840" class="size-full wp-image-9840" title="CorelDRAW 2021 Realtime Resource Usage Stats" src="https://branditechture.agency/wp-content/uploads/2021/07/CorelDRAW-Realtime-Resource-Usage-Stats.jpg" alt="CorelDRAW 2021 Realtime Resource Usage Stats" width="874" height="165" srcset="https://branditechture.agency/wp-content/uploads/2021/07/CorelDRAW-Realtime-Resource-Usage-Stats.jpg 874w, https://branditechture.agency/wp-content/uploads/2021/07/CorelDRAW-Realtime-Resource-Usage-Stats-300x57.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/07/CorelDRAW-Realtime-Resource-Usage-Stats-768x145.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/07/CorelDRAW-Realtime-Resource-Usage-Stats-480x91.jpg 480w" sizes="(max-width: 874px) 100vw, 874px" /><p id="caption-attachment-9840" class="wp-caption-text">Screenshot showing a CorelDRAW 2021 Realtime Resource Usage Stats</p></div>
+<p>After CorelDRAW X7, the program&#8217;s performance started to suffer a rapid decline. CorelDRAW&#8217;s performance went from bad to worse with every new version released. It was quickly becoming a resource hog and a huge burden to even the best of PCs.</p>
+<p>I suspect unoptimized code, but it could be more than that. Before you accuse my machines of being too low-end, here are the specs;</p>
+<p><strong>Model:</strong> HP Revolve 810 G2<br />
+<strong>Processor:</strong> <b>Intel® Core™ i5-4300U with</b><span> Intel HD Graphics 4400 (1.9 GHz, 3 MB cache, 2 cores)</span><br />
+<strong>Installed RAM:</strong> 12GB DDRL3 RAM<br />
+<strong>Graphics Memory:</strong> 512 MB Dedicated, 2GB Total.<br />
+<strong>Primary Disk Drive:</strong> 256GB M2 SSD, ~100GB+ Free Storage Memory.</p>
+<p>I also have an old but fairly powerful Intel Xeon Computer With the following specs;</p>
+<p><strong>Model:</strong> HP xw6600 Workstation<br />
+<strong>Processor:</strong> <b>Intel® Xeon™ <span> E5410 / 2.33 GHz</span></b><br />
+<strong>Installed RAM:</strong> 8 GB DDR2 RAM<br />
+<strong>Graphics Memory:</strong> NVIDIA Quadro FX 4600 (768 MB), 4GB Total.<br />
+<strong>Primary Disk Drive:</strong> 512GB Samsung SSD, ~250GB+ Free Storage Memory.</p>
+<p>I can categorically tell you that I run Adobe Illustrator 2021 with the above technical specifications without problems, although GPU Acceleration is not supported, which is quite not an issue. But I couldn&#8217;t help but wonder how several CorelDRAW versions (i.e X8, 2017, 2018, 2019, 2020 &amp; 2021) are unable to operate efficiently on the same machine that runs the latest version of Adobe Illustrator without problems.</p>
+<h2>2. Simple Copy—Paste Operations Can Take A Lot of Time</h2>
+<p>Copy and Paste is perhaps the most commonly used shortcut in the world, and graphic design programs are not exempted from this.</p>
+<p>There are many times you&#8217;d rather opt to use <strong>Copy &amp; Paste</strong> instead of using the <strong>Duplicate</strong> command in CorelDRAW, and I kid you not, you can&#8217;t press Ctrl C and Ctrl+V in quick succession without being greeted with an error in CorelDRAW. This happens especially when you already have multiple pages with content ( Texts, Images, Illustrations, etc). I do editorial designs a lot, so it becomes frustrating that I&#8217;d have to wait for about a second or two between each Ctrl C and Ctrl V commands. For me, this is a lot of time.</p>
+<h2>3. CorelDRAW Takes Too Long To Save A File</h2>
+<p>When you save a moderately-sized .cdr file, you might notice a moment of unresponsiveness, or an inability to close the document window. <em>CorelDRAW&#8217;s eyeballs might also pop out of its socket, </em>which may or may not be followed by an app crash.</p>
+<p>I have lost count of how many times I have had to pray and hope that the program shouldn&#8217;t close abruptly during this &#8220;trying&#8221; period. Luckily, saving a file rarely causes the program to crash or close abruptly, but it takes annoyingly long each time you hit the Save button (or press Ctrl + S).</p>
+<h2>4. The Program Closes Abruptly</h2>
+<p>No serious designer would be happy with a program that shuts down or closes abruptly for &#8220;no reason&#8221;. Not to mention the countless occasions when I am in a full swing and I&#8217;ve done quite a lot in the few minutes after my last save, only to see the dreaded <strong>&#8220;CorelDRAW <em>20XX</em> has stopped working&#8221;</strong>.</p>
+<p>I understand that no computer program is immune to crashes, but crashes are disgustingly commonplace on CorelDRAW, and each time it happens, it results in me losing some or all of my progress.</p>
+<p>I hope you don&#8217;t blame me for not remembering to hit the Ctrl+S button every minute. Not only would that be a distraction, but it would also take a toll on my computer&#8217;s performance (and mine too) due to the disk read/write operations that take place each time you save a file. Sometimes the program temporarily freezes during this time, especially when your .cdr file has grown a bit large (say around 300MB).</p>
+<p>The above performance problem is why I use Figma. Asides from using Figma for UI/UX design and prototyping, I also use it to design single-page PDF documents and event flyers. It is 100% cloud-based and auto-saves your progress with each second. As a matter of fact, you could literally hop from one PC to another to continue your work as the situation demands. It is also completely free and fast. It doesn&#8217;t freeze even when your design file grows to 1GB.</p>
+<p>Sometimes, CorelDRAW closes when you import a .eps (Encapsulated PostScript) or .ai (Adobe Illustrator) file, and other times when you attempt to copy and paste content in a moderately-sized .cdr document.</p>
+<p>CorelDRAW is no longer my go-to tool for editorial design due to its sub-optimal performance and failure to properly leverage hardware acceleration. I now use Adobe InDesign for anything editorial or multi-paged.</p>
+<h2>5. CorelDRAW Corrupts Your .Cdr File If Save Operation Is Interrupted</h2>
+<p>Imagine designing an 80-page Brand Guide ( <a href="https://github.com/branditechture/branditechture.github.io/raw/master/Owanbe%20Buka%20Brand%20Guide%20by%20Branditechture%20Design%20Agency.pdf" target="_blank" rel="noopener">Download Sample Brand Guide [ 2.79MB ]</a> )  on your Desktop Workstation and there is a sudden unexpected power cut, but your UPS couldn&#8217;t stand the period that CorelDRAW requires to save a file before shutting off. Let me tell you something you probably didn&#8217;t know before; If your PC unexpectedly shuts down before that save operation is complete, just bid your work farewell!</p>
+<p>Your only hope is the automatic CorelDRAW backup (commonly titled <em><strong>backup_of_DocumentTitle.cdr</strong></em>), which might be missing major updates on the progress you have made so far.</p>
+<p>To mitigate the risk of losing my entire file and progress, I always use the <strong>&#8220;Save As&#8221;</strong> command in such emergency situations so that it doesn&#8217;t overwrite and thereby potentially causing permanent damage to my current file. In my opinion, this is a lot of stress and it requires a few &#8220;bitter&#8221; experiences to master how to manage such situations.</p>
+<p>A similar occurrence is when your laptop battery unexpectedly shuts off during a save operation in CorelDRAW. This happens when you are working on a laptop that has a bad battery pack. I know that most people have a laptop with at least, an average battery backup, but it is still worth mentioning.</p>
+<pre><strong>PLEASE NOTE:</strong> You may be unable to relate to my experience above if you only use CorelDRAW for less resource-intensive tasks like flat logo designs, flyers (1 flyer per document), and perharps, simple printing, etc.</pre>
+<h2>6. Poor EPS Support</h2>
+<p>If you import graphic files a lot then you might have noticed a glitch with complex .eps files in CorelDRAW, where some parts of the imported graphic with effects (such as shadows and glow) lose their vector properties, thereby becoming raster/bitmap. See an example of what I mean in the image below <em><strong>(An .eps trifold flyer template imported from Freepik)</strong></em>;</p>
+<div id="attachment_10206" style="width: 950px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-10206" class="size-large wp-image-10206" title="Screen Shot at PM min" src="https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.41.07-PM-min-1024x640.png" alt="Screen Shot at PM min" width="940" height="588" srcset="https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.41.07-PM-min-1024x640.png 1024w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.41.07-PM-min-300x188.png 300w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.41.07-PM-min-768x480.png 768w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.41.07-PM-min-1536x960.png 1536w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.41.07-PM-min-480x300.png 480w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.41.07-PM-min-1320x825.png 1320w" sizes="(max-width: 940px) 100vw, 940px" /><p id="caption-attachment-10206" class="wp-caption-text">The transparent black image is supposed to be a vector, but it is not. This problem does not occur with Adobe Illustrator.</p></div>
+<p>Importing the same EPS file into illustrator provided a higher fidelity graphic, where all layers, transparency, shadows and gradients were intact. See the screenshot below for a quick comparison.</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-10207" title="Screen Shot at PM min" src="https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.52.15-PM-min-1024x640.png" alt="Screen Shot at PM min" width="940" height="588" srcset="https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.52.15-PM-min-1024x640.png 1024w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.52.15-PM-min-300x188.png 300w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.52.15-PM-min-768x480.png 768w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.52.15-PM-min-1536x960.png 1536w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.52.15-PM-min-480x300.png 480w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-08-11-at-10.52.15-PM-min-1320x825.png 1320w" sizes="(max-width: 940px) 100vw, 940px" /></p>
+<h2>7. The User Interface is Outdated</h2>
+<p>This is probably a case of <em>if it ain&#8217;t broke don&#8217;t fix it,</em> so the outdated user interface might not really represent a big issue.</p>
+<p>CorelDRAW arguably has the <strong>most interactive</strong> toolset of all vector illustration software ever made. The Interactive Fill, Transparency and Drop Shadow tool is still unmatched by any vector illustration software in the world. However, there have been little to no changes in the user interface for almost a decade now. The only major difference being the introduction of Dark Skin in CorelDRAW X8.</p>
+<p>This is good in some ways but bad in many ways. Asides from an aesthetic standpoint, it also goes a long way to show that the CorelDRAW user interface design team is disconnected from current UI trends. Adobe, Google, Apple, Android, are among the top tech brands that have since moved to the rounded-cornered design system, meanwhile, Corel is still stuck with its same old interface.</p>
+<h2>Conclusion</h2>
+<p>This is not an Adobe promotion post, but I have since started to learn how to use Adobe Illustrator as an alternative. Adobe Software are more intelligently built towards optimizing resource utilization. For example, with support for GPU acceleration, Adobe apps would apply much lesser pressure on your CPU for rendering document previews in real-time.</p>
+<p>I only have CorelDRAW installed on my machine just in case I need to do some revisions on some old projects. It is more like legacy software to me now and I doubt if I would ever be interested in future versions.</p>
+<p>Mastering the use of Adobe Illustrator would also potentially immerse me in the Adobe Creative Cloud ecosystem. Apps like InDesign, After Effects, and Premiere Pro should now feel more intuitive and much easier to learn as well. The CorelDRAW Graphics Suite doesn&#8217;t have a competing equivalent of these apps, so my scope would definitely become very limited if I kept sticking with CorelDRAW.</p>
+<p>With an influx of fresh young designers every day, the competition is getting rifer, and if you need to broaden your horizon as a graphic designer, you might want to start appreciating the Adobe Creative Cloud apps now and start integrating them into your workflow.  Not only would it help you collaborate better with other designers worldwide, but it would also make you more valuable in the eyes of most HR, assuming you wish to work as an employee.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/why-i-stopped-using-coreldraw-after-over-ten-years/">Why I Stopped Using CorelDRAW After Over Ten Years</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/why-i-stopped-using-coreldraw-after-over-ten-years/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Here&#8217;s Why Amazon Is Banning Lots Of Nigerian Accounts On Their KDP Platform</title>
+		<link>https://branditechture.agency/heres-why-amazon-is-banning-lots-of-nigerian-accounts-on-their-kdp-platform/</link>
+					<comments>https://branditechture.agency/heres-why-amazon-is-banning-lots-of-nigerian-accounts-on-their-kdp-platform/#comments</comments>
+		
+		<dc:creator><![CDATA[Stanley Umezulike]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:05 +0000</pubDate>
+				<category><![CDATA[Rants]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=16914</guid>
+
+					<description><![CDATA[<p>ℹ️ Excerpts from this article were originally published on Facebook by Stanley Umezulike. Kindle Direct Publishing (or KDP) is Amazon&#8217;s e-book self-publishing platform which was launched in November 2007. KDP is like the digital version of a publishing house. The platform allows you to self-publish and sell eBooks, paperbacks, and hardcover books for free without [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/heres-why-amazon-is-banning-lots-of-nigerian-accounts-on-their-kdp-platform/">Here&#8217;s Why Amazon Is Banning Lots Of Nigerian Accounts On Their KDP Platform</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<pre>ℹ️ Excerpts from this article were originally published on Facebook by <a href="https://facebook.com/story.php?story_fbid=5448999495143996&amp;id=100001019971622&amp;_rdc=1&amp;_rdr" target="_blank" rel="nofollow noopener">Stanley Umezulike.</a></pre>
+<p><strong>Kindle Direct Publishing</strong> (<em><strong>or KDP</strong></em>) is Amazon&#8217;s e-book self-publishing platform which was launched in November 2007. KDP is like the digital version of a publishing house. The platform allows you to self-publish and sell eBooks, paperbacks, and hardcover books for free without hassles — These books can include novels, book series, children&#8217;s books, comics, cookbooks, journals, poetry, and even textbooks.</p>
+<p>Amazon has started banning and &#8220;over-scrutinizing&#8221; Nigerian publisher accounts on its Kindle platform, no thanks to some greedy Nigerians who have exploited this platform over the previous months solely for monetary gains, not minding the low-quality end-value of the books that they are publishing.</p>
+<p>Many Nigerians have refused to put in the necessary work but instead have opted for ‘short-cuts’ to illicitly make some quick money on Amazon KDP. As expected, such a “short-cut strategy” is not without its own pitfalls.</p>
+<p>This abuse and violation have piqued the interest of the <em>Amazon Compliance Team</em> and now, even legit authors are not entirely spared of the consequences of the actions of these greedy lot.</p>
+<p>Before we start, let&#8217;s look at a fault in Amazon KDP&#8217;s Return Policy that has made this illicit technique lucrative for abusers.</p>
+<p><em><strong>Amazon pays an author a royalty (a certain percentage) when a book ships in response to a paid customer order. However, If the customer subsequently returns the book to Amazon, no amount is deducted from the publisher&#8217;s KDP account. Amazon either disposes of the book or puts it on a warehouse shelf to fill the next customer order.</strong></em></p>
+<div id="attachment_16918" style="width: 701px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-16918" class="size-full wp-image-16918" title="A screenshot of one of many of such adverts on Facebook from Supposedly Online Coaches" src="https://branditechture.agency/wp-content/uploads/2022/06/A-screenshot-of-one-of-many-of-such-adverts-on-Facebook-from-Supposedly-Online-Coaches.-.jpg" alt="A screenshot of one of many of such adverts on Facebook from Supposedly Online Coaches" width="691" height="325" srcset="https://branditechture.agency/wp-content/uploads/2022/06/A-screenshot-of-one-of-many-of-such-adverts-on-Facebook-from-Supposedly-Online-Coaches.-.jpg 691w, https://branditechture.agency/wp-content/uploads/2022/06/A-screenshot-of-one-of-many-of-such-adverts-on-Facebook-from-Supposedly-Online-Coaches.--300x141.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/06/A-screenshot-of-one-of-many-of-such-adverts-on-Facebook-from-Supposedly-Online-Coaches.--480x226.jpg 480w" sizes="(max-width: 691px) 100vw, 691px" /><p id="caption-attachment-16918" class="wp-caption-text">A screenshot of one of many such adverts on Facebook from supposedly online coaches. (NOTE: <em>Name has been altered.)</em></p></div>
+<h2>Why Amazon is banning lots of Nigerian accounts on their KDP platform</h2>
+<p>Now that you understand why people do this and get away with it. I’ll be identifying common patterns found among KDP publishers that use this technique to game the system and make quick money illegitimately.</p>
+<h3>1. Plagiarized Covers</h3>
+<p>Copying the covers of well-selling books, or copying the image of an already listed book violates the Amazon KDP metadata guidelines. It is a guaranteed way to get your account banned.</p>
+<p>That is why we should always read guidelines thoroughly. On the Metadata Guideline page, toward the end of the page, there is a section on guidelines for cover images, which clearly states that <em><strong>you are not allowed to create similar-looking covers.</strong></em></p>
+<h3>2. Creating Multiples KDP Accounts</h3>
+<p>According to the terms and conditions of Amazon KDP, you can only have one account at a time. But today, we see individuals using more than 2 KDP accounts, which is against the guidelines and can lead to banning.</p>
+<p>To make matter worse, you cannot register a second account with the same information if your first account has been banned. If you try to prove stubborn and create a 2nd account using the same information, they will surely catch you based on your I.P address and the new account will get banned too.</p>
+<h3>3. Copyright Infringement</h3>
+<p>This group of Nigerians don’t take the violations of laws and proprietary rights seriously, because if they do, they wouldn’t be publishing low-content and low-value publications without first understanding how book publishing works. Unfortunately, this practice doesn&#8217;t seem to be stopping anytime soon as we now have many self-acclaimed coaches on <a href="https://branditechture.agency/you-dont-need-a-huge-following/">social media</a> claiming that it&#8217;s possible to publish <em><strong>a book per day on Amazon.</strong></em></p>
+<p>Publishing a book per day on KDP is <strong>NOT</strong> possible unless you have been engaging in some serious copyright infringement.</p>
+<h3>4. Thin Content</h3>
+<p>You would be surprised to find out that there are some books uploaded on the KDP platform with no more than three pages in them. What they (the authors) do is design an attractive cover, write a deceptive description and slap a price on the book.</p>
+<h3>5. Unpublishing And Republishing</h3>
+<p>Knowing fully well that Amazon gives a little boost to newly published books during the first month by ranking newly published books on the first page to test how it performs, these unscrupulous people resort to un-publishing and republishing the same books to trick the Amazon KDP algorithm.</p>
+<p>Unknowing to them, Amazon employees are extremely smart and will definitely clamp down on these deceptive techniques which are aimed at increasing sales.</p>
+<p>But let&#8217;s talk about those online coaches who coach these people on these illegal strategies that ultimately portray a bad image for Nigerians. They&#8217;ve caused more harm than good, and Amazon has begun to ban several Nigerian accounts on their Kindle Publishing platform as a result of their deceptive advertising and recruitment methods.</p>
+<p><strong>Here is how these &#8220;online coaches&#8221; contribute to this problem</strong></p>
+<ul>
+<li>❌ They will tell you that publishing books on Amazon &#8220;do not require you to be a writer.&#8221;</li>
+<li>❌ They will show you how to use Google to find information from other people’s books, then you tweak it a little, and boom! It gets published on Amazon.</li>
+<li>❌ To beat the plagiarism checks, what they do is download books from hot niches in different languages such as French, Spanish and other languages. Next, they will translate those books to English using software like <em><strong>Google Translate</strong></em>, put their name on them and re-publish them on Amazon.</li>
+<li>❌ The majority of them acquire unsuspecting buyers by posting fake <a href="https://kdp.amazon.com/en_US/help/topic/G202181110" target="_blank" rel="noopener"><strong>Amazon KDP<em> royalty reports.</em></strong></a></li>
+<li>❌ They technically teach people how to <strong>steal</strong> other people&#8217;s content and publish them on Amazon KDP in order to get paid. The original authors of those books aren’t given credit for their works.</li>
+<li>❌ They teach their students how to get around other plagiarism detection measures without actually focusing on providing unique content.</li>
+<li>❌ The few books that are original content are not edited and do not have good cover designs. They are not properly formatted either. They simply upload them on Amazon without understanding how to publish books on Amazon.</li>
+</ul>
+<p>It&#8217;s simple. They do this because they are looking for shortcuts to make quick money.</p>
+<p>Most of them and their students publish books on<em><strong> Amazon Kindle Unlimited</strong> </em>and disobey Amazon rules by publishing the same books on other platforms.</p>
+<p>They also publish these courses on other popular platforms where they run ads and convince people to buy them in order to earn money in dollars. They are helping more people to learn the wrong thing while earning quick money by trying to beat the system.</p>
+<p>The problem is that this has become a vicious cycle. These coaches were taught how to do this by other coaches and some of them don&#8217;t know that what they are doing is wrong.<br />
+What these coaches are doing is not just wrong, they are leading many young people astray.</p>
+<p>Basically, they are teaching them how to make money off other people&#8217;s sweat. They also teach them how to get information via Google Search without giving the owners of the original content credit.</p>
+<p>Some of them have published over 100 books on Amazon, and yet, none of them is their original content.</p>
+<p>Over 90 per cent of courses on Amazon Kindle Publishing by Nigerian coaches teach people the wrong thing.</p>
+<p>Let me use this medium to call out the Nigerian coaches who are teaching people the wrong thing about Amazon Kindle Publishing. Yet again, this is giving Nigeria a bad name. This is why Amazon is banning lots of Nigerian accounts. Their actions are hurting the efforts of hardworking Nigerian authors who are publishing their books on Amazon and other platforms while following the right process.</p>
+<p>If you are teaching people courses online, learn what you are teaching very well and make sure you are teaching the right thing.</p>
+<p>Only your original content should be published on Amazon KDP. If there is any information in the book that you got from other sources, you must give them credit on the reference page.</p>
+<p>You can be sued in court for your actions. Be very careful and stop misusing other authors&#8217; copyrighted content.</p>
+<p>Write and publish your book while following the right process.</p>
+<p>The purpose of this article is to draw your attention to these mistakes, and avoid them! Amazon KDP is not a get-rick-quick scheme, and I strongly advise you to read the KDP publishing guidelines.</p>
+<p>Thanks for reading.</p>
+<hr />
+<ul>
+<li>📝 Original Post by Stanley Umezulike on Facebook: <a href="https://facebook.com/story.php?story_fbid=5448999495143996&amp;id=100001019971622&amp;_rdc=1&amp;_rdr" target="_blank" rel="nofollow noopener">Why Amazon is banning lots of Nigerian accounts on their platform </a></li>
+<li>📝 Contributing Writer: <a href="https://branditechture.agency/author/mercysaviour/" target="_blank" rel="noopener">Mercy Saviour</a></li>
+<li>📝 Editor: <a href="https://branditechture.agency/author/designops" target="_blank" rel="noopener">Yusuf Odukoya</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/heres-why-amazon-is-banning-lots-of-nigerian-accounts-on-their-kdp-platform/">Here&#8217;s Why Amazon Is Banning Lots Of Nigerian Accounts On Their KDP Platform</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/heres-why-amazon-is-banning-lots-of-nigerian-accounts-on-their-kdp-platform/feed/</wfw:commentRss>
+			<slash:comments>39</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

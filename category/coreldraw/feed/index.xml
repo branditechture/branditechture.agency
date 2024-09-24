@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CorelDRAW &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/coreldraw/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sat, 23 Jul 2022 22:09:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>CorelDRAW &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>I Finally Got A Workaround for CorelDRAW&#8217;s Most Famous SVG Bug</title>
+		<link>https://branditechture.agency/i-finally-got-a-workaround-for-coreldraws-most-famous-svg-bug/</link>
+					<comments>https://branditechture.agency/i-finally-got-a-workaround-for-coreldraws-most-famous-svg-bug/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:07 +0000</pubDate>
+				<category><![CDATA[CorelDRAW]]></category>
+		<category><![CDATA[coreldraw]]></category>
+		<category><![CDATA[fixed svg bug]]></category>
+		<category><![CDATA[svg in draw]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=14235</guid>
+
+					<description><![CDATA[<p>If you are a long-term CorelDRAW user, you may have encountered problems with importing some SVGs from the web. This bug makes some downloaded SVG get randomly warped or distorted after importing into CorelDRAW. This is a known SVG bug in CorelDRAW and has been around for a long time. The most frustrating part is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/i-finally-got-a-workaround-for-coreldraws-most-famous-svg-bug/">I Finally Got A Workaround for CorelDRAW&#8217;s Most Famous SVG Bug</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span>If you are a long-term CorelDRAW user, you may have encountered problems with importing some SVGs from the web. </span><span>This bug makes some downloaded SVG get randomly warped or distorted after importing into CorelDRAW. </span></p>
+<p><span> </span><span> </span><span> </span><span>This is a known SVG bug in CorelDRAW and has been around for a long time. The most frustrating part is that it occurs even in the latest versions, and no one in the CorelDRAW Community has been able to figure out a real solution to this problem.</span><span> </span></p>
+<div id="attachment_14237" style="width: 490px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-14237" class="size-full wp-image-14237" title="Eureka" src="https://branditechture.agency/wp-content/uploads/2021/12/Eureka.gif" alt="Eureka" width="480" height="418" /><p id="caption-attachment-14237" class="wp-caption-text">Eureka!!!</p></div>
+<p><span> </span><span><strong>&#8230;but I did!</strong> </span></p>
+<p><span> </span><span> </span><span>In this article, I am going to disclose a workaround for this bug, so make sure to read to the end.</span><span> </span></p>
+
+<h2>The Problem</h2>
+<p><em>First, for the sake of new CorelDRAW users who don&#8217;t quite understand the problem we are attempting to solve here, I&#8217;d like to reproduce the issue. </em></p>
+<p>The Arla DANO logo rendered below is an SVG File that displays correctly on the web browser. It also displays well in Inkscape and Adobe Illustrator.</p>
+<p><a href="https://branditechture.agency/wp-content/uploads/2021/12/Dano-Milk-Logo.svg"><img decoding="async" class="size-full wp-image-14239" title="Dano Milk Logo" src="https://branditechture.agency/wp-content/uploads/2021/12/Dano-Milk-Logo.svg" alt="Dano Milk Logo" width="1000" height="1000" /></a></p>
+<p>Now, here&#8217;s the problem: Importing it into CorelDRAW 2018 gives us what you see in the image below</p>
+<div id="attachment_14240" style="width: 1416px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-14240" class="size-full wp-image-14240" title="Distorted SVG After Importing to CorelDRAW" src="https://branditechture.agency/wp-content/uploads/2021/12/Distorted-SVG-After-Importing-to-CorelDRAW.png" alt="Distorted SVG After Importing to CorelDRAW" width="1406" height="1292" srcset="https://branditechture.agency/wp-content/uploads/2021/12/Distorted-SVG-After-Importing-to-CorelDRAW.png 1406w, https://branditechture.agency/wp-content/uploads/2021/12/Distorted-SVG-After-Importing-to-CorelDRAW-300x276.png 300w, https://branditechture.agency/wp-content/uploads/2021/12/Distorted-SVG-After-Importing-to-CorelDRAW-1024x941.png 1024w, https://branditechture.agency/wp-content/uploads/2021/12/Distorted-SVG-After-Importing-to-CorelDRAW-768x706.png 768w, https://branditechture.agency/wp-content/uploads/2021/12/Distorted-SVG-After-Importing-to-CorelDRAW-480x441.png 480w, https://branditechture.agency/wp-content/uploads/2021/12/Distorted-SVG-After-Importing-to-CorelDRAW-1320x1213.png 1320w" sizes="(max-width: 1406px) 100vw, 1406px" /><p id="caption-attachment-14240" class="wp-caption-text">Distorted SVG After Importing to CorelDRAW</p></div>
+<p>I am sure that&#8217;s not something any designer would want.</p>
+<h2>The Solution</h2>
+<p>There are two major solutions to this problem.</p>
+<h3>1. The Online Conversion Method (Recommended)</h3>
+<ol>
+<li>Go to <a class="extlink" href="https://cloudconvert.com/svg-to-pdf" target="_blank" rel="noopener">cloudconvert.com/svg-to-pdf</a></li>
+<li>Upload the affected SVG File and click <strong><span class="gt3_highlighter" style="background-color: #dd3333; color: #ffffff;"> Convert </span></strong></li>
+<li>Click <span class="gt3_highlighter" style="background-color: #2abf16; color: #ffffff;"><strong> Download </strong></span> to Download the PDF result</li>
+<li>Import the PDF to CorelDRAW</li>
+</ol>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-14238" title="Problem Solved" src="https://branditechture.agency/wp-content/uploads/2021/12/Problem-Solved.gif" alt="Problem Solved" width="480" height="270" /></p>
+<p>Problem solved!</p>
+<p>As you can see, the online method is quite time-saving. The PDF result also retains its vector properties prior to the conversion.</p>
+<p>Pretty simple and straightforward.</p>
+<h3>2. The Import-Export-Import Method</h3>
+<ol>
+<li>Open the affected SVG file with Inkscape or Adobe Illustrator</li>
+<li>Export it as an EPS or PDF file</li>
+<li>Import it into CorelDRAW</li>
+</ol>
+<p>As you might notice, this method can be very time-consuming. It is also not a feasible solution for people who do not have Adobe Illustrator or Inkscape installed. This is why I&#8217;d always recommend the Online Conversion Method above.</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/i-finally-got-a-workaround-for-coreldraws-most-famous-svg-bug/">I Finally Got A Workaround for CorelDRAW&#8217;s Most Famous SVG Bug</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/i-finally-got-a-workaround-for-coreldraws-most-famous-svg-bug/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

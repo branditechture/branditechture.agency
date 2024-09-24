@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Troubleshooting &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/troubleshooting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Fri, 21 Jul 2023 02:59:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>Troubleshooting &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Fix The &#8220;SMS Keeps Loading&#8221; Problem on The MTN MiFi</title>
+		<link>https://branditechture.agency/how-to-fix-the-sms-keeps-loading-problem-on-the-mtn-mifi/</link>
+					<comments>https://branditechture.agency/how-to-fix-the-sms-keeps-loading-problem-on-the-mtn-mifi/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:01 +0000</pubDate>
+				<category><![CDATA[Troubleshooting]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17174</guid>
+
+					<description><![CDATA[<p>The MTN MF927U  Broadband Mi-Fi  is definitely a great device for an RRP (Recommended Retail Price) of ₦8,000 NGN. However, hundreds of users have recently complained of a major bug with the SMS inbox feature. The SMS inbox screen just gets stuck in an endless loop that displays &#8220;waiting&#8221; and nothing else happens. You might [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-fix-the-sms-keeps-loading-problem-on-the-mtn-mifi/">How to Fix The &#8220;SMS Keeps Loading&#8221; Problem on The MTN MiFi</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The <a href="https://branditechture.agency/reviews/mtn-mifi-review/">MTN MF927U  Broadband Mi-Fi </a> is definitely a great device for an RRP (<em>Recommended Retail Price)</em> of ₦8,000 NGN. However, hundreds of users have recently complained of a major bug with the SMS inbox feature. The SMS inbox screen just gets stuck in an endless loop that displays<strong> &#8220;waiting&#8221;</strong> and nothing else happens. You might find this really frustrating and annoying at the same time. Even the MTN Support Dept. have NOT been able to suggest a solution to this <em><strong>endless SMS loading</strong> </em>problem as of the time of writing this.</p>
+<div id="attachment_17188" style="width: 1376px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-17188" class="wp-image-17188 size-full" title="The MTN MiFi Waiting Loop" src="https://branditechture.agency/wp-content/uploads/2022/07/MTN-MiFi-Stuck-at-Waiting.png" alt="MTN MiFi Stuck at Waiting" width="1366" height="768" srcset="https://branditechture.agency/wp-content/uploads/2022/07/MTN-MiFi-Stuck-at-Waiting.png 1366w, https://branditechture.agency/wp-content/uploads/2022/07/MTN-MiFi-Stuck-at-Waiting-300x169.png 300w, https://branditechture.agency/wp-content/uploads/2022/07/MTN-MiFi-Stuck-at-Waiting-1024x576.png 1024w, https://branditechture.agency/wp-content/uploads/2022/07/MTN-MiFi-Stuck-at-Waiting-768x432.png 768w, https://branditechture.agency/wp-content/uploads/2022/07/MTN-MiFi-Stuck-at-Waiting-480x270.png 480w, https://branditechture.agency/wp-content/uploads/2022/07/MTN-MiFi-Stuck-at-Waiting-1320x742.png 1320w" sizes="(max-width: 1366px) 100vw, 1366px" /><p id="caption-attachment-17188" class="wp-caption-text">Can&#8217;t access SMS, spinner keeps loading, stuck on &#8220;waiting&#8221; message.</p></div>
+<p>Luckily, we have finally discovered a procedure that helps you fix this problem.</p>
+<h3>Here&#8217;s How to Fix The MTN MiFi SMS Loading Problem</h3>
+<div id="attachment_17186" style="width: 910px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-17186" class="size-full wp-image-17186" title="The ZTE Link App" src="https://branditechture.agency/wp-content/uploads/2022/07/The-ZTE-Link-App.jpg" alt="The ZTE Link App" width="900" height="1798" srcset="https://branditechture.agency/wp-content/uploads/2022/07/The-ZTE-Link-App.jpg 900w, https://branditechture.agency/wp-content/uploads/2022/07/The-ZTE-Link-App-150x300.jpg 150w, https://branditechture.agency/wp-content/uploads/2022/07/The-ZTE-Link-App-513x1024.jpg 513w, https://branditechture.agency/wp-content/uploads/2022/07/The-ZTE-Link-App-768x1534.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/07/The-ZTE-Link-App-769x1536.jpg 769w, https://branditechture.agency/wp-content/uploads/2022/07/The-ZTE-Link-App-480x959.jpg 480w" sizes="(max-width: 900px) 100vw, 900px" /><p id="caption-attachment-17186" class="wp-caption-text">The ZTE Link App</p></div>
+<p><strong>BEFORE YOU BEGIN</strong></p>
+<ul>
+<li>Make sure that you have connected the Android device to your MTN MiFi.</li>
+<li>Make sure that your MiFi is one of those models made by ZTE, else, the app won&#8217;t be compatible with it. This app works with only MTN MiFi models manufactured by ZTE, not ZLT.</li>
+<li>The iPhone version of this app is useless but you may try your luck. I recommend borrowing a friend&#8217;s Android device if you don&#8217;t have one, but remember to remove your WiFi from their phone when done, else, they may keep using your MiFi hotspot when you give them the phone without your knowledge.</li>
+</ul>
+<h3><strong>Now let&#8217;s start!</strong></h3>
+<pre><strong>💡TIP: For now, I recommend downloading the old version of this app <a href="https://github.com/branditechture/files/raw/main/ZTELink_V3.2.0_%20Branditechture.apk" target="_blank" rel="noopener">HERE:</a><a href="https://github.com/branditechture/files/raw/main/ZTELink_V3.2.0_%20Branditechture.apk" target="_blank" rel="noopener"> ZTELink_V3.2.0_ Branditechture.apk</a> (Android Only). My readers said that the interface and process of the new version are different from the screenshot shown above.</strong></pre>
+<p><strong>STEP 1: </strong>Download<a href="https://apps.apple.com/app/id1001023964" target="_blank" rel="noopener"><strong> ZTE Link Lite</strong></a> (on the Apple App Store) or <a href="https://play.google.com/store/apps/details?id=com.zte.android.ztelink&amp;hl=en&amp;gl=US" target="_blank" rel="noopener"> <strong>ZTE Link </strong></a> (on the Android Play Store.).</p>
+<p><strong>STEP 2: </strong> Open the app and keep swiping to skip all the intro screens. Next, grant all permission requests.</p>
+<p><strong>STEP 3: </strong>Ensure you are connected to the affected MTN MiFi. Then tap the menu icon on the top-left <em>&#8220;</em><strong>☰</strong><em>&#8220;, </em>then click <strong>Login. </strong>(Default password is &#8220;<strong>admin</strong>&#8220;)</p>
+<p><strong>STEP 4: </strong>Now click on &#8220;<em>Commons</em>&#8221; then tap SMS</p>
+<p><img decoding="async" class="wp-image-17187 size-large" title="SMS" src="https://branditechture.agency/wp-content/uploads/2022/07/SMS-1024x801.jpg" alt="SMS" width="940" height="735" srcset="https://branditechture.agency/wp-content/uploads/2022/07/SMS-1024x801.jpg 1024w, https://branditechture.agency/wp-content/uploads/2022/07/SMS-300x235.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/07/SMS-768x601.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/07/SMS-480x376.jpg 480w, https://branditechture.agency/wp-content/uploads/2022/07/SMS-1320x1033.jpg 1320w, https://branditechture.agency/wp-content/uploads/2022/07/SMS.jpg 1439w" sizes="(max-width: 940px) 100vw, 940px" /></p>
+<p><strong>STEP 5: </strong>Select ALL the messages and delete them. You may notice some new messages. Select them and delete them too.</p>
+<p>If you follow all the steps above, you should now be able to <a href="https://branditechture.agency/how-tos/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/">access your SMS on the browser</a>.</p>
+<pre><strong>💡 TIP:</strong> This MTN MiFi SMS problem occurs when your SMS storage is too full, so I would suggest that you keep your messages cleaned up once in a while to avoid a reccurence.</pre>
+<p>If this post solved your problem, please share with others as it would be useful to them, too.</p>
+<p>Thanks for reading!</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-fix-the-sms-keeps-loading-problem-on-the-mtn-mifi/">How to Fix The &#8220;SMS Keeps Loading&#8221; Problem on The MTN MiFi</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-fix-the-sms-keeps-loading-problem-on-the-mtn-mifi/feed/</wfw:commentRss>
+			<slash:comments>149</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

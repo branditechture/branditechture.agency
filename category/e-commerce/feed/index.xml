@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>E-Commerce &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/e-commerce/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Thu, 28 Jul 2022 05:45:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>E-Commerce &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Is WooCommerce as good as Shopify?</title>
+		<link>https://branditechture.agency/is-woocommerce-as-good-as-shopify/</link>
+					<comments>https://branditechture.agency/is-woocommerce-as-good-as-shopify/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Thu, 28 Jul 2022 05:45:51 +0000</pubDate>
+				<category><![CDATA[E-Commerce]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=13284</guid>
+
+					<description><![CDATA[<p>So, you are finally ready to create your own online store and it is time to make a choice that will shape your online business: your e-commerce solution. There are dozens of other solutions on the market, but WooCommerce and Shopify are by far the most popular e-commerce platforms. Each of these two solutions has [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/is-woocommerce-as-good-as-shopify/">Is WooCommerce as good as Shopify?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>So, you are finally ready to create your own online store and it is time to make a choice that will shape your online business: your e-commerce solution.</p>
+<p>There are dozens of other solutions on the market, but <strong>WooCommerce </strong>and <strong>Shopify </strong>are by far the most popular e-commerce platforms. Each of these two solutions has its advantages and disadvantages.<br />
+
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-13291" title="Shopify vs WooCommerce min" src="https://branditechture.agency/wp-content/uploads/2021/10/Shopify-vs-WooCommerce-min.png" alt="Shopify vs WooCommerce min" width="1027" height="686" srcset="https://branditechture.agency/wp-content/uploads/2021/10/Shopify-vs-WooCommerce-min.png 1027w, https://branditechture.agency/wp-content/uploads/2021/10/Shopify-vs-WooCommerce-min-300x200.png 300w, https://branditechture.agency/wp-content/uploads/2021/10/Shopify-vs-WooCommerce-min-1024x684.png 1024w, https://branditechture.agency/wp-content/uploads/2021/10/Shopify-vs-WooCommerce-min-768x513.png 768w, https://branditechture.agency/wp-content/uploads/2021/10/Shopify-vs-WooCommerce-min-480x321.png 480w" sizes="(max-width: 1027px) 100vw, 1027px" /></p>
+<p>Here are a few key differences ;</p>
+<ul>
+<li>Shopify is a lot more expensive to run than WooCommerce due to its monthly <strong>subscription fee </strong>which starts from $29 &#8211; 299$ per month while WooCommerce is free to use.</li>
+<li>If you choose Shopify, your website would be hosted on Shopify servers. And as a matter of fact, you don’t have much control over the management of your files. If Shopify terminates or closes your account, then you will lose access to all your website and its content altogether.</li>
+<li>With WooCommerce, you have the freedom to periodically backup your entire website and archive it offline, but you can’t do that with Shopify.</li>
+<li>With WooCommerce, you can create unlimited business email addresses through cPanel, but Shopify does not provide email hosting, so you can&#8217;t create business email accounts such as <strong>info@business.com</strong> inside of Shopify.</li>
+</ul>
+<pre>We usually recommend WooCommerce to small and early-stage businesses because no monthly subscription is required to keep a WooCommerce store running.</pre>
+<p><b><i>Continue reading to learn more about Shopify and WooCommerce</i></b></p>
+
+<h2>What is WooCommerce?</h2>
+<p>WooCommerce was launched in 2011 as a <a href="https://support.branditechture.agency/docs/how-to-install-a-plugin-in-wordpress/" target="_blank" rel="noopener">WordPress plugin.</a> The success of this plugin and its platform (WordPress) has multiplied exponentially since its launch; making it <strong>the most widely used e-commerce platform in the world.</strong></p>
+<h2>What is Shopify?</h2>
+<p>Unlike WordPress, Shopify is a <strong>subscription-based</strong> Software-As-a-Service e-commerce solution. You don&#8217;t need to purchase a web hosting plan, to use Shopify but you&#8217;ll need to pay a monthly subscription fee, which ranges from $29 USD/mo to $299 USD per month in order to keep your online store running and accessible.</p>
+<table>
+<thead>
+<tr>
+<th>Features</th>
+<th>WooCommerce</th>
+<th>Shopify</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Themes</td>
+<td>Thousands of free<br />
+and premium themes</td>
+<td>Thousands of free<br />
+and premium themes</td>
+</tr>
+<tr>
+<td>Pricing</td>
+<td>$0 USD per year</td>
+<td>348 USD &#8211; 3588 USD<br />
+per year</td>
+</tr>
+<tr>
+<td>Blog</td>
+<td>Fully developed<br />
+blogging system</td>
+<td>Bare blogging engine,<br />
+lacking some features.</td>
+</tr>
+<tr>
+<td>Support</td>
+<td>Active Community,<br />
+Blogs, and<br />
+Documentations.</td>
+<td>Active community,<br />
+Blog, 24/7 support<br />
+via email and phone.</td>
+</tr>
+<tr>
+<td>Code</td>
+<td>Open-source</td>
+<td>Closed-source</td>
+</tr>
+<tr>
+<td>Customizations</td>
+<td>Unlimited</td>
+<td>Very Limited</td>
+</tr>
+<tr>
+<td>Offline<br />
+Backups</td>
+<td>Supported</td>
+<td>Not supported</td>
+</tr>
+<tr>
+<td>File<br />
+Storage</td>
+<td>Depends on your<br />
+Web Hosting Plan</td>
+<td>Unlimited Storage</td>
+</tr>
+<tr>
+<td>Bandwidth</td>
+<td>Depends on your<br />
+hosting plan</td>
+<td>Unlimited</td>
+</tr>
+<tr>
+<td>Custom Email<br />
+Hosting</td>
+<td>Available free via<br />
+cPanel Webmail</td>
+<td>Not Available on<br />
+Shopify</td>
+</tr>
+<tr>
+<td>Payment<br />
+Gateways</td>
+<td>Supported</td>
+<td>Supported</td>
+</tr>
+<tr>
+<td>Inventory<br />
+Management</td>
+<td>Available</td>
+<td>Available</td>
+</tr>
+<tr>
+<td>Discount<br />
+Coupons</td>
+<td>Available</td>
+<td>Available</td>
+</tr>
+</tbody>
+</table>
+<p>To some people, it just makes sense to say that <strong>Shopify is the &#8220;iPhone of e-commerce&#8221;</strong> while <strong>WooCommerce is the &#8220;Android&#8221;.</strong></p>
+<h3>The price</h3>
+<p>For many people, price forms a critical aspect of their decision. You might be right to think at first glance that WooCommerce is cheaper than Shopify since it&#8217;s totally free to plug into any WordPress-based website, but the situation is more complex than it seems; There are very rare cases where one would end up spending more on purchasing premium WooCommerce extensions and WordPress Plugins.</p>
+<p>Generally speaking, WordPress has more free plugin options than Shopify &#8220;Apps&#8221;. This means it is easier to save a lot of money by just using WooCommerce.</p>
+<p><a href="https://branditechture.agency/e-commerce-for-small-businesses/"><img decoding="async" class="aligncenter wp-image-13289 size-full" title="Launch your ecommerce store min" src="https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min.png" alt="Launch your ecommerce store min" width="1985" height="846" srcset="https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min.png 1985w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-300x128.png 300w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-1024x436.png 1024w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-768x327.png 768w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-1536x655.png 1536w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-480x205.png 480w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-1320x563.png 1320w" sizes="(max-width: 1985px) 100vw, 1985px" /></a></p>
+<h2>Pros and Cons of WooCommerce</h2>
+<p><strong>Advantages</strong></p>
+<ol>
+<li>Unlimited Admin and Shop Manager accounts.</li>
+<li>Creation of a blog within the e-commerce site which will be very complete and very well referenced.</li>
+<li>Free during installation, no license to pay.</li>
+<li>Integration with many other services such as Zapier, Mailchimp, Sendgrid, etc, using plugins like Uncanny Automator, AutomatorWP, WPForms, e.t.c.</li>
+<li>Thousands of free and premium plugins are available on the Internet.</li>
+<li>Hundreds of thousands of free and premium themes to choose from.</li>
+<li>Fully customizable with computer skills.</li>
+<li>Unlimited number of variations per product.</li>
+</ol>
+<p><strong>Disadvantages</strong></p>
+<ol>
+<li>You must manage the technical side of your e-commerce site yourself, but not to worry, <a href="https://branditechture.agency/website-maintenance-plans/">We will help you</a> handle that for a very small<a href="https://branditechture.agency/website-maintenance-plans/"> monthly fee.</a></li>
+<li>You can easily get overwhelmed with WooCommerce&#8217;s features. So, guidance or onboarding is usually needed for first-time store owners.</li>
+<li>You need to get a suitable web hosting plan yourself or have someone do it for you.</li>
+<li>It is up to you to update your site and all these plugins. If you don&#8217;t, you risk ending up with a hacked website.</li>
+<li>No dedicated support, but there is a strong community.</li>
+<li>For a basic site, you won&#8217;t need any technical skills but If you want to make upgrades to your e-commerce site, then you might have to hire a WordPress expert to help you.</li>
+<li>Inventory management is not as intuitive.</li>
+<li>The WooCommerce plugin is not 100% compatible with some WordPress themes.</li>
+<li>Customizing WooCommerce requires coding skills.</li>
+</ol>
+<p>Luckily, all the disadvantages mentioned above should not even pose a problem to you. We have fixed <a href="https://branditechture.agency/website-maintenance-plans/">website maintenance plans</a> that would help you focus on making sales on your online store while we handle the technical side.</p>
+<h2>Pros and Cons of Shopify</h2>
+<p><strong>Advantages</strong></p>
+<ol>
+<li>Menus and navigation are intuitive so Shopify is easier to use.</li>
+<li>Hundreds of templates and apps (Shopify&#8217;s word for &#8220;Plugins&#8221; is Apps.)</li>
+<li>Integration with many services.</li>
+<li>Dedicated support from Shopify staff.</li>
+<li>Setup is easy and beginner-friendly.</li>
+<li>You won&#8217;t need to purchase hosting and SSL separately.</li>
+<li>Supports multiple languages out of the box.</li>
+</ol>
+<p><strong>Disadvantages</strong></p>
+<p>Most of the good themes and apps are paid.</p>
+<p>You&#8217;ll be frustrated to find out that the majority of the paid apps do not offer one-time purchases; they are subscription-based.</p>
+<p>Shopify itself requires a monthly subscription fee.</p>
+<p>The blogging system is not well developed.</p>
+<p><a href="https://branditechture.agency/e-commerce-for-small-businesses/"><img decoding="async" class="aligncenter wp-image-13289 size-full" title="Launch your ecommerce store min" src="https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min.png" alt="Launch your ecommerce store min" width="1985" height="846" srcset="https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min.png 1985w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-300x128.png 300w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-1024x436.png 1024w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-768x327.png 768w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-1536x655.png 1536w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-480x205.png 480w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-1320x563.png 1320w" sizes="(max-width: 1985px) 100vw, 1985px" /></a></p>
+<h2>WooCommerce or Shopify, which one to choose for a start?</h2>
+<p>In my opinion, most of the reviews and comparisons you&#8217;ll find online may be influenced by <a class="extlink" href="https://www.shopify.com/affiliates" target="_blank" rel="nofollow noopener">Shopify&#8217;s Affiliate Program</a> because the reviewer gets a commission when you purchase Shopify Subscriptions via their links. WooCommerce on the other hand does not have an affiliate program, so there is no monetary gain for preaching WooCommerce.</p>
+<p>Shopify&#8217;s ease of use will allow you to configure your first store very quickly without any particular web design skills.<br />
+But if you have some web design skills and time to spare, you can customize your Shopify store to align with your branding, but you can&#8217;t get as much control as you would get with WooCommerce.</p>
+<p>If you want 100% control of your entire e-commerce store, then WooCommerce is your best best.</p>
+
+<h2>Conclusion</h2>
+<p>Shopify and WooCommerce are both great e-commerce solutions with their pros and cons. As previously written, I personally recommend WooCommerce, which we use for most of our e-commerce website projects.</p>
+<p>If you don&#8217;t care about customizations and advanced blogging features then Shopify might work well for you.</p>
+<p>Shopify beats WooCommerce in the aspect of checking out and order fulfilment, but WooCommerce has plugins like Cartflows that can compete on the same level as Shopify&#8217;s checkout process.</p>
+<p>Either way, whether you choose Shopify or WooCommerce, just <a href="https://branditechture.agency/e-commerce-for-small-businesses/">get started!</a> Don&#8217;t wait any longer to <a href="https://branditechture.agency/e-commerce-for-small-businesses/">open your store</a> and start generating your first income.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/is-woocommerce-as-good-as-shopify/">Is WooCommerce as good as Shopify?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/is-woocommerce-as-good-as-shopify/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 5 PHP-based Ecommerce Solutions That Can Meet Your Business Needs</title>
+		<link>https://branditechture.agency/top-5-php-based-ecommerce-solutions-that-can-meet-your-business-needs/</link>
+					<comments>https://branditechture.agency/top-5-php-based-ecommerce-solutions-that-can-meet-your-business-needs/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:19 +0000</pubDate>
+				<category><![CDATA[E-Commerce]]></category>
+		<category><![CDATA[ecommerce platforms]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=14793</guid>
+
+					<description><![CDATA[<p>With a market share of 80%, PHP remains the most widely-used website programming language today, according to Wappalyzer. Even in 2022, millions of websites and web applications are still being built from it. This wonderful server-side scripting language has long been used in various difficult and time-consuming projects, such as the development of eCommerce platforms. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/top-5-php-based-ecommerce-solutions-that-can-meet-your-business-needs/">Top 5 PHP-based Ecommerce Solutions That Can Meet Your Business Needs</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>With a market share of 80%, PHP remains the most widely-used website programming language today, according to <a href="https://www.wappalyzer.com/technologies/programming-languages" target="_blank" rel="nofollow noopener">Wappalyzer</a>. Even in 2022, millions of websites and web applications are still being built from it. This wonderful server-side scripting language has long been used in various difficult and time-consuming projects, such as the development of eCommerce platforms. WordPress, which powers the most popular e-commerce solution in the world, WooCommerce, could not have existed without PHP.</p>
+<p>PHP-based CMS platforms like WordPress are in many ways superior to their alternatives because they allow for the quick and easy development and deployment of highly-customized storefronts.</p>
+<p>It can be difficult to choose the finest of all the possibilities when there are so many, but to make things easier for you, we&#8217;ve compared and chosen the top PHP-based eCommerce platforms. Here&#8217;s what we think:</p>
+<h2>1. WooCommmerce</h2>
+<p>WooCommerce is a PHP-powered e-commerce software available as a free plugin for WordPress. It is the perfect option if you want a store that&#8217;s simple to set up and customize.</p>
+<p>It can be used to convert your existing WordPress site into an online shopping portal. WooCommerce makes custom e-shop building easier by providing a variety of themes, plugins, and extensions, which can all be used to improve your store&#8217;s appearance and extend its functionality.</p>
+<p>WooCommerce tops our list because it is the most popular e-commerce platform by market share, according to <a href="https://BuiltWith.com/" target="_blank" rel="nofollow noopener">BuiltWith.com</a></p>
+<blockquote class="wp-embedded-content" data-secret="2hhm15n8DB"><p><a href="https://branditechture.agency/e-commerce-for-small-businesses/">E-Commerce Websites For Small Businesses</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;E-Commerce Websites For Small Businesses&#8221; &#8212; Branditechture" src="https://branditechture.agency/e-commerce-for-small-businesses/embed/#?secret=boYEEq4B8l#?secret=2hhm15n8DB" data-secret="2hhm15n8DB" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Popular websites like sewing machine maker, Singer, use WooCommerce.</p>
+<p>Visit our <a href="https://branditechture.agency/web-design-portfolio/">Website Design Portfolio</a> page to view a list of websites we have built for various small businesses using WooCommerce.</p>
+<h2>2. Magento</h2>
+<p>Magento firmly holds the second position on our list because of its extensive functionality, versatility, and scalability.</p>
+<p>The platform is used by some of the world&#8217;s most well-known stores and is without a doubt the greatest option for mid-to-large-scale retailer store development.</p>
+<p>Depending on their needs, retailers can choose from community, enterprise, or enterprise cloud editions.</p>
+<p>Back in 2017, the Magento e-commerce platform had the second greatest market share, accounting for 9% of the worldwide e-commerce market. In 2018, however, the tables were turned as Shopify overtook it.</p>
+<p>In 2022, Shopify will have thrice the adoption rate of Magento, indicating that the gap will widen further.</p>
+<p>For easier functionality and navigation, many Magento users switched to Shopify. Magento, on the other hand, provides customisation that Shopify does not, which is why it has been able to retain its technically savvy customer base.</p>
+<p>Magento includes a variety of analytics, monitoring, and conversion optimization capabilities. Both the OOP and MVC architecture are supported by Magento, which is wonderful for web developers albeit less exciting to non-technical users.</p>
+<p>To conclude, it may be difficult for users who lack the technical expertise required to customize Magento and properly scale their e-commerce stores. However, if you have the necessary technical skills, Magento can be a fantastic online store platform for your company.</p>
+<p>Smile 4G&#8217;s Xpress Recharge portal is an example of an online commerce website built using Magento.</p>
+<div id="attachment_14809" style="width: 2718px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-14809" class="size-full wp-image-14809" title="Smile G Xpress Recharge Portal" src="https://branditechture.agency/wp-content/uploads/2022/01/Smile-4G-Xpress-Recharge-Portal.png" alt="Smile G Xpress Recharge Portal" width="2708" height="1508" srcset="https://branditechture.agency/wp-content/uploads/2022/01/Smile-4G-Xpress-Recharge-Portal.png 2708w, https://branditechture.agency/wp-content/uploads/2022/01/Smile-4G-Xpress-Recharge-Portal-300x167.png 300w, https://branditechture.agency/wp-content/uploads/2022/01/Smile-4G-Xpress-Recharge-Portal-1024x570.png 1024w, https://branditechture.agency/wp-content/uploads/2022/01/Smile-4G-Xpress-Recharge-Portal-768x428.png 768w, https://branditechture.agency/wp-content/uploads/2022/01/Smile-4G-Xpress-Recharge-Portal-1536x855.png 1536w, https://branditechture.agency/wp-content/uploads/2022/01/Smile-4G-Xpress-Recharge-Portal-480x267.png 480w, https://branditechture.agency/wp-content/uploads/2022/01/Smile-4G-Xpress-Recharge-Portal-1320x735.png 1320w" sizes="(max-width: 2708px) 100vw, 2708px" /><p id="caption-attachment-14809" class="wp-caption-text">Smile 4G Xpress Recharge Portal &#8211; Built using Magento</p></div>
+<h2>3. ZenCart</h2>
+<p><img loading="lazy" decoding="async" class="alignleft wp-image-14810 size-medium" title="zencartlogo" src="https://branditechture.agency/wp-content/uploads/2022/01/zencartlogo-300x225.png" alt="zencartlogo" width="300" height="225" srcset="https://branditechture.agency/wp-content/uploads/2022/01/zencartlogo-300x225.png 300w, https://branditechture.agency/wp-content/uploads/2022/01/zencartlogo.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Zen Cart used to be a part of OSCommerce, but when Zen Cart decided to make some significant architectural modifications to the software, the two firms finally split in 2003.</p>
+<p>The majority of ZenCart&#8217;s development is now being done by volunteers who are committed to the project&#8217;s long-term success.</p>
+<p>ZenCart has a variety of features that enable you to create a personalized store in a short amount of time.</p>
+<p>ZenCart is the ideal development platform for businesses wishing to cater to a global audience, as it supports numerous languages, currencies, checkouts, and shipping options out of the box.</p>
+<p>There are also a number of themes and plug-ins available to customize the design to suit your needs.</p>
+<p>Zen Cart is open-source software that is free to use. It&#8217;s GPL2-licensed, which means you can change the source code in any way your application requires.</p>
+<h2>4. PrestaShop</h2>
+<p>PrestaShop is mobile-friendly right out of the box, and it includes support for over 60 languages, as well as professional-grade eCommerce templates and modules, making it a highly versatile platform for the creation of large-scale stores.</p>
+<p>A few modules and templates, however, are chargeable, so consumers will have to invest extra money to improve the store&#8217;s appearance and functionality.</p>
+<h2>5. OSCommerce</h2>
+<p>OSCommerce stands out among other eCommerce systems because of the large developer community that backs it up.</p>
+<p>Users of this platform can benefit from a large number of resources available to add functionality to their site: ranging from free add-ons to themes. It also includes a PHP and MySQL-based shopping cart that allows for unlimited expansion and numerous currencies, among other features.</p>
+<h2>Our Recommendation</h2>
+<p>Shopify didn&#8217;t make this list because it is largely based on the Ruby programming language. Although Shopify uses a templating language called <em><strong>Liquid,</strong></em> which is a PHP port of the Liquid template engine for Ruby.</p>
+<p>We almost always recommend WooCommerce to small businesses because it is free and easy to set up and customize.</p>
+<p>For a more detailed write-up on how WooCommerce compares to Shopify and why we always recommend WooCommerce to small businesses, read the recommended article below;</p>
+<blockquote class="wp-embedded-content" data-secret="YH0tPweFkx"><p><a href="https://branditechture.agency/is-woocommerce-as-good-as-shopify/">Is WooCommerce as good as Shopify?</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Is WooCommerce as good as Shopify?&#8221; &#8212; Branditechture" src="https://branditechture.agency/is-woocommerce-as-good-as-shopify/embed/#?secret=z9YJIsY2ir#?secret=YH0tPweFkx" data-secret="YH0tPweFkx" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/top-5-php-based-ecommerce-solutions-that-can-meet-your-business-needs/">Top 5 PHP-based Ecommerce Solutions That Can Meet Your Business Needs</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/top-5-php-based-ecommerce-solutions-that-can-meet-your-business-needs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Selar.co Review &#8211; Everything You Need to Know Before Selling on Selar</title>
+		<link>https://branditechture.agency/selar-co-review-everything-you-need-to-know-before-selling-on-selar/</link>
+					<comments>https://branditechture.agency/selar-co-review-everything-you-need-to-know-before-selling-on-selar/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:18 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[E-Commerce]]></category>
+		<category><![CDATA[ecommerce]]></category>
+		<category><![CDATA[selar]]></category>
+		<category><![CDATA[selar.co]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=14750</guid>
+
+					<description><![CDATA[<p>In this article, I&#8217;m going to do a full review of Selar, a really cool e-commerce platform that is poised to change the e-commerce landscape in Nigeria. Selar helps you to sell courses, products, services, and just about anything you can think of. Selar is loaded with tons of other cool features which we&#8217;re also [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/selar-co-review-everything-you-need-to-know-before-selling-on-selar/">Selar.co Review &#8211; Everything You Need to Know Before Selling on Selar</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In this article, I&#8217;m going to do a full review of <a href="https://selar.co/referral/YUSUFODUKOYA" target="_blank" rel="nofollow noopener">Selar</a>, a really cool e-commerce platform that is poised to change the e-commerce landscape in Nigeria. Selar helps you to sell courses, products, services, and just about anything you can think of. Selar is loaded with tons of other cool features which we&#8217;re also going to cover in this review.</p>
+<p><em><strong>PLEASE NOTE:</strong> This is an unbiased review of <a href="https://selar.co/referral/YUSUFODUKOYA" target="_blank" rel="nofollow noopener">Selar.co.</a> I am not an employee of Selar.co, but I would get a commission if you register through my link. Using my link to register on Selar is totally optional.</em></p>
+<p>I&#8217;ve actually started using <a href="https://selar.co/referral/YUSUFODUKOYA" target="_blank" rel="nofollow noopener">Selar</a> for about a couple of weeks now and I have already processed a couple of transactions seamlessly in different currencies.</p>
+<p>Hello, my name is Yusuf Odukoya, the founder of <a href="https://branditechture.agency/"><b>Branditechture Design Agency</b></a> and the author of one of the best and most detailed WordPress and Elementor Courses in the world. (You can actually get the course on Selar by clicking <a href="https://selar.co/wgcx" target="_blank" rel="nofollow noopener"><b>HERE</b></a>)</p>
+<p>I&#8217;m super excited to write this review as I walk you through the <a href="https://selar.co/referral/YUSUFODUKOYA" target="_blank" rel="nofollow noopener">Selar platform</a>, which I have been using for a couple of weeks now. Selar is just super amazing: You would be able to receive money in different currencies, thereby effectively circumventing the challenges of receiving cross-border payments — A challenge that has plagued the monetization efforts of Nigerian creators for many years.</p>
+<p>The best part is you don&#8217;t even need a website to start making sales and receiving payments online. In this review, I&#8217;m going to show you a super cool trick where you will be able to install your Facebook Pixel on Selar. Facebook Pixel helps you create <a href="https://ads.google.com/intl/en_uk/home/resources/retargeting-ads" target="_blank" rel="nofollow noopener">retargeting ads</a>. This is completely a game-changer!</p>
+<p>So, let&#8217;s get started. First, let&#8217;s talk about the basic features of Selar, just to show you how it works before getting into the backend. I&#8217;m actually going to be very detailed so that you can follow through when you&#8217;re setting up your Selar accounts for optimum use.</p>
+<h2>So how does Selar work?</h2>
+<ol>
+<li>You create a free account</li>
+<li>You will log in and add your bank details</li>
+<li>Upload your products</li>
+<li>Get your unique product URL or link.</li>
+</ol>
+<p>You can either share your unique product link on social media, embed it as a CTA link on your website, or send it directly to a potential buyer.</p>
+<p>It is super duper simple to set up. I literally got started and uploaded my first content within 8 minutes. No unnecessary delays or stressful KYC verification.</p>
+<h3>You may like to read this👇🏽</h3>
+<p>https://branditechture.agency/affiliate-marketing/how-the-selar-affiliate-network-works/</p>
+<h2>Features of Selar.co</h2>
+<p>So, let&#8217;s just take a deeper look at some of the features of the <a href="https://selar.co/referral/YUSUFODUKOYA" target="_blank" rel="nofollow noopener">Selar</a> platform;</p>
+<h3>1. Multi-Currency support</h3>
+<p>Whether your buyers or subscribers are paying in Naira, Cedis, Pounds Sterling or USD, Selar is there to help you with all the conversion while you get settled in your local currency the next day.</p>
+<p>Supported payment gateways include but are not limited to Stripe, Mpesa, MTN MoMo, Airtel Mobile Money, Tigo, PayPal, Mastercard, VISA, American Express and Verve, amongst others.</p>
+<p>The system automatically detects the IP Address of your potential buyers/subscribers and set the default currency of their country to match that of your sales page, although, it could be manually changed by the user.</p>
+<p>Their payment gateway is so robust that it supports some relatively lesser-known currencies such as Ugandan Shilling and Rwandan Franc.</p>
+<p>This is actually a significant paradigm shift, especially to the average Nigerian seller living in Nigeria. With Selar, we&#8217;ve actually been able to receive a payment from the US through Stripe, which is usually only available to people in the US, UK and other countries like that. Amazing!</p>
+<h3>2. Seamless integration with your favourite CRM and Analytics tools</h3>
+<p>With Selar, you also have the option to integrate your landing pages with a newsletter platform like MailChimp. That means you can simultaneously build a mailing list while you sell your products. All these are possible out of the box and does not require that you upgrade to the pro plan.</p>
+<p>You can also add a <a class="extlink" href="https://www.semrush.com/blog/google-analytics-tracking-id/" target="_blank" rel="nofollow noopener">Google Analytics tracking</a> code to monitor user activities on your product sales pages.</p>
+<p><a class="extlink" href="https://facebook.com/business/help/742478679120153" target="_blank" rel="nofollow noopener">Facebook Pixel</a> integration is also available in the free plan.</p>
+<p>All these tools are knitted together by Selar to help you reach more potential buyers.</p>
+<h3>3. Inbuilt Affiliate Marketing Engine</h3>
+<div id="attachment_14773" style="width: 2560px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-14773" class="size-full wp-image-14773" title="Affiliate List" src="https://branditechture.agency/wp-content/uploads/2022/01/Affiliate-List.png" alt="Affiliate List" width="2550" height="870" srcset="https://branditechture.agency/wp-content/uploads/2022/01/Affiliate-List.png 2550w, https://branditechture.agency/wp-content/uploads/2022/01/Affiliate-List-300x102.png 300w, https://branditechture.agency/wp-content/uploads/2022/01/Affiliate-List-1024x349.png 1024w, https://branditechture.agency/wp-content/uploads/2022/01/Affiliate-List-768x262.png 768w, https://branditechture.agency/wp-content/uploads/2022/01/Affiliate-List-1536x524.png 1536w, https://branditechture.agency/wp-content/uploads/2022/01/Affiliate-List-480x164.png 480w, https://branditechture.agency/wp-content/uploads/2022/01/Affiliate-List-1320x450.png 1320w" sizes="(max-width: 2550px) 100vw, 2550px" /><p id="caption-attachment-14773" class="wp-caption-text">To add an affiliate from your Selar dashboard, click the dashboard menu and click <strong>Affiliates, </strong>then click <strong>Add an Affiliate.</strong></p></div>
+<p>This is my best feature. The affiliate marketing feature is a super important tool because I was actually able to get people to sell my products for a defined commission (in percentage). The good part is that no manual intervention is needed. You can just set and forget it.</p>
+<p>The unique feature is that you can set the percentage you want per affiliate; In other words, you can decide to give Mr. John 20% per sale, and Mr. Jack 35% per sale. This comes in handy during the negotiation process with each marketer where each affiliate marketer may demand different commission rates before they can agree to help you market your product in front of their followers.</p>
+<h3>4. Subscriptions</h3>
+<p>Selar also has other options like subscriptions, I personally love subscriptions because it means you can automate your recurrent billing process. So for example, we have <a href="https://branditechture.agency/website-maintenance-plans/">website maintenance plan</a>s billed monthly where we charge subscribers a certain monthly fee to help manage their websites. With this, you won&#8217;t have to go about reminding people to come and make their monthly payments, it&#8217;s automated.</p>
+<h3>5. Inbuilt analytics</h3>
+<p>You have analytics there in your Selar dashboard, you can check out how well your store is doing. You can see your sales are performing, you can see people abandoned carts (or transactions).</p>
+<h3>6. Abandoned cart emails (or Cart recovery emails)</h3>
+<p>Selar also has abandoned cart emails to notify a buyer of an abandoned transaction. Abandoned carts can occur either due to card being declined, network outage, or pure distraction. So if a person tries to make a purchase and doesn&#8217;t complete it, the person is actually going to get a follow-up email some minutes later, which may help you recover the sale.</p>
+<h3>7. Coupons (Discount Codes)</h3>
+<p>Selar allows you to set discount codes otherwise known as coupons for your products. For the coupon discount, you can set a combination of both a percentage and Fixed amount discount, or you can set either of the two criteria.</p>
+<p>Coupons are an amazing way to give discounts. Would you like to give a 5%, 10% OFF your product? the coupon feature on Selar.co can get that done for you.</p>
+<p>Unfortunately, for now, Selar does not allow you to set an expiry date for the coupons you create, but you can set a limited number of coupons. I personally hope to see that in the future because it would help us schedule the <strong>time range</strong> between when a coupon should be valid.</p>
+<p>If implemented, this would definitely be very useful for time-sensitive promotions such as Black Friday or Christmas Sales.</p>
+<h2>How to start selling on Selar.co</h2>
+<p>So without further ado, Let&#8217;s sign up and get started so that we can take a deeper look at the platform&#8230;</p>
+<p>I advise that you should use your primary email address so that you don&#8217;t miss out on sales notifications.</p>
+<p>You actually have a quick signup option with Facebook, Twitter, Google, but I personally love using emails because I can always set my preferred password right from the signup page. So let me hit the signup button.</p>
+<ol>
+<li>Go to <a href="https://selar.co/referral/YUSUFODUKOYA" target="_blank" rel="nofollow noopener">www.selar.co</a></li>
+<li>Hit the <span class="gt3_highlighter" style="background-color: #7b00a0; color: #ffffff;"><strong> Start Selling </strong></span> button</li>
+<li>Enter your details or sign up with one click using Google, Facebook or Twitter</li>
+<li>In the next screen, you would be prompted to add your bank account details. Add your bank account details and click <span class="gt3_highlighter" style="background-color: #7b00a0; color: #ffffff;"><strong> Verify account detail. </strong></span></li>
+</ol>
+<p>That&#8217;s all! It takes literally 5 minutes to get started on Selar.co and you can instantly start adding your products.</p>
+<p>You can sell intangible products like PDF ebooks, video courses, software, scripts. You can also sell tangible goods like shoes, electronics and so on.</p>
+<div id="attachment_14778" style="width: 2090px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-14778" class="size-full wp-image-14778" title="My Store on Selar" src="https://branditechture.agency/wp-content/uploads/2022/01/My-Store-on-Selar.png" alt="My Store on Selar" width="2080" height="1244" srcset="https://branditechture.agency/wp-content/uploads/2022/01/My-Store-on-Selar.png 2080w, https://branditechture.agency/wp-content/uploads/2022/01/My-Store-on-Selar-300x179.png 300w, https://branditechture.agency/wp-content/uploads/2022/01/My-Store-on-Selar-1024x612.png 1024w, https://branditechture.agency/wp-content/uploads/2022/01/My-Store-on-Selar-768x459.png 768w, https://branditechture.agency/wp-content/uploads/2022/01/My-Store-on-Selar-1536x919.png 1536w, https://branditechture.agency/wp-content/uploads/2022/01/My-Store-on-Selar-480x287.png 480w, https://branditechture.agency/wp-content/uploads/2022/01/My-Store-on-Selar-1320x789.png 1320w" sizes="(max-width: 2080px) 100vw, 2080px" /><p id="caption-attachment-14778" class="wp-caption-text"><a href="https://selar.co/m/yusufodukoya" target="_blank" rel="nofollow noopener">My Store</a> on Selar</p></div>
+<h2>Selar.co — Advanced Features</h2>
+<h3>1. Instalments</h3>
+<p><span>You can set very flexible payment plans for your high ticket products, this option allows customers to enter the amount of their first instalment while splitting the balance in subsequent instalments.</span></p>
+<h3>2. Custom Redirects</h3>
+<p>So, this one is usually good. For example, let&#8217;s say you sell an ebook, and you deliver the ebook through your Google Drive. You can set the Google Drive link as a redirect.</p>
+<h3>3. Automatic Receipts</h3>
+<p>So when a person makes payments, the person actually gets a receipt. Your customers can even print their receipts by hitting Ctrl+P on the receipt page.  If you&#8217;re using a Macbook, then it&#8217;s CMD + P.</p>
+<p>If on a mobile phone, you can print or save the receipt as a PDF by tapping your browser&#8217;s hamburger menu (the three dots or dashes) and then tap <strong>share</strong>. You&#8217;ll see the option to either print it or save it as a PDF. However, I think just taking a screenshot should be more than enough.</p>
+<h3>4. Price Strikethrough</h3>
+<p>You can strike out a product&#8217;s original price whilst showing your sale price. For example, Original price: <del>₦2000 NGN</del>  Now: ₦1000 NGN.</p>
+<p>To do this, just click on &#8220;<strong>Show the striked out original price&#8221;</strong> while adding your product to Selar, after which you would be prompted to add the original price.</p>
+<h3>5. Private Products</h3>
+<p>Do you want to hide a specific product from your store homepage? Yes, this is possible on Selar. You could actually make a product accessible only via its direct link. So I guess this will be useful if you are, maybe, creating a lead magnet or building an email list. You just want people with the link to go directly to download it.</p>
+<h3>6. Custom URLs</h3>
+<p>By default, Selar generates a URL based on the product code e.g <a href="https://selar.co/wgcx" target="_blank" rel="noopener">https://selar.co/wgcx</a>. The problem with this is that it is not human-friendly. You can actually customize your URL by replacing the characters after the trailing slash with something more readable and memorable, for example, https://selar.co/wordpress.</p>
+<p>Warning: Don&#8217;t ever customize a product URL after sharing it across different social media channels, doing that would result in a <em><strong>Page Not Found</strong> </em>error when users click on the old link. So, it is always best to use the Custom URL feature at the time of uploading your product.</p>
+<h3>7. Image Reviews</h3>
+<p>When adding a new product or editing an existing one, you can add image reviews such as screenshots of your buyer reviews on other platforms. That way, you can buy the trust of potential buyers since those links are usually verifiable. Social proofs can help you amass more sales.</p>
+<h3>8. Stock level management</h3>
+<p>You can set the number of units available for any particular item. This is especially useful for physical products so that the product automatically goes <em>out of stock</em> when all the available units have been purchased.</p>
+<h3>9. Non-Downloadable PDFs</h3>
+<p>You also have the non-downloadable PDF feature (referred to as &#8220;Read Online Only&#8221;) that allows you to host your PDF files on Selar. This is great if you have piracy concerns. However, the only drawback is that there is a size limit of 10MB so, Selar does not support PDF uploads larger than 10MB if you wish to use the Read Online Only PDF feature.</p>
+<p>I like the feature because it prevents unauthorized redistribution of your work. So, If you don&#8217;t want someone to buy your PDF and start reselling it somewhere else, this effectively solves that problem.</p>
+<h2>How to Integrate Facebook Pixel on Selar</h2>
+<p>Selar allows you to integrate your Facebook Pixel tracking ID with your landing page and product pages. Of course, this is one of the mind-blowing things with regards to running sponsored ads on Facebook. This would not only help you optimize your ad spend, but would also help you target the most relevant people.</p>
+<p>To integrate your Pixel tracking code, all you need to do is provide your Pixel ID in the Selar Facebook Pixel integration settings;</p>
+<ol>
+<li>Log in to your dashboard and click the hamburger menu on the top right corner</li>
+<li>Click <em><strong>Integrations </strong></em>to expand the integration settings</li>
+<li>Click <strong>Facebook Pixel</strong></li>
+<li>Enter your Pixel ID and click <strong><span class="gt3_highlighter" style="background-color: #821376; color: #ffffff;"> Update Pixel </span></strong></li>
+</ol>
+<p>So, if you are able to install your Facebook Pixel on Selar, it means you can retarget people through Facebook Ads.</p>
+<p>With Facebook Pixel, you would get the opportunity to retarget your (Facebook) ads to people who have previously checked out your products (but didn&#8217;t buy).</p>
+<h2>Selar.co Premium Features</h2>
+<p>Selar has pro plans starting at ₦8,000 NGN for the Pro plan, while the Turbo plan costs ₦15,000 NGN, both plans are billed monthly.</p>
+<p>Are you considering whether to upgrade to the Selar Pro or Turbo Plans? these are all the premium features you will enjoy if subscribed to any of the premium plans on Selar.</p>
+<h3>1. Custom Domains</h3>
+<p>With a custom domain, you can replace the preceding Selar.co in the URL with your own domain e.g <em>www.omotayo.com</em>. This is great for branding.</p>
+<h3>2. Zone-based Delivery Settings</h3>
+<p>If you sell tangible goods, you can set different delivery fees based on zones. For example, you can set Lagos Mainland deliveries to be ₦2000, and make delivery to the Lagos Island regions to be ₦1,500.</p>
+<p>You can actually create a virtually unlimited number of delivery zones, but it is always a good idea to keep the list as short (and broad) as possible.</p>
+<h3>3. Custom Store &amp; Landing Page Design</h3>
+<p>With any of the two premium plans, you can redesign your Selar.co store and product landing pages to make it stand out even more.</p>
+<h3>4. Zapier Integration</h3>
+<p>Zapier is an automation tool that can help you set certain triggers and actions. For example, you can configure an SMS alert that fires when someone makes a purchase, or you can send data to an Excel spreadsheet using a Zapier and Google Sheets integration.</p>
+<h3>5. Pay What You Want</h3>
+<p>This feature allows you to set a fair price, but still allow the customers to submit bids. Very good for deals and products that you are willing to give out for some cash. This is a bit different from the regular fixed price method because, in a <em>Pay What You Want</em> product, you would still need to either accept or refuse the offer. I am still yet to find out if you can set a &#8220;Buy Now&#8221; fee, but I expect that option to be available.</p>
+<p>I will update this review once I figure that out.</p>
+<h2>Is Selar.co Legit?</h2>
+<p>I can categorically tell you that Selar is Legit.</p>
+<p>Selar was founded by in October 2016 by <strong>Douglas Kendyson, </strong>a former software engineer and manager at Flutterwave. Douglas has also worked at Paystack as a Customer Success Expert &amp; Software Engineer.</p>
+<p>Notable influencers like Nelly Abogu, the brain behind <a href="https://naijabrandchick.com/" target="_blank" rel="nofollow noopener">Naija Brand Chick</a>, have used Selar.co to host and sell their courses. Her photo editing course which she sold for ₦ 3,225 amassed over 7000 sales on Selar alone. If you do the maths, this is over ₦22.5 million NGN.</p>
+<p>Look at the screenshot below;</p>
+<div id="attachment_14774" style="width: 1185px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-14774" class="size-full wp-image-14774" title="Stats for Nelly Agbogus Smartphone Photo Video Editing Course" src="https://branditechture.agency/wp-content/uploads/2022/01/Stats-for-Nelly-Agbogus-Smartphone-Photo-Video-Editing-Course.jpg" alt="Stats for Nelly Agbogus Smartphone Photo Video Editing Course" width="1175" height="480" srcset="https://branditechture.agency/wp-content/uploads/2022/01/Stats-for-Nelly-Agbogus-Smartphone-Photo-Video-Editing-Course.jpg 1175w, https://branditechture.agency/wp-content/uploads/2022/01/Stats-for-Nelly-Agbogus-Smartphone-Photo-Video-Editing-Course-300x123.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/01/Stats-for-Nelly-Agbogus-Smartphone-Photo-Video-Editing-Course-1024x418.jpg 1024w, https://branditechture.agency/wp-content/uploads/2022/01/Stats-for-Nelly-Agbogus-Smartphone-Photo-Video-Editing-Course-768x314.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/01/Stats-for-Nelly-Agbogus-Smartphone-Photo-Video-Editing-Course-480x196.jpg 480w" sizes="(max-width: 1175px) 100vw, 1175px" /><p id="caption-attachment-14774" class="wp-caption-text">Stats for Nelly Agbogu&#8217;s Smartphone Photo Video Editing Course as of December 27, 2021.</p></div>
+<p>Selar must have processed more volumes thanks to their global reach, but at least, I can attest to this one.</p>
+<h2>Pros and Cons of using Selar.co</h2>
+<p>There are good and ugly sides to virtually everything on this planet and Selar.co is no exception. Here are the pros and cons of using Selar.co based on my experience with the platform so far;</p>
+<p><strong>PROS</strong></p>
+<ol>
+<li>Very quick payouts.</li>
+<li>Takes off the liability of running a self-hosted e-commerce store.</li>
+<li>Exemplary customer service.</li>
+<li>Lots of features in the Free plan.</li>
+<li>Very simple to use and beginner-friendly.</li>
+<li>Allows you to export all your products and subscribers data into a csv file.</li>
+</ol>
+<p><strong>CONS</strong></p>
+<ol>
+<li>You have almost zero earning opportunities with their <em>Refer &amp; Earn</em> system. The terms and conditions do not just make any sense.  The Refer &amp; Earn terms and conditions go thus:<br />
+<blockquote><p><strong>Refer a seller and get 1% of their all their sales in their first month of selling on Selar. Yup, it&#8217;s that straight forward.</strong></p>
+<p><strong>E.g if your referred user sells NGN 5,000,000 in the first month of them selling on Selar, we&#8217;ll give you 1% of that, NGN 50,000. The referral commission is capped at your default currency&#8217;s equivalent of $100, and terms &amp; conditions apply.</strong></p></blockquote>
+<p>I am not sure how they want anyone to make a dime from this.</li>
+<li>You can&#8217;t set coupon expiry dates.</li>
+<li>In the free plan, you can&#8217;t set a customized thank-you e-mail message after purchase.</li>
+<li>No phone numbers. Customer care services are only available via live chat and email</li>
+</ol>
+<p>That&#8217;s all I have for this review. In my opinion, Selar already has some qualities of Shopify, and it has all the potential to become like the Clickfunnels of Africa only if they could just put in the work to create premade sales funnel templates.</p>
+<h2>Conclusion</h2>
+<p>Selar is a very very good free alternative if you do not have the funds to get a <a href="https://branditechture.agency/e-commerce-for-small-businesses/">custom e-commerce website</a> for your small business.</p>
+<p>If you enjoyed it, consider rating my article below and also remember to <a href="https://branditechture.agency/newsletter/" target="_blank" rel="noopener">subscribe to our newsletter</a> for more detailed reviews.</p>
+<p>Thank you very much for reading thus far. If you have further questions, kindly use the comments section.</p>
+<hr />
+<h2>Support me;</h2>
+<div id="attachment_14770" style="width: 2058px" class="wp-caption aligncenter"><a href="https://selar.co/wgcx" target="_blank" rel="noopener"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-14770" class="wp-image-14770 size-full" title="WordPress and Elementor for Absolute Beginners" src="https://branditechture.agency/wp-content/uploads/2022/01/WordPress-and-Elementor-for-Absolute-Beginners-3.jpg" alt="WordPress and Elementor for Absolute Beginners" width="2048" height="2048" srcset="https://branditechture.agency/wp-content/uploads/2022/01/WordPress-and-Elementor-for-Absolute-Beginners-3.jpg 2048w, https://branditechture.agency/wp-content/uploads/2022/01/WordPress-and-Elementor-for-Absolute-Beginners-3-300x300.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/01/WordPress-and-Elementor-for-Absolute-Beginners-3-1024x1024.jpg 1024w, https://branditechture.agency/wp-content/uploads/2022/01/WordPress-and-Elementor-for-Absolute-Beginners-3-150x150.jpg 150w, https://branditechture.agency/wp-content/uploads/2022/01/WordPress-and-Elementor-for-Absolute-Beginners-3-768x768.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/01/WordPress-and-Elementor-for-Absolute-Beginners-3-1536x1536.jpg 1536w, https://branditechture.agency/wp-content/uploads/2022/01/WordPress-and-Elementor-for-Absolute-Beginners-3-480x480.jpg 480w, https://branditechture.agency/wp-content/uploads/2022/01/WordPress-and-Elementor-for-Absolute-Beginners-3-1320x1320.jpg 1320w" sizes="(max-width: 2048px) 100vw, 2048px" /></a><p id="caption-attachment-14770" class="wp-caption-text">Buy my book; <a href="https://selar.co/wgcx" target="_blank" rel="nofollow noopener"><strong>WordPress and Elementor for Absolute Beginners</strong></a> on Selar for just ₦6,000 NGN.</p></div>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/selar-co-review-everything-you-need-to-know-before-selling-on-selar/">Selar.co Review &#8211; Everything You Need to Know Before Selling on Selar</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/selar-co-review-everything-you-need-to-know-before-selling-on-selar/feed/</wfw:commentRss>
+			<slash:comments>49</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Achieve Breakthrough in Your Online Business With These Three Easy Steps</title>
+		<link>https://branditechture.agency/breakthrough-in-your-online-business-with-these-three-easy-steps/</link>
+					<comments>https://branditechture.agency/breakthrough-in-your-online-business-with-these-three-easy-steps/#respond</comments>
+		
+		<dc:creator><![CDATA[Natalia Bachmann]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:16 +0000</pubDate>
+				<category><![CDATA[E-Commerce]]></category>
+		<category><![CDATA[Digital Marketing]]></category>
+		<category><![CDATA[digital marketing]]></category>
+		<category><![CDATA[ecommerce]]></category>
+		<category><![CDATA[internet online business]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=14369</guid>
+
+					<description><![CDATA[<p>There is this common misconception that because internet marketing requires no prior experience, it is a simple profession. False! An online business endeavour works in the same manner as any business would do. Here are some pointers to help you to avoid the pitfalls of running an internet business. 1. Always Have A Plan Make [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/breakthrough-in-your-online-business-with-these-three-easy-steps/">Achieve Breakthrough in Your Online Business With These Three Easy Steps</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>There is this common misconception that because internet marketing requires no prior experience, it is a simple profession.</p>
+<p>False!</p>
+<p>An online business endeavour works in the same manner as any business would do. Here are some pointers to help you to avoid the pitfalls of running an internet business.</p>
+<h2>1. Always Have A Plan</h2>
+<p>Make sure you have a plan in place at all times. How can you be successful in this type of business if you have no idea what you&#8217;re doing?</p>
+<p>It would be really beneficial for you to find out where to begin before diving into the realm of internet marketing. Will you use the internet to offer items or services, or will you produce articles for various businesses? Being a master at any online business requires having a clear notion of what your next steps should be at any given time.</p>
+<blockquote class="wp-embedded-content" data-secret="HAGnKEpMaW"><p><a href="https://branditechture.agency/common-internet-marketing-mistakes/">Common Internet Marketing Mistakes Business Owners Make</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Common Internet Marketing Mistakes Business Owners Make&#8221; &#8212; Branditechture" src="https://branditechture.agency/common-internet-marketing-mistakes/embed/#?secret=bFwWBfoD1c#?secret=HAGnKEpMaW" data-secret="HAGnKEpMaW" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<h2>2. Make Strategic Investments</h2>
+<p>Make strategic investments in the most vital aspects of your online business. You may begin by <a href="https://branditechture.agency/lets-build-your-website/">creating your own website,</a> which you will be responsible for <a href="https://branditechture.agency/website-maintenance-plans/">maintaining</a>. If you already have one, the next step is to come up with <a href="https://branditechture.agency/20-content-generation-ideas-for-your-brands-marketing/">relevant articles</a> that will resonate with your target audience. Of course, once you&#8217;ve completed these two phases, you should continue to expand your research so that you can easily support your business going forward.</p>
+<h2>3. Always Strive to Improve</h2>
+<p>Finally, remember that you must always strive to improve. If your business does not go as planned the first time around, try again, but this time with more attention and initiative. Online commerce is a competitive field, and you&#8217;ll need to put in all of your efforts if you want to succeed.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/breakthrough-in-your-online-business-with-these-three-easy-steps/">Achieve Breakthrough in Your Online Business With These Three Easy Steps</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/breakthrough-in-your-online-business-with-these-three-easy-steps/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>8 ECommerce Website Design Practices That Will Help You Sell More</title>
+		<link>https://branditechture.agency/8-ecommerce-website-design-practices-that-will-help-you-sell-more/</link>
+					<comments>https://branditechture.agency/8-ecommerce-website-design-practices-that-will-help-you-sell-more/#respond</comments>
+		
+		<dc:creator><![CDATA[Natalia Bachmann]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:15 +0000</pubDate>
+				<category><![CDATA[E-Commerce]]></category>
+		<category><![CDATA[ecommerce]]></category>
+		<category><![CDATA[Small Business]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=14362</guid>
+
+					<description><![CDATA[<p>Every day, more businesses are migrating to the digital space. Both the seller and the buyer are now on the internet. With the rising demand for Ecommerce Web Development, there are a few things to consider before getting started! 1. Responsive Web Design The most important thing to remember when creating an eCommerce site is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/8-ecommerce-website-design-practices-that-will-help-you-sell-more/">8 ECommerce Website Design Practices That Will Help You Sell More</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Every day, more businesses are migrating to the digital space. Both the seller and the buyer are now on the internet. With the rising demand for Ecommerce Web Development, there are a few things to consider before getting started!</p>
+<h3>1. Responsive Web Design</h3>
+<p>The most important thing to remember when creating an <a href="https://branditechture.agency/e-commerce-for-small-businesses/">eCommerce site</a> is to make it responsive. Because people are always on their phones, it&#8217;s critical to design your website in such a way that it&#8217;s easy for them to use on a mobile device.</p>
+<div id="attachment_13289" style="width: 310px" class="wp-caption aligncenter"><a href="https://branditechture.agency/e-commerce-for-small-businesses/"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13289" class="wp-image-13289 size-medium" title="Launch your ecommerce store " src="https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-300x128.png" alt="Launch your ecommerce store min" width="300" height="128" srcset="https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-300x128.png 300w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-1024x436.png 1024w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-768x327.png 768w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-1536x655.png 1536w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-480x205.png 480w, https://branditechture.agency/wp-content/uploads/2021/11/Launch-your-ecommerce-store-min-1320x563.png 1320w" sizes="(max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-13289" class="wp-caption-text">Launch your ecommerce store. <a href="https://branditechture.agency/e-commerce-for-small-businesses/"><strong>Get Started &gt;&gt;</strong></a></p></div>
+<h3>2. Easy Website Navigation</h3>
+<p>To attract your target audience, your website should be appealing and attractive, but don&#8217;t overcomplicate it for the sake of aesthetics. If it&#8217;s too complicated, the user may become irritated and depart before even seeing your goods. Your website should be appealing to the eye while also being simple to use.</p>
+<p>To keep things simple, your visitor should be able to get a clear and succinct picture of your company and product as soon as they arrive on your page. It should be straightforward and easy to find your stuff on your website. Avoid using jargon or terms that are too difficult to understand.</p>
+<h3>3. Convincing Call to Action</h3>
+<p>Your call to action buttons should be simple to use and find so that your visitors don&#8217;t feel as if they&#8217;ve wasted time looking for things they can&#8217;t even afford. Avoid needless adverts and call-to-action buttons that aren&#8217;t genuine. Help your visitors even more by providing a <a href="https://support.branditechture.agency/docs/what-does-the-live-chat-feature-mean/" target="_blank" rel="noopener">live chat</a> option or a designated area for them to submit their questions.</p>
+<h3>4. Appealing Images</h3>
+<p>&#8220;A picture is worth a thousand words,&#8221; as the saying goes. This is something you will have to adhere to religiously. Use high-resolution and clear images of your products; visitors want to know what they&#8217;re getting for their money. To make it more appealing and clear, use several strategies such as a 360-degree perspective. If as all possible, use product videos to increase your chances of selling.</p>
+<h3>5. Highly Detailed Product Descriptions &amp; Specifications</h3>
+<p>This is the most crucial factor that most newcomers overlook. Nobody is going to spend money on something they don&#8217;t understand. Attempt to respond to all pertinent questions and provide a detailed description of the product, including the material, quality, and any other characteristics that may affect the buying choice.</p>
+<p><a href="https://branditechture.agency/how-to-build-a-unique-brand/">Promote</a> your product, but don&#8217;t go too far. You can also provide<a href="https://branditechture.agency/why-your-small-business-should-blog/"> product-related blogs</a> or videos. Add &#8220;items you might enjoy&#8221; or &#8220;similar products&#8221; to demonstrate that you have a diverse choice of products to sell and can meet customer needs.</p>
+<h3>6. Reviews and Ratings</h3>
+<p>It is quite rare for a customer to visit a website and purchase something without first conducting thorough research. Include a rating and review feature to boost your sales and improve your visitors&#8217; experience. It provides trust and confidence to your visitors that they might otherwise lack when visiting a new site. It establishes a trustworthy source for your consumers and significantly boosts your chances of making a deal.</p>
+<h3>7. A Check-out Process That Is Both Efficient and Quick</h3>
+<p>Customers despise having to go through a variety of pages to complete a transaction. If it&#8217;s unreasonably long and complicated, there&#8217;s a 99 per cent chance the buyer will change their mind halfway through.  Add guest check-out options, as well as quick payment flow and other check-out alternatives.</p>
+<h3>8. Customization</h3>
+<p>There are thousands of vendors offering the same items as you. It is now up to you to provide clients with that one critical factor that will influence their decision to choose you. Adding a personal touch to your website and giving it a distinctive appearance. Give your guests a unique experience by including your own custom features and making them feel special. Create a customised list and preference items based on the customer&#8217;s previous activities, such as &#8220;commonly bought together&#8221; or something similar.</p>
+<h3>Conclusion</h3>
+<p>To summarise, everyone is online, but not everyone is successful. There are many people attempting to make it successful, but only a few are successful. To ensure optimum success, keep these ideas in mind when <a href="https://branditechture.agency/lets-build-your-website/">developing your website</a>.</p>
+<blockquote class="wp-embedded-content" data-secret="Q8rhMYArWz"><p><a href="https://branditechture.agency/top-7-essential-elements-every-small-website-needs/">The Top 7 Essential Elements Every Small Website Needs</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;The Top 7 Essential Elements Every Small Website Needs&#8221; &#8212; Branditechture" src="https://branditechture.agency/top-7-essential-elements-every-small-website-needs/embed/#?secret=B5V8BRsupO#?secret=Q8rhMYArWz" data-secret="Q8rhMYArWz" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/8-ecommerce-website-design-practices-that-will-help-you-sell-more/">8 ECommerce Website Design Practices That Will Help You Sell More</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/8-ecommerce-website-design-practices-that-will-help-you-sell-more/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

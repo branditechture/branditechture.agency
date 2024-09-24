@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tips &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/tips/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sun, 01 Oct 2023 16:53:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>Tips &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Reset and Regain Access To Your MTN MiFi WiFi Password</title>
+		<link>https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/</link>
+					<comments>https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sun, 01 Oct 2023 16:53:48 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17987</guid>
+
+					<description><![CDATA[<p>One of the most annoying mistakes MTN made with their latest MiFi device is putting the sticky paper label OUTSIDE the body of the MiFi device. Perhaps, this could be because this particular Mi-fi model has no removable battery cover, but they could have at least, laminated it. The sad news, however, is that many [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/">How to Reset and Regain Access To Your MTN MiFi WiFi Password</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>One of the most annoying mistakes MTN made with their latest MiFi device is putting the sticky paper label OUTSIDE the body of the MiFi device. Perhaps, this could be because this particular Mi-fi model has no removable battery cover, but they could have at least, laminated it. The sad news, however, is that many MTN Mi-Fi owners have lost the default WLAN Key written on the sticky label due to the rubbing off of the ink used to print the details.</p>
+<p>But do not fret&#8230; My name is Yusuf Odukoya, and as a freelancer and digital guy myself, I understand that losing that little sticker with your WLAN key can be quite frustrating. I have got you covered with this simple and effective solution to regain access to your Wi-Fi connection by checking or setting a new WLAN Key.</p>
+<p>In this step-by-step guide, I will walk you through the process of resetting or checking your MTN MiFi WLAN key (Also known as WiFi password) using just a USB cable and your computer. Whether you&#8217;ve got the latest MTN Mi-Fi model or an older one, this method just works for ALL MTN Mi-Fi models. So, let&#8217;s dive in and get your Wi-Fi back up and running!</p>
+<p><strong>Materials You&#8217;ll Need:</strong></p>
+<ul>
+<li>Your MTN MiFi device</li>
+<li>A USB cable</li>
+<li>A computer or laptop with a web browser</li>
+</ul>
+<p><strong>Step 1: Connect MiFi to Your Computer</strong> Start by powering on your MTN MiFi device. Then, take your trusty USB cable and connect your MiFi device to your computer. Ensure the connection is snug and secure.</p>
+<p><strong>Step 2: Accessing the Web Interface</strong> Open up your favorite web browser on your computer—whether it&#8217;s Chrome, Firefox, Edge, or another. Now, in the address bar at the top, type in the following: <code>192.168.0.1</code> and hit Enter. This magical combination of numbers will lead you to your MiFi device&#8217;s settings.</p>
+<p><strong>Step 3: Logging In</strong><br />
+You&#8217;ll be greeted by the MTN MiFi web interface. Sometimes, it might ask you for a username and password. If you&#8217;ve never changed these before, no worries! The default credentials are often &#8220;admin&#8221; for both the username and password. Go ahead and enter those in.</p>
+<div id="attachment_18010" style="width: 849px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-18010" class="size-full wp-image-18010" title="Dashboard login page" src="https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page.png" alt="Dashboard login page" width="839" height="589" srcset="https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page.png 839w, https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page-300x211.png 300w, https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page-768x539.png 768w, https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page-480x337.png 480w" sizes="(max-width: 839px) 100vw, 839px" /><p id="caption-attachment-18010" class="wp-caption-text">Dashboard login page</p></div>
+<p><strong>Step 4: Finding WLAN Settings</strong><br />
+Now comes the fun part—finding the section that&#8217;s all about your Wi-Fi settings because this depends on your MiFi or router model. You must look for labels like &#8220;WLAN Settings,&#8221; &#8220;WiFi Settings,&#8221; or something similar. Once you&#8217;ve located it, click on it.</p>
+<p>Here&#8217;s mine:</p>
+<div id="attachment_18011" style="width: 1008px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-18011" class="size-full wp-image-18011" title="WiFi Settings" src="https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings.png" alt="WiFi Settings" width="998" height="486" srcset="https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings.png 998w, https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings-300x146.png 300w, https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings-768x374.png 768w, https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings-480x234.png 480w" sizes="(max-width: 998px) 100vw, 998px" /><p id="caption-attachment-18011" class="wp-caption-text">WiFi Settings</p></div>
+<p>&nbsp;</p>
+<p><strong>Step 5: Generating a New WLAN Key</strong><br />
+Inside the WLAN settings, you&#8217;ll find an option to generate a fresh WLAN key or password. This could be called &#8220;Security Key,&#8221; &#8220;Password,&#8221; or &#8220;WPA Key.&#8221; Click on that option and follow the instructions to generate a new key. If you&#8217;re feeling creative, some devices might even let you create your own.</p>
+<div id="attachment_18012" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-18012" class="size-full wp-image-18012" title="Update your WiFi password" src="https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password.png" alt="Update your WiFi password" width="1024" height="609" srcset="https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password.png 1024w, https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password-300x178.png 300w, https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password-768x457.png 768w, https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password-480x285.png 480w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-18012" class="wp-caption-text">Updating your WiFi password</p></div>
+<p><strong>Step 6:Saving Your Changes</strong><br />
+After you&#8217;ve generated or updated your WLAN key, it&#8217;s time to save the day! Look around for a &#8220;Save&#8221; or &#8220;Apply&#8221; button on the web interface. Click it with confidence, knowing that your changes are about to be locked in.</p>
+<p><strong>Step 7: Disconnect, Restart, and Reconnect</strong><br />
+Safely disconnect your MTN MiFi device from your computer. Now, give your MiFi a moment of rest by turning it off and then back on. Wait patiently for it to fully reboot. Once it&#8217;s up and running, connect to your MiFi&#8217;s Wi-Fi network using the new WLAN key you&#8217;ve just set.</p>
+<p><strong>Conclusion:</strong> And there you have it, a straightforward way to reset your MTN MiFi WLAN key and reclaim your Wi-Fi connection. Remember, this guide is your trusty companion whether you&#8217;re using the latest MiFi model or an older one. The next time you find yourself without that precious sticker, just grab your USB cable and computer (or laptop) and follow the above steps to restore your connection in no time.</p>
+<p>Happy browsing!</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/">How to Reset and Regain Access To Your MTN MiFi WiFi Password</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How Chrome&#8217;s Memory Saver Feature Can Slow Down Your Productivity</title>
+		<link>https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/</link>
+					<comments>https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2023 13:43:21 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17859</guid>
+
+					<description><![CDATA[<p>Google Chrome is without a doubt one of the most popular web browsers available today, thanks to its simplicity, reliability, and ecosystem of browser extensions. However, due to its high resource demands, users who are running low on system resources, such as RAM or CPU, may find it challenging to keep the browser running smoothly. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/">How Chrome&#8217;s Memory Saver Feature Can Slow Down Your Productivity</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Google Chrome is without a doubt one of the most popular web browsers available today, thanks to its simplicity, reliability, and ecosystem of browser extensions. However, due to its high resource demands, users who are running low on system resources, such as RAM or CPU, may find it challenging to keep the browser running smoothly. To address this issue, Chrome comes with a feature called &#8220;Memory saver,&#8221; which can help save system resources by suspending tabs that are not in use.</p>
+<p>While this feature can be a boon to some users, it is a curse for others: Take, for example, Graphic Designers or Product Designers who switch frequently between <em>Shutterstock</em>, <em>icons8</em>, and <em>Figma</em>. To summarize this scenario, the Chrome Memory Saver feature will slow down your workflow and spike CPU resource usage if you frequently switch between multiple tabs or need to access certain previously opened websites very often and quickly. This is because the page would need to be reloaded after being idle for, say 5 minutes.</p>
+<h2>How Chrome&#8217;s Memory Saver Works</h2>
+<p>The Chrome browser memory saver feature works by identifying tabs that have been inactive for a specific period, typically five minutes. Once a tab is deemed inactive, the browser suspends it, freeing up system resources that would have been used to keep the tab running in the background. When a user clicks on the suspended tab, the page is automatically reloaded and the user can continue from where they left off. This process is designed to help users save system resources and keep the browser running smoothly, especially on devices with limited RAM or CPU.</p>
+<h2>The Drawbacks of Enabling Memory Saver on Chrome</h2>
+<p>The downside of the memory saver feature is that it can slow down your workflow, especially if you frequently switch between tabs or use certain websites regularly. For instance, if you are working on a research project and need to refer to multiple web pages simultaneously, the memory saver feature may suspend some of your tabs, making it difficult to access the information you need quickly. You may have to wait for a few seconds for the tab to reload, which can be frustrating and time-consuming, especially if you are working on a tight deadline.</p>
+<p>Moreover, the memory saver feature can also interfere with certain web applications, such as online banking, user registration, survey websites, or shopping websites. These types of sites often require constant updates and real-time data transmission to stay alive, and suspending them can cause errors or glitches in the application. This can result in frustration for the user and may even lead to data loss or financial losses in the case of online banking.</p>
+<p>Luckily, you can create exceptions by &#8220;whitelisting&#8221; some websites from inside Chrome&#8217;s <strong>performance</strong> settings, or you can disable Chrome&#8217;s memory saver feature altogether.</p>
+<h3>How To Disable Chrome&#8217;s Memory Saver</h3>
+<div id="attachment_17862" style="width: 752px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-17862" class="size-full wp-image-17862" title="Memory Saver toggle screen" src="https://branditechture.agency/wp-content/uploads/2023/03/Memory-Saver-toggle-screen.png" alt="Memory Saver toggle screen" width="742" height="281" srcset="https://branditechture.agency/wp-content/uploads/2023/03/Memory-Saver-toggle-screen.png 742w, https://branditechture.agency/wp-content/uploads/2023/03/Memory-Saver-toggle-screen-300x114.png 300w, https://branditechture.agency/wp-content/uploads/2023/03/Memory-Saver-toggle-screen-480x182.png 480w" sizes="(max-width: 742px) 100vw, 742px" /><p id="caption-attachment-17862" class="wp-caption-text">Memory Saver toggle screen</p></div>
+<p>Chrome&#8217;s Memory Saver is often enabled by default in recent versions of the browser. However, if you have made up your mind to disable this feature, you can follow these steps:</p>
+<ol>
+<li>Open Chrome on your computer.</li>
+<li>Click on the <strong>three dots</strong> icon in the top-right corner of the browser window.</li>
+<li>Select &#8220;<strong>Settings</strong>&#8221; from the drop-down menu.</li>
+<li>Look at the pane on your left, and click on &#8220;<strong>Performance</strong>&#8220;.</li>
+<li>Use the switch to toggle the <strong>Memory Saver</strong> feature.</li>
+</ol>
+<p>You can also add a list of sites to be kept active even though memory saver is left enabled. The choice is all yours.</p>
+<p>Note that disabling the Memory Saver feature may cause Chrome to use more system resources and may slow down your browser&#8217;s performance. If you have a device with very limited RAM or CPU, and switch tabs less frequently, it is better to keep the feature enabled.</p>
+<h2>Conclusion</h2>
+<p>In conclusion, while Chrome&#8217;s memory saver feature can be a helpful tool for users who are struggling with limited system resources, it can also slow down your workflow, especially if you frequently switch between tabs or use multiple websites regularly. If you find yourself missing deadlines often, it&#8217;s time to look towards the memory saver feature, you may consider disabling it. Ultimately, it is really up to you to decide whether the memory saver feature is a helpful tool or a hindrance to your workflow.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/">How Chrome&#8217;s Memory Saver Feature Can Slow Down Your Productivity</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Change Password on MTN HyNetflex</title>
+		<link>https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/</link>
+					<comments>https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:24 +0000</pubDate>
+				<category><![CDATA[How Tos]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17126</guid>
+
+					<description><![CDATA[<p>Gaining access to the settings panel of the MTN HyNetflex is a hard task for some people, and this is due to the lack of navigational buttons and LCD display on the MTN Hynetflex Router. In this post, I will show you how to navigate your way around the HyNetflex settings panel so that you can [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/">How to Change Password on MTN HyNetflex</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Gaining access to the settings panel of the MTN HyNetflex is a hard task for some people, and this is due to the lack of navigational buttons and LCD display on the MTN <a href="https://branditechture.agency/mtn-hynetflex-honest-review/" target="_blank" rel="noopener">Hynetflex Router.</a> In this post, I will show you how to navigate your way around the HyNetflex settings panel so that you can change your HyNetflex password.</p>
+<p>Before we begin, it is important to note that there are two types of passwords on the HyNetflex namely; <strong>The admin password</strong>, which is used to gain access to the HyNetflex settings panel, and <strong>the Wi-Fi password</strong> (technically called <strong>WPA Key</strong>), which devices can use to connect to the router. This post would walk you through how to change both passwords.</p>
+
+<h3>How to Change HyNetflex Admin Password.</h3>
+<p>To change the settings panel password (a.k.a Admin password), you must know the current password. Just so you know, the default password is &#8220;<strong>admin&#8221;.</strong></p>
+<p>I strongly advice that you change this password to prevent unauthorized access to your MTN HynetFlex Router. This is because the default admin panel password is <strong><em>&#8220;admin&#8221; </em></strong>for all HyNetflex devices sold by MTN, and anyone who knows this may change your password without your consent.</p>
+<p><strong>Follow the steps below to change your HyNetflex admin password;</strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 1:</span> </strong><br />
+Make sure that your device is connected to your MTN HyNet Router.</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 2: </span></strong><br />
+Using a web browser, visit <strong>http://192.168.0.1/</strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 3: </span></strong><br />
+Login with the default password: <strong>admin</strong></p>
+<p>Once in the dashboard,</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 4:<br />
+</span></strong>Click <strong>&#8220;Modify Login Password&#8221; </strong>as shown in the screenshot below</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-17130" title="Click Modify Login Password" src="https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password.jpg" alt="Click Modify Login Password" width="974" height="527" srcset="https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password.jpg 974w, https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password-300x162.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password-768x416.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password-480x260.jpg 480w" sizes="(max-width: 974px) 100vw, 974px" /></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 5:<br />
+</span></strong>Enter your current password (Default password is &#8220;admin&#8221;)<br />
+Enter your new password.<br />
+Repeat your new password.<br />
+Finally, click <strong>Apply.</strong></p>
+<p>Congratulations, you have successfully changed your MTN HyNetflex admin password.</p>
+<h3>How to Change WiFi Password on the MTN HyNetflex.</h3>
+<p>A WiFi password is technically known as WPA Key. <a href="https://branditechture.agency/mtn-hynetflex-honest-review/#:~:text=The%20router%20is%20dual%2Dband%2C%20which%20means%20it%20has%20support%20for%20both%202.4%20GHz%20and%205.0%20GHz%20frequencies.">Because the MTN HyNetflex is a dual-band router</a>, it can broadcast these two bands ( 2.4GHz and 5.0GHz) simultaneously. These two bands can also have different Wi-Fi passwords or WPA Keys.</p>
+<p><strong>Follow the steps below to Change the WPA Key or Wi-Fi Hotspot password for your MTN HynetFlex;  </strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 1:</span> </strong><br />
+Make sure your device is connected to your MTN HyNet Router.</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 2: </span></strong><br />
+Using a web browser, visit <strong>http://192.168.0.1/</strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 3: </span></strong><br />
+Login with your admin login password. (Default password: <strong>admin</strong>)</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 4:<br />
+</span></strong>Once in the dashboard, Click the round <span class="gt3_highlighter" style="background-color: #0a0a0a; color: #ffffff;"><strong> Settings&gt; </strong> </span> button under <strong>W-Fi.</strong></p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-17132" title="WiFi Settings" src="https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings.jpg" alt="WiFi Settings" width="974" height="449" srcset="https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings.jpg 974w, https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings-300x138.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings-768x354.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings-480x221.jpg 480w" sizes="(max-width: 974px) 100vw, 974px" /></p>
+<p>On the next page, you would see settings for both <strong><span class="gt3_highlighter" style="background-color: #f2c900; color: #0a0a0a;"> 2.4GHz </span></strong> and <strong><span class="gt3_highlighter" style="background-color: #f2c900; color: #0a0a0a;"> 5.0GHz </span></strong> Wi-Fi bands. Set new passwords for each of them by modifying the password in the <strong>WLAN KEY</strong> field as shown in the screenshot below.</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-17131" title="Change WPA key and click Apply" src="https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply-.jpg" alt="Change WPA key and click Apply" width="847" height="512" srcset="https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply-.jpg 847w, https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply--300x181.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply--768x464.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply--480x290.jpg 480w" sizes="(max-width: 847px) 100vw, 847px" /></p>
+<p>Once done with the WLAN key change, click <strong>Apply</strong>. You would notice that your device disconnects upon successful WLAN Key change. Don&#8217;t fret. All devices including yours, would now need to provide the new Wi-Fi password in order to connect to the HynetFlex router.</p>
+<p>Congratulations, you have successfully changed your MTN HyNetflex admin password.</p>
+<p>I hope this short piece of information has helped you. If you find it helpful, please share and <a href="https://branditechture.agency/newsletter/">subscribe to Branditechture Newsletter</a> get more office tech tips.</p>
+<p>Thanks for reading.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/">How to Change Password on MTN HyNetflex</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/feed/</wfw:commentRss>
+			<slash:comments>18</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Website vs Homepage vs Landing Page: Which is Correct?</title>
+		<link>https://branditechture.agency/website-vs-landing-page/</link>
+					<comments>https://branditechture.agency/website-vs-landing-page/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:17 +0000</pubDate>
+				<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=12984</guid>
+
+					<description><![CDATA[<p>What is the difference: having a landing page created versus having a website created? Sometimes, this is a case of popular parlance versus correct terminology. Companies and freelancers face the constant challenge of professionalizing their external image. If you search the internet for agencies and service providers who proffer web design services, you&#8217;ll inevitably come [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/website-vs-landing-page/">Website vs Homepage vs Landing Page: Which is Correct?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>What is the difference: having a landing page created versus having a website created? Sometimes, this is a case of popular parlance versus correct terminology.</p>
+<p>Companies and freelancers face the constant challenge of professionalizing their external image. If you search the internet for agencies and service providers who proffer <a href="https://branditechture.agency/lets-build-your-website/">web design services</a>, you&#8217;ll inevitably come into contact with different terms. These include in particular &#8220;Homepage&#8221;, &#8220;Site&#8221;, &#8220;Website&#8221; and &#8220;Landing page&#8221;. But you may be wondering, &#8220;what exactly is behind it? Should I now have the agencies create a landing page for me, or a homepage, or a website?&#8221;</p>
+<p>First of all, we find it perfectly legitimate that different providers also use different terms. Above all, it is important that these are used consistently and that their meaning is communicated transparently. Unfortunately, that&#8217;s more wishful thinking than reality. Because many service providers switch wildly between the terms, for example speaking of a website in one place and a landing page in another. We cannot, therefore, expect the layperson to know, let alone understand, the correct meaning. Overall, we are currently (still) far from correct usage in common parlance.</p>
+<p>At this point, we would like to clarify and bring you closer to our definitions. At the same time, we appeal to our colleagues to speak a uniform language here &#8211; and to serve the reader with a common context.</p>
+<h2>Having a homepage created</h2>
+<p>The search combination &#8220;Create homepage&#8221; is queried very often on Google and even displayed automatically via the so-called autocomplete function:</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-12986" title="Google Homepage Autocomplete Screenshot" src="https://branditechture.agency/wp-content/uploads/2021/10/Google-Homepage-Autocomplete-Screenshot.png" alt="Google Homepage Autocomplete Screenshot" width="1288" height="772" srcset="https://branditechture.agency/wp-content/uploads/2021/10/Google-Homepage-Autocomplete-Screenshot.png 1288w, https://branditechture.agency/wp-content/uploads/2021/10/Google-Homepage-Autocomplete-Screenshot-300x180.png 300w, https://branditechture.agency/wp-content/uploads/2021/10/Google-Homepage-Autocomplete-Screenshot-1024x614.png 1024w, https://branditechture.agency/wp-content/uploads/2021/10/Google-Homepage-Autocomplete-Screenshot-768x460.png 768w, https://branditechture.agency/wp-content/uploads/2021/10/Google-Homepage-Autocomplete-Screenshot-480x288.png 480w" sizes="(max-width: 1288px) 100vw, 1288px" /></p>
+<p>Strictly speaking, the homepage refers to the <strong><em>front page</em></strong> of a website. The Oxford Dictionary, for example, defines the term homepage as follows: “the introductory page of a website, typically serving as a table of contents for the site.&#8221;  (See <a class="extlink" target="_blank" href="https://www.google.com/search?q=What+is+a+homepage" rel="noopener">What is a Homepage.)</a></p>
+<div id="attachment_12988" style="width: 2570px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-12988" class="size-full wp-image-12988" title="Homepage of Branditechture Design Agency min" src="https://branditechture.agency/wp-content/uploads/2021/10/Homepage-of-Branditechture-Design-Agency-min.png" alt="Homepage of Branditechture Design Agency min" width="2560" height="1378" srcset="https://branditechture.agency/wp-content/uploads/2021/10/Homepage-of-Branditechture-Design-Agency-min.png 2560w, https://branditechture.agency/wp-content/uploads/2021/10/Homepage-of-Branditechture-Design-Agency-min-300x161.png 300w, https://branditechture.agency/wp-content/uploads/2021/10/Homepage-of-Branditechture-Design-Agency-min-1024x551.png 1024w, https://branditechture.agency/wp-content/uploads/2021/10/Homepage-of-Branditechture-Design-Agency-min-768x413.png 768w, https://branditechture.agency/wp-content/uploads/2021/10/Homepage-of-Branditechture-Design-Agency-min-1536x827.png 1536w, https://branditechture.agency/wp-content/uploads/2021/10/Homepage-of-Branditechture-Design-Agency-min-480x258.png 480w, https://branditechture.agency/wp-content/uploads/2021/10/Homepage-of-Branditechture-Design-Agency-min-1320x711.png 1320w" sizes="(max-width: 2560px) 100vw, 2560px" /><p id="caption-attachment-12988" class="wp-caption-text">Homepage of Branditechture Design Agency</p></div>
+<p>We at <a href="https://branditechture.agency/">Branditechture&gt;</a> see it the same way. A homepage is the master page of your website. It is not without reason that there is also a &#8220;HOME&#8221; item in the main menu on many websites &#8211; and this always leads the visitor to the start page, that is, to the homepage.</p>
+<h2>Having a website created</h2>
+<p>When we speak of the entire website and not just the homepage, we use the term &#8220;website&#8221;. This also includes all sub-pages, in many cases, these are, for example, <strong>About us</strong>, <strong>services</strong>, <strong>offers</strong>, <strong>contact</strong>, <strong>blog</strong>, <strong>cookie policy</strong>, etc.</p>
+<p>By the way, if you want to find out which sub-pages belong to a certain domain and are indexed on Google, then simply start a query according to the format &#8220;site:thewebsite.com&#8221; &#8211; Google will serve you, as a result, only sub-pages that belong to the website in the search query above.</p>
+<h2>Have a landing page created</h2>
+<p>Last but not least, let&#8217;s look at the so-called landing page, which has a kind of special role in the world of web development. From a purely technical point of view, a landing page can be part of a website (if it is a subpage based on the principle of &#8220;website.com/sales-course&#8221;), but it can also be an independent website (if it has its own dedicated <a class="extlink" href="https://support.branditechture.agency/docs/what-is-a-domain-name/" target="_blank" rel="noopener">domain name</a> and, for example, &#8220;sales-course.com&#8221;). Below is a perfect example of a landing page;</p>
+<div id="attachment_12989" style="width: 2570px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-12989" class="size-full wp-image-12989" title="Landing Page LWY com ng min" src="https://branditechture.agency/wp-content/uploads/2021/10/Landing-Page-LWY.com_.ng-min.png" alt="Landing Page LWY com ng min" width="2560" height="1378" srcset="https://branditechture.agency/wp-content/uploads/2021/10/Landing-Page-LWY.com_.ng-min.png 2560w, https://branditechture.agency/wp-content/uploads/2021/10/Landing-Page-LWY.com_.ng-min-300x161.png 300w, https://branditechture.agency/wp-content/uploads/2021/10/Landing-Page-LWY.com_.ng-min-1024x551.png 1024w, https://branditechture.agency/wp-content/uploads/2021/10/Landing-Page-LWY.com_.ng-min-768x413.png 768w, https://branditechture.agency/wp-content/uploads/2021/10/Landing-Page-LWY.com_.ng-min-1536x827.png 1536w, https://branditechture.agency/wp-content/uploads/2021/10/Landing-Page-LWY.com_.ng-min-480x258.png 480w, https://branditechture.agency/wp-content/uploads/2021/10/Landing-Page-LWY.com_.ng-min-1320x711.png 1320w" sizes="(max-width: 2560px) 100vw, 2560px" /><p id="caption-attachment-12989" class="wp-caption-text">Image from: <a href="https://lwy.com.ng/" target="_blank" rel="noopener">lwy.com.ng</a></p></div>
+<p>In the vast majority of cases, the primary purpose of landing pages is to promote and sell certain products, services or offers. Ergo: The pages should, ideally, convert visitors into buyers.</p>
+<p>According to Mailchimp, a landing page is a standalone web page that potential customers can “land” on when they click through from an email, ad, or other digital location.</p>
+<p>A landing page should lead the user directly to a specific offer without detours. The landing page, therefore, has the purpose of direct interaction with the visitor.</p>
+<p>This is done using a response element that is optimized with regard to the needs of the target group. So the real purpose is <strong>conversion</strong>. The target group is motivated, for example, to change from prospects to customers. A visitor may arrive directly at the offer (on your landing page) via a search engine or an advertising button.</p>
+<p>Unlike a full-fledged website, a landing page focuses on marketing <strong>one</strong> product or service.</p>
+<h2>Conclusion</h2>
+<p>If you are looking online for a web design agency to develop your new website, then the search combination “have your website created” is technically more appropriate than “have your homepage created”. However, due to the inconsistent use of the different terms from provider to provider and from website to website, you will certainly find potential service providers with the combination &#8220;Have a homepage created&#8221;.</p>
+<hr />
+<p>Are you considering a website design? <a href="https://branditechture.agency/lets-build-your-website/">We can help!</a></p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/website-vs-landing-page/">Website vs Homepage vs Landing Page: Which is Correct?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/website-vs-landing-page/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What Elon Teaches Us About Brand Naming</title>
+		<link>https://branditechture.agency/what-elon-teaches-us-about-branding/</link>
+					<comments>https://branditechture.agency/what-elon-teaches-us-about-branding/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:52 +0000</pubDate>
+				<category><![CDATA[Branding Tips]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=8594</guid>
+
+					<description><![CDATA[<p>Elon, in fact, was nowhere near Mark Zuckerberg a couple of years back, but he did see a meteoric rise in his net worth over the past few years. But still, Elon doesn&#8217;t really care about these things. In his words: &#8220;I really couldn&#8217;t care less. These numbers rise and fall but what really matters [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-elon-teaches-us-about-branding/">What Elon Teaches Us About Brand Naming</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Elon, in fact, was nowhere near Mark Zuckerberg a couple of years back, but he did see a meteoric rise in his net worth over the past few years. But still, Elon doesn&#8217;t really care about these things. In his words: <strong>&#8220;I really couldn&#8217;t care less. These numbers rise and fall but what really matters is <em>making products</em> that people love&#8221;.  </strong>But there&#8217;s always one thing that strikes different about Elon&#8217;s products — their brand names. As any &#8220;<span class="gt3_custom_tooltip" data-gt3-tooltip="Public Relations">PR</span>-conscious&#8221; business person would advise, the first thing your brand needs is a catchy name.</p>
+<p>Africans, most notably, South Africans, love to claim Elon Musk as one of their own people. After all, he was birthed in Pretoria, a capital city in South Africa. He even schooled in South Africa, so most Africans seem not to <em><strong>give a hoot</strong></em> if Elon made his goodwill and fortune in the United States of America.</p>
+<p>With a net worth of 147 Billion US Dollars ($147bn), Elon is now filthy rich (and over 12 times richer than the richest man in the whole of Africa, who currently stands at $11.7bn as of May 2021, according to <strong>Forbes</strong>).</p>
+<p>Absolutely, business is all about delivering products or services that people love, but how does one give an identity to these products or services? How do you brand them? How or where do you find the inspiration for a suitable brand name?</p>
+<h2>Let&#8217;s learn some lessons from Elon.</h2>
+<p>On the 31st March 2017,  <em>The Economist</em>, an international newspaper agency published an article titled <a class="extlink" href="https://www.economist.com/1843/2017/03/31/the-novelist-who-inspired-elon-musk" target="_blank" rel="noopener" data-schema-attribute=""><strong>&#8220;The novelist who inspired Elon Musk&#8221;</strong></a>. The article gave an intriguing insight as to where Elon sources his brand names from:</p>
+<p>&#8220;Not satisfied with reusable rockets, electric cars, giant batteries, vacuum trains and underground roads, his latest firm, <strong>Neuralink</strong>, hopes one day to build a working brain-machine interface (BMI), which would let its user control computers simply by thinking. The idea is not new – scientists have been experimenting with BMIs in labs for years – but Musk’s involvement will sprinkle it with stardust.&#8221;</p>
+<p>It carried on: &#8220;As any entrepreneur will tell you, <span class="gt3_highlighter">the first thing your product needs is a catchy name</span><span class="gt3_highlighter">.</span> &#8220;Brain-machine interface&#8221; is a bit clunky, so Musk has plumped instead for neural lace, which is short, memorable and glamorous. Science fiction fans will recognise it from the &#8216;Culture&#8217; novels of Iain M. Banks, a Scottish writer who died in 2013.&#8221;</p>
+<p>So, it is safe to conclude that one vital source of Elon Musk&#8217;s brand names is<span class="gt3_highlighter" style="background-color: #eeee22;"> science fiction!</span></p>
+<p>Another likely source is <span class="gt3_highlighter" style="background-color: #eeee22;">scientific facts.</span> According to a report published in <em>The Independent</em> on the 2nd of December 2019, Elon, being an industrial designer, was &#8220;desperate&#8221; for the name, <strong>Tesla</strong>, because it happens to be the name of an inventor that he apparently has so much respect for — <strong>Nikola Tesla. </strong></p>
+<p>But, as many entrepreneurs can relate, the name he wanted had already been taken.</p>
+<p>Elon did something that many can&#8217;t; he bought it. He paid the original owner some $ 75 000, in 2014.</p>
+<p>Consequentially, he needed and of course, wanted the <strong>.com</strong> TLD for Tesla too. But that proved to be far more of a challenge – It took longer for Tesla to acquire the rights to use the domain name <strong>Tesla.com</strong> than it took to design, build and sell its first car!</p>
+<p>It took some 11 million US dollars ($11m) and almost 10 years of negotiation to finally convince Silicon Valley engineer, Stuart Grossman to sell him the rights to Tesla.com. The company had been using TeslaMotors.com, but Elon has always had a broader vision than Tesla being just a car company, which explains his keen desire to acquire the more simple domain name, Tesla.com.</p>
+<p><iframe title="Third Row Tesla Podcast – Elon&#039;s Story – Part 1" width="940" height="529" src="https://www.youtube.com/embed/NxmO_QuD4Do?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>&#8220;That took us 10 years to buy that Tesla.com domain,&#8221; Musk said on the <a class="extlink" href="https://www.youtube.com/watch?v=NxmO_QuD4Do&amp;feature=youtu.be" target="_blank" rel="nofollow noopener">Third Row Tesla Podcast</a>. &#8220;That cost us like, $10 million.&#8221;</p>
+<p>Musk had earlier taken to Twitter in 2018 to inform us that it actually cost him $11 million, plus an &#8220;amazing amount of effort,&#8221; to get the domain name off Grossman.</p>
+<p>It was said that if Elon had failed to acquire the rights to Tesla, he would&#8217;ve chosen Faraday, which is also the name of an inventor.</p>
+<p>&nbsp;</p>
+<div id="attachment_8597" style="width: 985px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-8597" class="size-full wp-image-8597" title="Tesla Motor" src="https://branditechture.agency/wp-content/uploads/2021/05/Tesla-Motor.jpg" alt="Tesla Motor" width="975" height="650" srcset="https://branditechture.agency/wp-content/uploads/2021/05/Tesla-Motor.jpg 975w, https://branditechture.agency/wp-content/uploads/2021/05/Tesla-Motor-300x200.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/05/Tesla-Motor-768x512.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/05/Tesla-Motor-480x320.jpg 480w" sizes="(max-width: 975px) 100vw, 975px" /><p id="caption-attachment-8597" class="wp-caption-text">Tesla Motors Logo</p></div>
+<p>So, is it all just a matter of going with a catchy name? Well, remember our last discussion on the <a href="https://branditechture.agency/lessons-to-learn-from-lil-nas-xs-satan-shoes-saga/">Lil Nas X and MSCHF vs Nike Saga?</a>  We learnt some branding lessons which certainly raised our awareness on trademarking your intellectual property (or IP) so you can have enforceable rights to it.</p>
+<p>We also talked about the need to keep your IP as unique as possible in order to avoid any &#8220;<strong>likelihood of confusion&#8221;</strong>.</p>
+<p><strong>Read Also: <a href="https://branditechture.agency/top-6-factors-to-consider-when-naming-a-brand/" target="_blank" data-schema-attribute="" rel="noopener">Naming A Brand — Top 6 Factors To Consider</a> </strong></p>
+<p>For a trademark to be eligible for registration, <a href="https://branditechture.agency/top-6-factors-to-consider-when-naming-a-brand/">the name must be peculiar</a>, or as the law tends to put it, capable of distinguishing the product or service offerings of one brand from that of another. But how distinctive is distinctive enough?</p>
+<p>A brand name can either be naturally or inherently distinctive, or it can become distinctive of a brand&#8217;s offerings via considerable levels of usage (or LoU).</p>
+<p>This generally excludes words that are generic, overly obvious and descriptive of the brand.</p>
+<p>It excludes words that are flattering or overhype the product. It excludes important geographical names like Nassau, Macau, Barbados e.t.c. It also excludes a very huge percentage of personal names we have today.</p>
+<p>But made-up words are so good. So are existing words used out of context. Obscure arcane references can also work, as with words from ancient languages.</p>
+<p>The most important thing is that the name must, of course, also be available.</p>
+<p>No matter how distinguished you think it is, chances are it may already have been registered by someone else, or perhaps, something similar to that may have been registered. This is where a trademark database query is required.</p>
+<p>That is where we come in. <a href="https://branditechture.agency/contact/" data-schema-attribute="">Branditechture</a> can help with this.</p>
+<p>Yes, I told you in the previous paragraph that personal names are very unlikely to work as trademarks. Well, there are exceptions to every rule, and once again Elon Musk is one.</p>
+<p>Admittedly, Elon is a very rare name and it&#8217;s reasonably safe to say that it&#8217;s now automatically connected with one person. (Which is why I didn&#8217;t need to write his full name in the title before you knew who this article was about).</p>
+<p>You can&#8217;t say the same with popular names like Mark, John, Doe, Mary, Jane, Bill, or Jeff.</p>
+<p>Elon, being a futuristic thinker, appears to have made sure that his son bears a name that will easily work out as a trademark. Beyonce and Jay-Z also did the same thing when they named their daughter Blue Ivy.</p>
+<p>In the case of Elon&#8217;s son, you&#8217;d agree with me that his name is better read silently than pronounced. Just for the record, Elon&#8217;s son is named: <strong>X Æ A-12</strong> which rather seems more to me like he&#8217;s showing off his naming skills.</p>
+<div id="attachment_8598" style="width: 950px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-8598" class="size-large wp-image-8598" title="Elon Musks Naming Skills Elon Musks Son" src="https://branditechture.agency/wp-content/uploads/2021/05/Elon-Musks-Naming-Skills-Elon-Musks-Son-1024x768.jpg" alt="Elon Musks Naming Skills Elon Musks Son" width="940" height="705" srcset="https://branditechture.agency/wp-content/uploads/2021/05/Elon-Musks-Naming-Skills-Elon-Musks-Son-1024x768.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/05/Elon-Musks-Naming-Skills-Elon-Musks-Son-300x225.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/05/Elon-Musks-Naming-Skills-Elon-Musks-Son-768x576.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/05/Elon-Musks-Naming-Skills-Elon-Musks-Son-480x360.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/05/Elon-Musks-Naming-Skills-Elon-Musks-Son.jpg 1200w" sizes="(max-width: 940px) 100vw, 940px" /><p id="caption-attachment-8598" class="wp-caption-text">Elon Musk and Son, X Æ A-12.</p></div>
+<hr />
+<p>Need Brand Naming services? Select <strong>Brand Naming <a href="https://branditechture.agency/start-a-project/">HERE</a></strong> and we&#8217;ll get on a virtual meeting with you as scheduled.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-elon-teaches-us-about-branding/">What Elon Teaches Us About Brand Naming</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/what-elon-teaches-us-about-branding/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How To Dial Codes and Send or Check SMS on Your MTN Mi-Fi and HyNetflex</title>
+		<link>https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/</link>
+					<comments>https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:50 +0000</pubDate>
+				<category><![CDATA[How Tos]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17114</guid>
+
+					<description><![CDATA[<p>Due to the lack of a touch-enabled interface and LCD display on the MTN Mi-Fi and Hynetflex Routers, less tech-savvy owners are finding it hard to dial USSD codes to load airtime or check data balance without having to remove their SIM card. But In this post, I will show you how to check your [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/">How To Dial Codes and Send or Check SMS on Your MTN Mi-Fi and HyNetflex</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Due to the lack of a touch-enabled interface and LCD display on the <a href="https://branditechture.agency/mtn-hynetflex-honest-review/" target="_blank" rel="noopener">MTN Mi-Fi</a> and <a href="https://branditechture.agency/mtn-hynetflex-honest-review/" target="_blank" rel="noopener">Hynetflex Routers</a>, less tech-savvy owners are finding it hard to dial USSD codes to load airtime or check data balance without having to remove their SIM card. But In this post, I will show you how to check your airtime balance, load airtime, send and read text messages on your MTN Mi-Fi and router devices.</p>
+<p>MTN is doing well lately having released a series of <a href="https://branditechture.agency/the-key-differences-between-a-mifi-and-a-router/" target="_blank" rel="noopener">Mi-Fi and Router Devices</a> into the market in partnership with the Chinese telecoms technology company, ZTE. I have personally used and tested two of them, and they include;</p>
+<ol>
+<li><a href="https://branditechture.agency/mtn-hynetflex-honest-review/" target="_blank" rel="noopener">MTN HyNetflex ZTE MF286 Router</a></li>
+<li><a href="https://branditechture.agency/reviews/mtn-mifi-review/" target="_blank" rel="noopener">MTN Broadband MiFi MF927U</a></li>
+</ol>
+<div id="attachment_15891" style="width: 729px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-15891" class="size-full wp-image-15891" title="A Photo of the MTN MiFi on its box" src="https://branditechture.agency/wp-content/uploads/2022/05/A-Photo-of-the-MTN-MiFi-on-its-box.jpg" alt="A Photo of the MTN MiFi on its box" width="719" height="769" srcset="https://branditechture.agency/wp-content/uploads/2022/05/A-Photo-of-the-MTN-MiFi-on-its-box.jpg 719w, https://branditechture.agency/wp-content/uploads/2022/05/A-Photo-of-the-MTN-MiFi-on-its-box-280x300.jpg 280w, https://branditechture.agency/wp-content/uploads/2022/05/A-Photo-of-the-MTN-MiFi-on-its-box-480x513.jpg 480w" sizes="(max-width: 719px) 100vw, 719px" /><p id="caption-attachment-15891" class="wp-caption-text">📷: MTN 4G Broadband MiFi, and MTN HyNetflex Router.</p></div>
+<p>To view and top-up your MTN Mi-Fi and Router airtime and data balance, you would need to gain access to the control dashboard. All you need to do is follow the steps below;</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 1:</span> </strong><br />
+Make sure that your device is connected to your MTN Mi-Fi or Router, else <strong><em>Step 2</em> </strong>won&#8217;t work.</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 2: </span></strong><br />
+Using a web browser, visit <strong>http://192.168.0.1/</strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 3: </span></strong><br />
+Login with the default password: <strong>admin</strong></p>
+<p>Once in the dashboard, you should be able to do the following;</p>
+<ul>
+<li>✔ <strong>Dial USSD Codes</strong> (Used to load airtime and check airtime and data balance)</li>
+<li>✔ <strong>Send text messages</strong> (SMS)</li>
+</ul>
+<p>To check your data balance, you can simply send an SMS with the number &#8220;<strong>2</strong>&#8221; to <strong>131. </strong>Details of your data balance would be sent to you via SMS immediately.</p>
+<p>I hope this short piece of information has helped you. If you find it helpful, please share.</p>
+<p>Thanks for reading.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/">How To Dial Codes and Send or Check SMS on Your MTN Mi-Fi and HyNetflex</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>You Don&#8217;t Need A Huge Social Media Following! (With Free PDF Strategy)</title>
+		<link>https://branditechture.agency/you-dont-need-a-huge-following/</link>
+					<comments>https://branditechture.agency/you-dont-need-a-huge-following/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:32 +0000</pubDate>
+				<category><![CDATA[Expert Opinions]]></category>
+		<category><![CDATA[Tips]]></category>
+		<category><![CDATA[followers]]></category>
+		<category><![CDATA[following]]></category>
+		<category><![CDATA[opinions]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=7516</guid>
+
+					<description><![CDATA[<p>These days, it is quite common to see a lot of freelancers and small business owners worry about the low number of followers they have on their social media pages. This has nudged me to write down my thoughts on this topic. DISCLAIMER: My thoughts on this topic are somewhat biased and reflect my own [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/you-dont-need-a-huge-following/">You Don&#8217;t Need A Huge Social Media Following! (With Free PDF Strategy)</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>These days, it is quite common to see a lot of freelancers and small business owners worry about the low number of followers they have on their social media pages. This has nudged me to write down my thoughts on this topic.</p>
+<p><em><span style="color: #ff6600;">DISCLAIMER:</span> My thoughts on this topic are somewhat biased and reflect my own views</em></p>
+
+
+
+<h2>Why you don&#8217;t need a huge social media following</h2>
+
+
+
+<p>While a lot of social media followers can give you or your brand an ego boost, It is quite necessary to understand that you don&#8217;t need a huge following to hit those six, seven, or eight figures monthly.</p>
+
+
+
+
+
+<p>The thing about followership on social media is that it is best to leave it to grow at a natural pace while you maintain a laser focus on providing content that your target audience must find interactive. </p>
+<p>Having so many social media following should get you noticed, but even that is not guaranteed.</p>
+<p>The algorithm of major social media platforms like Instagram and Facebook have undergone series of seismic changes over the years. Today, your follower counts no longer translate to impressions. You have got to work extra hard for it.  </p>
+
+
+
+<h2>Case Studies</h2>
+<p>Having made my point above, I would like to further prove it by doing a quick comparison between two Instagram accounts from the same community (Design);</p>
+<p><span style="text-decoration: underline;"><strong>Case Study 1</strong></span></p>
+<p>If this is all the engagement <em><strong>@the.branding</strong> </em>could only muster for this post despite having over 271,000+ followers, well, you tell me, what the h*ll happened to the other 270,000+ followers? </p>
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-permalink="https://www.instagram.com/p/COnMQj-gA-b/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13">
+<div style="padding: 16px;">
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"> </div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"> </div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"> </div>
+</div>
+</div>
+<div style="padding: 19% 0;"> </div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"> </div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"> </div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"> </div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"> </div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"> </div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"> </div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"> </div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"> </div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"> </div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"> </div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"> </div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"> </div>
+</div>
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a href="https://www.instagram.com/p/COnMQj-gA-b/?utm_source=ig_embed&amp;utm_campaign=loading" style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" target="_blank" rel="noopener">A post shared by Logo Web &amp; Brand Identity (@the.branding)</a></p>
+</div>
+</blockquote>
+<p><script async src="//www.instagram.com/embed.js"></script></p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>Case Study 2</strong></span></p>
+<p>@pinkush, a tech photographer garnered over 3.5k likes and 41 comments for this post.</p>
+<p>He has just 46k followers at the time this blog post was last updated, with an average engagement of 2500 interactions per post.</p>
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-permalink="https://www.instagram.com/p/CL1oy6OgQHc/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13">
+<div style="padding: 16px;">
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"> </div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"> </div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"> </div>
+</div>
+</div>
+<div style="padding: 19% 0;"> </div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"> </div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"> </div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"> </div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"> </div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"> </div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"> </div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"> </div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"> </div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"> </div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"> </div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"> </div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"> </div>
+</div>
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a href="https://www.instagram.com/p/CL1oy6OgQHc/?utm_source=ig_embed&amp;utm_campaign=loading" style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" target="_blank" rel="noopener">A post shared by Pinkush (@tjpinkush)</a></p>
+</div>
+</blockquote>
+<p><script async src="//www.instagram.com/embed.js"></script></p>
+<p><strong>Read Also: <a href="https://branditechture.agency/how-to-optimize-your-facebook-profile-for-quality-leads/" target="_blank" rel="noopener">How to Optimize Your Facebook Profile for Quality Leads</a></strong></p>
+<h2>&#8220;Errr.. but my friends bought some real active followers.&#8221;</h2>
+
+
+
+<p>Buying followers and exploring various manipulative techniques to grow your social media followership is never worth the risk.</p>
+<p>You are most likely going to get your account suspended or worse, permanently deactivated with no option to file an appeal.</p>
+
+
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" class="wp-image-7518" src="https://branditechture.agency/wp-content/uploads/2021/04/Stop-buying-Instagram-followers.png" alt="Google results for How to buy followers" width="825" height="462" title="You Don&#039;t Need A Huge Social Media Following! (With Free PDF Strategy) 1" srcset="https://branditechture.agency/wp-content/uploads/2021/04/Stop-buying-Instagram-followers.png 865w, https://branditechture.agency/wp-content/uploads/2021/04/Stop-buying-Instagram-followers-300x168.png 300w, https://branditechture.agency/wp-content/uploads/2021/04/Stop-buying-Instagram-followers-768x430.png 768w, https://branditechture.agency/wp-content/uploads/2021/04/Stop-buying-Instagram-followers-480x269.png 480w" sizes="(max-width: 825px) 100vw, 825px" />
+<figcaption>Googling this is a huge waste of time. Stop doing it.</figcaption>
+</figure>
+
+
+
+
+
+<p><em><strong>Does that mean you can&#8217;t grow your engagement on social media if you don&#8217;t have the time to create engaging content?</strong> </em>Well, No.</p>
+
+
+
+<p>That is why digital agencies exist.</p>
+<p>A full-experience digital agency like <a href="https://branditechture.agency/" class="rank-math-link">Branditechture</a> can effectively help you manage your social media accounts.</p>
+
+
+
+
+
+
+
+<h2 class="wp-block-heading">How do digital agencies help?</h2>
+
+
+
+<p>For entrepreneurs and small business owners who are too busy to post highly engaging content on a regular basis, a Digital Agency can help set up a content plan and a posting schedule for their business.</p>
+
+
+
+<p>You can subscribe to a fully-managed social media plan to further reduce the need for you to intervene. However, bear in mind that the primary goal of this strategy is never to amass a massive amount of followers but to stimulate engagements from high-quality leads or prospective customers <br />(who don&#8217;t necessarily have to be following you).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><a href="https://github.com/branditechture/branditechture.github.io/raw/master/Branditechture%20-%203-Month%20Social%20Media%20Content%20Strategy%20%26%20Implementation.pdf" class="rank-math-link" target="_blank" rel="noopener">Click HERE </a>to take take advantage of the <a href="https://github.com/branditechture/branditechture.github.io/raw/master/Branditechture%20-%203-Month%20Social%20Media%20Content%20Strategy%20%26%20Implementation.pdf" class="rank-math-link" target="_blank" rel="noopener">FREE 3-Month Social Media Strategy &amp; Implementation Plan (PDF | 3.7MB)</a></p>
+<p><strong>Read Also: <a target="_blank" href="https://branditechture.agency/content-ideas-for-your-content-marketing/" rel="noopener">Content Marketing — 20 Ideas For Your Brand</a></strong></p>
+<h2>Follower &#8211; Brand engagement is key</h2>
+<p>Simply put, your<strong> social media engagement rate</strong> is the sum total of the likes and comments that you receive divided by the number of followers you have.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span>(Likes + comments per post)</span><span><br /></span><span>              –––––––––––––––––––––––––      X 100</span><span><br /></span><span>Total number of followers</span></p>
+<p>&nbsp;</p>
+<p>Having a gigantic number of followers sounds good, but you shouldn&#8217;t scold yourself for not having one. You should rather aim for active, engaging followers instead. </p>
+<p>Consistently generating revenue with a few followers on social media may sound like a stretch but it&#8217;s entirely possible if you know exactly what you&#8217;re doing.</p>
+
+
+
+
+
+<p>To summarize the points discussed above, you don&#8217;t need to have a massive following or be a famous influencer to make that money, you just need to be valuable and consistently show people that you can solve their problems.</p>
+
+
+
+
+
+<p>If your content stays valuable and consistent, you will always get DMs (or Direct Messages).</p>
+
+
+
+
+
+<p>When a prospective customer initiates a conversation, you are automatically in a better position to hop on a call and further discuss business with them.</p>
+
+
+
+
+
+<p>It&#8217;s as simple as this and anyone can do it if they put in the effort.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/you-dont-need-a-huge-following/">You Don&#8217;t Need A Huge Social Media Following! (With Free PDF Strategy)</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/you-dont-need-a-huge-following/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>7 Amazing Microcopy Tips For UX Designers</title>
+		<link>https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/</link>
+					<comments>https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:30 +0000</pubDate>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[How Tos]]></category>
+		<category><![CDATA[graphic design]]></category>
+		<category><![CDATA[Microcopy]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=6272</guid>
+
+					<description><![CDATA[<p>Using the right words can make all the difference when it comes to user experience (UX). Let’s imagine you designed an e-commerce app. With just a few words, a user can either establish enough connection to make a purchase right away, or they may decide to avoid further interaction with your entire user interface, leaving [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/">7 Amazing Microcopy Tips For UX Designers</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Using the right words can make all the difference when it comes to user experience (UX).</p>
+
+
+
+<p>Let’s imagine you designed an e-commerce app. With just a few words, a user can either establish enough connection to make a purchase right away, or they may decide to avoid further interaction with your entire user interface, leaving their cart empty or abandoned &#8211; It all boils down to the quality of your microcopy. </p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>Microcopy has long played a role in the success or failure rates of many projects, business proposals, marketing materials, and even an entire startup.</p>
+
+
+
+
+
+<p>As more UX Designers become aware of the term, it has become an essential component of many top-level UI/UX Design projects.  </p>
+
+
+
+
+
+<p>Copywriting is usually the art of writing marketing copy, and people who are professionally skilled in copywriting are called Copywriters. </p>
+
+
+
+
+
+<p>UX Microcopy Writing may somewhat be related to Copywriting since it is usually about earning user trust through the art of writing compelling, yet concise texts.</p>
+
+
+
+
+
+
+
+
+
+<h2 class="wp-block-heading">Wait! What is Microcopy?</h2>
+
+
+
+<p>Microcopy refers to those clever and concise texts you often see on websites, apps, marketing banners, and even products. </p>
+
+
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" class="wp-image-6274" src="https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1024x768.jpg" alt="Screenshot of a sample website showing copy and microcopy sections" title="7 Amazing Microcopy Tips For UX Designers 9" srcset="https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1024x768.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-300x225.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-768x576.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1536x1152.jpg 1536w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-480x360.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1320x990.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1200x900.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>Screenshot of a sample website showing copy and microcopy sections</figcaption>
+</figure>
+
+
+
+<p>These very few but descriptive words tell a user what to do, help users navigate your app, give users a heads up on what to expect and provide context to a situation. </p>
+
+
+
+
+
+<p>Getting your microcopy done the right way would invariably help tell the greater story about your brand, product, and the way you do business.</p>
+
+
+
+
+
+
+<h2 class="wp-block-heading">How does Microcopy differ from Copy?</h2>
+
+
+
+<p>Microcopy is always concerned with all aspects of the user experience.</p>
+
+
+
+
+
+<p>Processes like onboarding instructions, call-to-action button (a.k.a CTA button) texts, warning notifications, texts in the pop-up modals etc., are given the highest priority.</p>
+
+
+
+
+
+<p>Copy on the other hand generally focuses more on user acquisition through the use of clever textual content on various marketing materials such as web banners, e-mail newsletters, social media banners etc. </p>
+
+
+
+
+
+<p>Both terms are quite similar in many ways but while the ultimate goal of every copy is to <strong>acquire </strong>new users or customers, the ultimate goal of every microcopy is to <strong>retain </strong>users, especially first-time users. </p>
+
+
+
+
+
+<h2 class="wp-block-heading">Seven Practical Tips for Better UX Microcopy</h2>
+
+
+
+
+
+<ol class="wp-block-list">
+<li><span style="font-size: 20px;"><strong>Use Personal Pronouns</strong></span><br />Address the user with words like “You”. People feel closer and pay more attention when you talk directly to them.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1043" class="wp-image-6270" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-1.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 10" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-1.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-1024x765.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-1320x986.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /></li>
+<li><span style="font-size: 20px;"><strong>Start With A Verb</strong></span><br />Users are instinctively more inclined to take actions when you start your microcopy with an action verb where possible. The same rule goes for marketing copy.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1043" class="wp-image-6269" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-2.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 11" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-2.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-1024x765.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-1320x986.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />Copy starting with a verb are more persuasive and engaging. (In copywriting, “Copy” is used, whether singular or plural)<br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Avoid User Concerns</strong></span><br />Prevent concerns as much as you can. Be clear and avoid users worrying about what your motives are.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1043" class="wp-image-6268" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-3.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 12" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-3.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-1024x765.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-1320x986.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />An effective microcopy would usually erase doubts and prevent a lot of questions with as few words as possible.<br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Use Natural Language</strong></span><br />Write conversationally as though you were talking to the user one-on-one. Maintain a relaxed tone. Get rid of jargon and use simple, familiar and relatable words.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1044" class="wp-image-6267" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-4.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 13" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-4.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-1024x766.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-1320x987.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Default to Active Voice</strong></span><br />Most of the time, an active voice would do the trick. Active voice is easier to understand than passive voice.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1044" class="wp-image-6266" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-5.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 14" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-5.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-1024x766.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-1320x987.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />Active voice also feels less technical, often shorter, and relatively stronger than passive voice.<br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Show Meaningful Error Messages</strong></span><br />Avoid using threatening, negative or overly technical words.<br /><br />Be friendly and show empathy. Take time to explain to the user in plain English what went wrong.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1043" class="wp-image-6265" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-6.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 15" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-6.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-1024x765.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-1320x986.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />More technical details of the error can be logged in the console or log file, just prevent your users from seeing them, they are not developers.<br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Be Consistent With Your Choice of Words</strong></span><br />For example, if you have two or more CTA buttons that do the same thing, decide on just which microcopy to use for that CTA and stick to it.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1044" class="wp-image-6275" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 16" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-1024x766.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-1320x987.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />In some cases, using a completely different microcopy to refer to the same action throughout your website or app may confuse your users, although this is more of an opinion as there is no practical evidence to back up this claim at the time of writing this.</li>
+</ol>
+
+
+
+
+
+<p>Do you have a UI/UX design project at hand and you have some concerns? <a href="https://branditechture.agency/start-a-project/" class="rank-math-link">Click Here</a> to submit your brief and we shall get back to you with a comprehensive quote within 24 working hours.</p>
+
+
+
+
+
+<p>Did I miss anything out? We would appreciate your comment.</p>
+
+
+
+
+
+<p>If you are a designer like me, you might want to <a aria-label=" (opens in a new tab)" href="https://behance.net/yusuf-odukoya" target="_blank" rel="noreferrer noopener" class="rank-math-link">follow me on Behance.</a></p>
+
+
+
+
+
+<p>Thanks for reading.</p>
+
+
+
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/">7 Amazing Microcopy Tips For UX Designers</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Baseline vs. Progressive  —  JPEG Formats Explained For Dummies</title>
+		<link>https://branditechture.agency/baseline-vs-progressive-jpeg/</link>
+					<comments>https://branditechture.agency/baseline-vs-progressive-jpeg/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:26 +0000</pubDate>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[Website Design Tips]]></category>
+		<category><![CDATA[jpeg]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=5888</guid>
+
+					<description><![CDATA[<p>What is JPEG? JPEG, also known as JPG, stands for Joint Photographic Experts Group.  It is a standard image format used for compressed image data.  Despite the huge reduction in file size as a result of the compression, JPEG images can still maintain reasonable image quality.  This compression allows JPEG files to be used widely [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/baseline-vs-progressive-jpeg/">Baseline vs. Progressive  —  JPEG Formats Explained For Dummies</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">What is JPEG?</h2>
+
+
+
+<p>JPEG, also known as JPG, stands for Joint Photographic Experts Group. </p>
+
+
+
+
+
+<p>It is a standard image format used for compressed image data. </p>
+
+
+
+
+
+<p>Despite the huge reduction in file size as a result of the compression, JPEG images can still maintain reasonable image quality. </p>
+
+
+
+
+
+<p>This compression allows JPEG files to be used widely on the Internet, most notably on web pages. </p>
+
+
+
+
+
+<p>Unlike PNG, JPEG does not support alpha channels (also known as lossless transparency).</p>
+
+
+
+
+
+<p>In 2010, a new image format called WebP was released by Google. Talking about lossless image compression, WebP has far better compression levels when compared to JPEG. </p>
+
+
+
+
+
+<p>In layman’s term, <strong><em>lossless compression</em></strong> simply means reducing the file size of an image without reducing its visual quality or visual integrity.</p>
+
+
+
+
+
+<p>The biggest reason for compressing images for web pages is so that the images become lighter in file size, therefore reducing the time required to fully load a webpage.</p>
+
+
+
+
+
+<p>Let’s quickly take a look at the crucial differences between Baseline and Progressive JPEG, including the pro and cons of our recommended JPEG format — The Progressive.</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-video"><video src="https://branditechture.agency/wp-content/uploads/2020/11/non_progressive_vs_progressive_jpeg.mp4" controls="controls" width="300" height="150"></video>
+<figcaption>Click to Play Video</figcaption>
+</figure>
+
+
+
+
+
+<p>If you are a Graphic Designer, you must be familiar with this dialogue in Adobe Photoshop;</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="474" height="445" class="wp-image-5884" src="https://branditechture.agency/wp-content/uploads/2020/11/Save-As-JPG-Dialogue.jpg" alt="Save As JPG Dialogue" title="Baseline vs. Progressive — JPEG Formats Explained For Dummies 17" srcset="https://branditechture.agency/wp-content/uploads/2020/11/Save-As-JPG-Dialogue.jpg 474w, https://branditechture.agency/wp-content/uploads/2020/11/Save-As-JPG-Dialogue-300x282.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" />
+<figcaption>Save As JPG Dialogue</figcaption>
+</figure>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">What is Baseline JPEG?</h2>
+
+
+
+<p>A Baseline JPEG is created using the JPEG compression algorithm that will start to render the image line by line from top to bottom as more data becomes available.</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" class="alignnone wp-image-5940 size-full" src="https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1.png" alt="Baseline JPEG Format min" width="4525" height="1699" title="Baseline vs. Progressive — JPEG Formats Explained For Dummies 18" srcset="https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1.png 4525w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-300x113.png 300w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-1024x384.png 1024w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-768x288.png 768w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-1536x577.png 1536w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-480x180.png 480w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-1320x496.png 1320w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-1200x451.png 1200w" sizes="(max-width: 4525px) 100vw, 4525px" />
+<figcaption>Baseline JPEG Format</figcaption>
+</figure>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>On a webpage, for example, you can be sure that the compression algorithm of a JPEG image is Baseline when you notice it rendering from top to bottom in a line by line manner. This effect is better observed on a slow internet connection or when viewing a fairly large image such as this one <a class="extlink" href="https://is.gd/F2ldgR" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener nofollow">here. (Click this link to view)</a>. </p>
+
+
+
+
+
+<h2 class="wp-block-heading">What is Progressive JPEG?</h2>
+
+
+
+<p>A Progressive JPEG encoding initially renders a full-sized but low-quality pixellated image, but the quality only becomes better and clearer as the image downloads.</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" class="alignnone wp-image-5887 size-full" src="https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1.png" alt="Progressive JPEG Format min" width="4576" height="1758" title="Baseline vs. Progressive — JPEG Formats Explained For Dummies 19" srcset="https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1.png 4576w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-300x115.png 300w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-1024x393.png 1024w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-768x295.png 768w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-1536x590.png 1536w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-480x184.png 480w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-1320x507.png 1320w" sizes="(max-width: 4576px) 100vw, 4576px" />
+<figcaption>Progressive JPEG Format</figcaption>
+</figure>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>When used on a web page, progressive JPEGs can improve user experience by giving the illusion of an instant image load.</p>
+
+
+
+
+
+<p>Although blurry at first, users can still see the entire image while the image keeps loading in the background.</p>
+
+
+
+
+
+<p>The number of transition depends on the amount of “Scans” set during the JPEG encoding. As the Progressive JPEG renders, each iteration is referred to as a Scan.</p>
+
+
+
+
+
+<p>You may not notice this transition if you are on a fast internet connection because everything can happen too fast.</p>
+
+
+
+
+
+<p>The Progressive JPEG encoding came as a space-saving, performance-enhancing upgrade to the Standard or Baseline JPEG encoding.</p>
+
+
+
+<p>Unless you’ve done some JPEG optimization, it’s very likely your website is full of Standard Baseline JPEGs.</p>
+
+
+
+
+
+<h2 class="wp-block-heading">The Pros and Cons of Progressive JPEG</h2>
+
+
+
+<p><strong>Pros:</strong></p>
+
+
+
+<p>✔ The compression ratio can be adjusted in programs like Adobe Photoshop</p>
+
+
+
+<p>✔ Relatively smaller file size</p>
+
+
+
+<p>✔ Supports lossless image compression </p>
+
+
+
+<p>✔ it is best suited for use on websites as it quickly renders the images as it downloads more of the image data in the background, therefore effectively reducing wait time.</p>
+
+
+
+
+
+<p><strong>Cons:</strong></p>
+
+
+
+<p>✘ Doesnt work on very old browsers such as Internet Explorer 8 </p>
+
+
+
+<p>✘ The difference in loading times are barely noticeable in modern browsers, hence might not be worth all the effort of re-econding your already uploaded images.</p>
+
+
+
+<p>✘ Users can never be so sure if an image is originally blurry or just hasn’t finished loading.</p>
+
+
+
+
+
+<p>Need to make your website load faster? We can help by optimizing your images! Click <a href="mailto:company@branditechture-agency.local" class="rank-math-link">HERE</a> to send us an e-mail. You can also click <a href="https://branditechture.agency/lets-build-your-website/">HERE </a>to work with us on your next web design project.</p>
+
+
+
+
+
+<p>Thanks for reading. Please leave a comment below</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/baseline-vs-progressive-jpeg/">Baseline vs. Progressive  —  JPEG Formats Explained For Dummies</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/baseline-vs-progressive-jpeg/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		<enclosure url="https://branditechture.agency/wp-content/uploads/2020/11/non_progressive_vs_progressive_jpeg.mp4" length="1947436" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>6 Telltale Signs Of A Bad Graphic Designer</title>
+		<link>https://branditechture.agency/telltale-signs-of-a-bad-graphic-designer/</link>
+					<comments>https://branditechture.agency/telltale-signs-of-a-bad-graphic-designer/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:25 +0000</pubDate>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[collaboration]]></category>
+		<category><![CDATA[graphic design]]></category>
+		<category><![CDATA[Small Business]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=5131</guid>
+
+					<description><![CDATA[<p>Although the vast majority of business owners do not understand the importance of graphic design in their business, there is no denying that businesses can hardly survive without the use of compelling visual media like flyers, banners, newsletters, promo videos, and in many cases, a corporate brochure. For those business owners who appreciate the role [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/telltale-signs-of-a-bad-graphic-designer/">6 Telltale Signs Of A Bad Graphic Designer</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="has-drop-cap">Although the vast majority of business owners do not understand the importance of graphic design in their business, there is no denying that businesses can hardly survive without the use of compelling visual media like flyers, banners, newsletters, promo videos, and in many cases, a corporate brochure.</p>
+<p>For those business owners who appreciate the role of great visual communication design in their marketing efforts, it&#8217;s almost always a pain when sourcing for a dependable graphic designer who will align with their business goals.</p>
+<p>How do you save precious productive hours and avoid headaches while searching for a reliable design partner? Fortunately, I would help you identify and interpret 6 telltale signs of a bad graphic designer, and how you can avoid them.</p>
+<p><strong>Here are 6 Graphic Design tips for business owners who work with graphic designers;</strong></p>
+<h2>1. They get angry or rude when criticized</h2>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" width="1024" height="682" class="wp-image-5143" src="https://branditechture.agency/wp-content/uploads/2020/10/Spotting-A-bad-Designer.jpg" alt="Spotting A bad Designer" title="6 Telltale Signs Of A Bad Graphic Designer 21" srcset="https://branditechture.agency/wp-content/uploads/2020/10/Spotting-A-bad-Designer.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/10/Spotting-A-bad-Designer-300x200.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/10/Spotting-A-bad-Designer-768x512.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/10/Spotting-A-bad-Designer-480x320.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>A bad designer would always take criticisms personally &#8211; be it constructive or otherwise. They may also get downright rude and uncooperative with you.</p>
+<h2>2. They completely lack basic time management skills.</h2>
+<p>They are big-time procrastinators and would always find excuses to postpone deadlines that were earlier agreed upon. A repeated display of this behaviour indicates that your project might be in the wrong hands.</p>
+<h2>3. They neither ask you questions nor advise you</h2>
+<p>Business owners need graphic designers not only for their artistic abilities, but also to bring their fresh, creative contributions into the projects they work on.</p>
+<p>For example, if you hire a graphic designer to do a logo or ad banner for your company and he accepts your first and subsequent ideas without question, chances are he does not even care about the success of your campaign.</p>
+<p>A good designer should know when to respectfully say, “No” and make collaborative efforts to lead clients from &#8220;bad ideas&#8221; to good ones.</p>
+<p>It&#8217;s not uncommon for a client’s initial idea to not be the best solution.</p>
+<p>So, if he doesn&#8217;t show the good quality described above, you might be working with a fridge. </p>
+<h2>4. They try too hard to get simple things done</h2>
+<p>It is not very uncommon to encounter entry-level designers falsely boasting of having that (professional) experience your project is in dire need of, only for you to find out that they are just rookies trying to learn on the job.</p>
+<p>Another possible reason which is not due to a lack of experience is having too many jobs than they can possibly handle at once. This makes them burn out pretty fast, thereby showing less dedication to your work.</p>
+<p>Good designers always strive for transparency between them and their clients in order to manage expectations and avoid disappointing experiences.</p>
+<h2>5. They make too many spelling and grammatical errors</h2>
+<p>If he/she finds it difficult to send three chat bubbles without making at least, one unforgivable spelling error, you should avoid working with them, especially if the project in view is a large editorial design, proposal, or presentation.</p>
+<h2>6. They do not have a <a href="https://dribbble.com/designeryusuf" class="extlink" target="_blank" rel="noopener">graphic design portfolio</a></h2>
+<p>This is perhaps one of the most prominent red flags.</p>
+<p>How do you trust a designer who cannot furnish you with a portfolio of his/her previous works?</p>
+<p>No social media pages and no websites? Well, in short, you shouldn&#8217;t.</p>
+<p><strong>Most people who ignore this red flag have had to part ways with their money in exchange for no real value.</strong></p>
+<p>In many cases, you may even get blocked immediately after making some part payment to such designers.</p>
+<h2>We give you results, not excuses.</h2>
+<p>If you need a reliable and experienced graphic designer for a project, <a href="https://branditechture.agency/start-a-project/">click HERE</a> to submit your brief and we will get in touch with you within a couple of hours.</p>
+<p>&nbsp;</p>
+<p><em>Let me know in the comments if you have any questions. </em></p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/telltale-signs-of-a-bad-graphic-designer/">6 Telltale Signs Of A Bad Graphic Designer</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/telltale-signs-of-a-bad-graphic-designer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web Hosting &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/tech/web-hosting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sat, 23 Jul 2022 22:10:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>Web Hosting &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What is Web Hosting and How Does it Affect Your Website?</title>
+		<link>https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/</link>
+					<comments>https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:23 +0000</pubDate>
+				<category><![CDATA[Web Hosting]]></category>
+		<category><![CDATA[Tech]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=13134</guid>
+
+					<description><![CDATA[<p>In the world of internet marketing, websites play a crucial role. Given their importance, it is necessary to know how they work and to understand the factors that influence their success. So this article explains what a hosting service means, the role it plays in web development and how it affects your website. What is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/">What is Web Hosting and How Does it Affect Your Website?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In the world of <a href="https://branditechture.agency/common-internet-marketing-mistakes/">internet marketing</a>, websites play a crucial role. Given their importance, it is necessary to know how they work and to understand the factors that influence their success. So this article explains what a hosting service means, the role it plays in web development and how it affects your website.</p>
+<h2>What is web hosting?</h2>
+<p>Any website must store its data in order to be accessible to the public. In this way, a website can receive targeted traffic where each individual clicks on different sections and uses different functions. This would not be possible if there was not a place where they can reach and meet these needs. This is precisely the job that any hosting service does: storing your website data so that it is accessible to the public.</p>
+<div id="attachment_13139" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-13139" class="size-full wp-image-13139" title="Web Hosting Infographic iStock" src="https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock.jpg" alt="Web Hosting Infographic iStock" width="1024" height="656" srcset="https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock-300x192.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock-768x492.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock-480x308.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-13139" class="wp-caption-text">Web Hosting Infographic. Image via iStock</p></div>
+<p>However, while the concept itself is easy to understand, the different ways that hosting influences a website are almost endless. It is obvious that the extent of the benefits that <a href="https://namecheap.pxf.io/ZdBq9K" target="_blank" rel="noopener">a fast and secure hosting service</a> gives you depends on the hosting plan you choose. However, it should be remembered that in general there are some basic functions that should be provided by any provider, regardless of their plan.</p>
+
+<h2>How does hosting affect a website?</h2>
+<h3>Performance</h3>
+<p>It is without a doubt that <strong>web performance</strong> is one of the most important factors for the success of a website. The performance of a website is reflected in the loading speed which is governed by two important factors:</p>
+<ol>
+<li>The hosting server</li>
+<li>The optimization of the website.</li>
+</ol>
+<p>Indeed, in recent years, it has become evident that users do not tolerate slow-loading websites as they typically wait for just a few seconds (~ 2-4 secs) before going to another website to search for what they need.</p>
+<p>Objectively speaking there are certain details that you should check before judging the performance of a web host. In general, caching and compressing images makes a big difference in load times. Once these optimal conditions are met, your website will be stable and you will be able to more easily know if the server is working well or not.</p>
+<p>To facilitate this task, there are different tools that allow you to measure the loading speed:</p>
+<ul>
+<li><a href="https://gtmetrix.com/" target="_blank" rel="noopener">GTMetrix</a></li>
+<li><a href="https://tools.pingdom.com/" target="_blank" rel="noopener">PingdomTools</a></li>
+<li><a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" rel="noopener">PageSpeed ​​Insights</a></li>
+</ul>
+<p>To evaluate the power of the server:</p>
+<ul>
+<li><a href="https://www.webpagetest.org/" target="_blank" rel="noopener">WebPageTest</a></li>
+<li><a href="https://www.bytecheck.com/" target="_blank" rel="noopener">ByteCheck</a></li>
+</ul>
+<h3>Storage space</h3>
+<p>Imagine that your website is a blank notebook and the storage space is the pages. Not all notebooks are the same size and that&#8217;s because we need to store more information in some of them than in others. This way, you don&#8217;t need a huge notebook to just offer a service and showcase a business. However, as your expectations increase and you for example want to set up a blog with pictures, a customer service section or a description of the work team; you will also need to add pages to your notebook. You don&#8217;t need to buy a lot of storage space if you have a simple website, but if you have an online store, storage space is essential. The same goes for blogs,</p>
+<h3>Technical assistance and customer service</h3>
+<p>The 24 hour technical support service offered by hosting providers is almost a prerequisite so that you can always resolve any issue that arises. From our experience, <a href="https://namecheap.pxf.io/x9NojO" target="_blank" rel="noopener">Namecheap</a> is the best in this category; They will attend to you everytime, even in the middle of the night, but they are only available via Live Chat.</p>
+<p>Unfortunately, technical failures are bound to happen in web development and this can occur at any time. Some technical failures, even if they last only a few minutes, could seriously degrade a website&#8217;s traffic and visibility.</p>
+<p>Unless you have extensive computer knowledge, having access to such technical support is a great advantage in web development.</p>
+<p>A good web hosting service can positively influence your website. Asides the obvious performance benefits, a high availability, also known as <strong>uptime </strong>ensures that your website is online and accessible all of the time.</p>
+<p>By avoiding substandard web hosts, and knowing how to get the most from the good ones, you can see a big difference in the values ​​and development of your website.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/">What is Web Hosting and How Does it Affect Your Website?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DomainKing Nigeria Increases Domain Registration Fees, Others.</title>
+		<link>https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/</link>
+					<comments>https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:15 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Web Hosting]]></category>
+		<category><![CDATA[domain]]></category>
+		<category><![CDATA[domainking]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[namecheap]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=12934</guid>
+
+					<description><![CDATA[<p>Barely 4 weeks after DomainKing Nigeria was acquired by HostAfrica, a South Africa-based web hosting company, the new owners have announced an increase in the price of their domain services. The updated pricing has seen the dot com TLD (.com) rise by more than 20% as it surged up from ₦5000 (12.15 USD) on May [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/">DomainKing Nigeria Increases Domain Registration Fees, Others.</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Barely 4 weeks after <a href="https://branditechture.agency/host-africa-acquires-domainking-nigeria/">DomainKing Nigeria was acquired by HostAfrica</a>, a South Africa-based web hosting company, the new owners have announced an increase in the price of their domain services. The updated pricing has seen the dot com TLD (.com) rise by more than 20% as it surged up from ₦5000 (12.15 USD) on May 25, 2021, to ₦6,300 (15.31 USD) on October 5, 2021, but there are some other highlights that are worth talking about —more details below. </span></p>
+<p><span style="font-weight: 400;">For comparison, I got the old price list from a snapshot taken on May 25, 2021, on the <a class="extlink" href="https://web.archive.org/" target="_blank" rel="nofollow noopener">Internet Web Archive</a> (a.k.a Wayback Machine) since their email did not reflect the old pricing. Now let’s look at the prices of domain registration before DomainKing was acquired by HostAfrica, and let’s compare it with the newly updated prices. Finally, in the concluding part of this article, we would look at the <em><strong>percentage increase</strong></em> in the cost of <strong>registering</strong>, <strong>renewing,</strong> and <strong>transferring</strong> select <a class="extlink" href="https://support.branditechture.agency/docs/what-are-the-parts-of-a-domain/" target="_blank" rel="noopener">TLDs</a> on DomainKing.ng today.</span></p>
+<div id="attachment_12939" style="width: 2568px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-12939" class="wp-image-12939 size-full" title="Snapshot of DomainKing ng Taken on May Thanks to the Internet Archive" src="https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1.png" alt="Snapshot of DomainKing ng Taken on May Thanks to the Internet Archive" width="2558" height="508" srcset="https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1.png 2558w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-300x60.png 300w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-1024x203.png 1024w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-768x153.png 768w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-1536x305.png 1536w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-480x95.png 480w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-1320x262.png 1320w" sizes="(max-width: 2558px) 100vw, 2558px" /><p id="caption-attachment-12939" class="wp-caption-text">Snapshot of DomainKing.ng as of May 25, 2021. Thanks to the Internet Web Archive (a.k.a <a href="https://web.archive.org/" class="extlink" target="_blank" rel="nofollow noopener">Wayback Machine</a>)</p></div>
+<div id="attachment_12938" style="width: 2570px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-12938" class="wp-image-12938 size-full" title="A screenie of the DomainKing Homepage after their updated pricing following its acquisition by HostAfrica" src="https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1.png" alt="A screenie of the DomainKing Homepage after their updated domain registration pricing following its acquisition by HostAfrica" width="2560" height="512" srcset="https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1.png 2560w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-300x60.png 300w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-1024x205.png 1024w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-768x154.png 768w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-1536x307.png 1536w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-480x96.png 480w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-1320x264.png 1320w" sizes="(max-width: 2560px) 100vw, 2560px" /><p id="caption-attachment-12938" class="wp-caption-text">A screenshot of DomainKing.ng after their updated pricing for domain registration, a sequel to its acquisition by HostAfrica on September 10, 2021.</p></div>
+<p>In an &#8220;emergency&#8221; newsletter titled; <strong>VAT and Domain Pricing Update,</strong> they quoted; <em>&#8220;Due to an increase from our vendors as well as the extreme volatility in the Naira/USD exchange rate we have been forced to institute this increase. With all costs taken into account (tax, exchange rate, etc), we currently sell international domains at a loss.  We have made every effort to ensure that the increase has as low an impact as possible.&#8221;</em></p>
+<p>The email further reads;</p>
+<p><em>&#8220;<span>As explained above, we have had to introduce these increases to avoid selling the domains at a loss. <strong>The increase is effective immediately.</strong></span>&#8220;</em></p>
+<p>This couldn&#8217;t have sounded more like an emergency because customers were not given any prior notice ahead of the recent price change. Ideally, we customers should have been given a short 7-day notice.</p>
+<p><span style="font-weight: 400;">Prior to the new pricing update, Domainking was arguably the most affordable domain registrar in Nigeria but with the new price list, nothing of such can be said for the company again. Let&#8217;s look at the current industry prices of domain registration among the top 4 domain registrars and hosting providers in Nigeria, please refer to the table below;</span></p>
+<table>
+<thead>
+<tr>
+<th>TLD</th>
+<th><a href="https://clients.domainking.ng/aff.php?aff=1432" target="_blank" rel="noopener nofollow noreferrer">DomainKing</a></th>
+<th><a href="https://www.whogohost.com/host/aff.php?aff=8615" target="_blank" rel="noopener nofollow noreferrer">Whogohost</a></th>
+<th><a href="https://www.qservers.net/process/aff.php?aff=3856" target="_blank" rel="noopener nofollow noreferrer">QServers</a></th>
+<th><a href="https://smartweb.com.ng/web/aff.php?aff=4350" target="_blank" rel="noopener nofollow noreferrer">Smart Web</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">₦6,300</td>
+<td style="text-align: center;">₦5,700</td>
+<td style="text-align: center;">₦5,700</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦5,000</strong></span></td>
+</tr>
+<tr>
+<td>.com.ng</td>
+<td style="text-align: center;">₦1,100</td>
+<td style="text-align: center;">₦1,200</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦1,000</strong></span></td>
+<td style="text-align: center;">₦1,100</td>
+</tr>
+<tr>
+<td>.ng</td>
+<td style="text-align: center;">₦9,500</td>
+<td style="text-align: center;">₦9,500</td>
+<td style="text-align: center;"><span style="color: #ff6600;">₦9,000</span></td>
+<td style="text-align: center;"><span style="color: #ff6600;">₦9,000</span></td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">₦7,875</td>
+<td style="text-align: center;">₦7,300</td>
+<td style="text-align: center;">₦7,500</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦6,700</strong></span></td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">₦11,340</td>
+<td style="text-align: center;">₦10,600</td>
+<td style="text-align: center;">₦8,800</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦8,500</strong></span></td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">₦11,340</td>
+<td style="text-align: center;">₦11,800</td>
+<td style="text-align: center;">₦9,800</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦9,500</strong></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>As you can see in the table above <em>(best viewed on a PC)</em>, DomainKing (which is now a part of HostAfrica) is no longer the most affordable registrar in any of the top 6 TLDs.</p>
+<pre>Please, note that there is an ongoing price slash promo on the dot ng (.ng) domain TLD across all registrars in Nigeria. So, between <strong>Oct 1 - December 31st</strong> is the best time to purchase a .ng domain because you can get it from between ₦4,000 - ₦4,800.
+
+<span style="color: #ff6600;"><strong>PRO TIP:</strong></span> <a https:="" smartweb="" com="" ng="" web="" aff="" php="" href="https://smartweb.com.ng/web/aff.php?aff=4350" rel="noopener" target="_blank">Smartweb</a> gives you the best deal on the .ng at just ₦4,000</pre>
+<p>Is the new pricing too high? Or could it be due to the 7.5% addition of VAT and increase in the exchange rate? Okay, Let&#8217;s examine the percentage increase of the new pricing, and finally, let&#8217;s round up this article by comparing DomainKing&#8217;s domain registration, renewal, and transfer fees with Namecheap&#8217;s — one of the most popular international cloud and web hosting companies. Based on the updated pricing;</p>
+<p>&nbsp;</p>
+<p><strong>Old Price List of Int&#8217;l Domains on DomainKing (As seen on May 25, 2021)</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>TLD</strong></td>
+<td><strong>Registration</strong></td>
+<td><strong>Renewal</strong></td>
+<td><strong>Transfer</strong></td>
+</tr>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">₦5,000</td>
+<td style="text-align: center;">₦5,200</td>
+<td style="text-align: center;">₦5,000</td>
+</tr>
+<tr>
+<td>.net</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">₦5,600</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">₦5,600</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>New Price List of Int&#8217;l Domains on DomainKing as of October 5, 2021</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>TLD</strong></td>
+<td><strong>Registration</strong></td>
+<td><strong>Renewal</strong></td>
+<td><strong>Transfer</strong></td>
+</tr>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">₦6,300</td>
+<td style="text-align: center;">₦8,820</td>
+<td style="text-align: center;">₦8,820</td>
+</tr>
+<tr>
+<td>.net</td>
+<td style="text-align: center;">₦7,560</td>
+<td style="text-align: center;">₦10,000</td>
+<td style="text-align: center;">₦10,000</td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">₦7,875</td>
+<td style="text-align: center;">₦9,450</td>
+<td style="text-align: center;">₦9,450</td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">₦11,340</td>
+<td style="text-align: center;">₦12,600</td>
+<td style="text-align: center;">₦12,600</td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">₦11,340</td>
+<td style="text-align: center;">₦12,600</td>
+<td style="text-align: center;">₦12,600</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Percentage Increase in the Price of Int&#8217;l Domains on DomainKing</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>TLD</strong></td>
+<td><strong>Registration</strong></td>
+<td><strong>Renewal</strong></td>
+<td><strong>Transfer</strong></td>
+</tr>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">20.63%</td>
+<td style="text-align: center;">41%</td>
+<td style="text-align: center;">43.30%</td>
+</tr>
+<tr>
+<td>.net</td>
+<td style="text-align: center;">20.63%</td>
+<td style="text-align: center;">40%</td>
+<td style="text-align: center;">40%</td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">28.89%</td>
+<td style="text-align: center;">36.50%</td>
+<td style="text-align: center;">36.50%</td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">47.09%</td>
+<td style="text-align: center;">52.38%</td>
+<td style="text-align: center;">52.38%</td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">50.62%</td>
+<td style="text-align: center;">52.38%</td>
+<td style="text-align: center;">52.38%</td>
+</tr>
+</tbody>
+</table>
+<p>With a price increase ranging from 20.63% to as high as 52.38%. It is only reasonable to say that this is a massive change. When DomainKing got acquired by HostAfrica, I had hoped for more competitive pricing, but it is sad to see that the reverse is the case here.</p>
+<p>I&#8217;m I asking for too much? Let&#8217;s take a closer look at <a class="extlink" href="https://namecheap.pxf.io/15PR0a" target="_blank" rel="noopener nofollow">Namecheap&#8217;s pricing</a> for the same service.</p>
+<p>Here is the cost of acquiring the same domains listed above on Namecheap. I am going to use <strong>$1 = 480NGN.</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>TLD</strong></td>
+<td><strong>Registration</strong></td>
+<td><strong>Renewal</strong></td>
+<td><strong>Transfer</strong></td>
+</tr>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">₦4,551</td>
+<td style="text-align: center;">₦6,471</td>
+<td style="text-align: center;">₦4,407</td>
+</tr>
+<tr>
+<td>.net</td>
+<td style="text-align: center;">₦5,271</td>
+<td style="text-align: center;">₦7,191</td>
+<td style="text-align: center;">₦5,271</td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">₦4,263</td>
+<td style="text-align: center;">₦7,191</td>
+<td style="text-align: center;">₦5,511</td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">₦2,343</td>
+<td style="text-align: center;">₦8,151</td>
+<td style="text-align: center;">₦6,951</td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">₦1,911</td>
+<td style="text-align: center;">₦8,151</td>
+<td style="text-align: center;">₦5,693</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Asides from being the cheapest alternative, here are other reasons why I would rather turn to Namecheap to purchase my domain names (except .ng and other .ng related domains);</p>
+<ol>
+<li>Better customer support (24/7, 365 support through Live Chat)</li>
+<li>More alternative payment channels &#8211; Namecheap accepts Bitcoin</li>
+<li>I can securely save my debit card in my Namecheap account and use it conveniently anytime I want to make a new purchase.</li>
+<li>Namecheap has tens of free coupons that can get you discounts as high as 20% on domain renewal, domain purchase, and domain transfer.</li>
+<li>Higher commissions (at least, 30%) on referrals if you are an Affiliate. DomainKing.ng pays just 5%.</li>
+<li>Namecheap has a more robust knowledge base online &#8211; from support articles to DIY guides.</li>
+</ol>
+<p>I am a Nigerian, and I like to patronize local brands a lot, but I don&#8217;t mind getting the same product at cheaper rates from their foreign competitors.</p>
+<p>This is business, and it is what it is.</p>
+<hr />
+<p>Do you need Web Design services? We can help you <a href="https://branditechture.agency/lets-build-your-website/">build new bespoke websites</a>, audit, and <a href="https://branditechture.agency/website-maintenance-plans/">maintain your existing websites</a>. Check our <a href="https://branditechture.agency/web-design-portfolio/">web design portfolio</a> for some of our previous works.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/">DomainKing Nigeria Increases Domain Registration Fees, Others.</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

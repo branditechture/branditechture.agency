@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Namecheap &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/namecheap/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Thu, 07 Jul 2022 11:38:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>Namecheap &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Install WordPress in Namecheap cPanel in 5 Minutes</title>
+		<link>https://branditechture.agency/how-to-install-wordpress-in-namecheap-cpanel-in-5-minutes/</link>
+					<comments>https://branditechture.agency/how-to-install-wordpress-in-namecheap-cpanel-in-5-minutes/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Thu, 07 Jul 2022 11:38:13 +0000</pubDate>
+				<category><![CDATA[Namecheap]]></category>
+		<category><![CDATA[cpanel]]></category>
+		<category><![CDATA[install]]></category>
+		<category><![CDATA[namecheap]]></category>
+		<category><![CDATA[softaculous]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=13945</guid>
+
+					<description><![CDATA[<p>You have just bought a domain and hosting on Namecheap but you don&#8217;t know what next to do with them. Do you wish to learn how to install WordPress in NameCheap via cPanel? My name is Yusuf Odukoya, Senior Web Designer at Branditechture.  The purpose of writing this article is to show you a step-by-step [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-install-wordpress-in-namecheap-cpanel-in-5-minutes/">How to Install WordPress in Namecheap cPanel in 5 Minutes</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>You have just bought a domain and hosting on <a class="extlink" href="https://namecheap.pxf.io/x9NojO" target="_blank" rel="noopener">Namecheap</a> but you don&#8217;t know what next to do with them. Do you wish to learn how to install WordPress in NameCheap via cPanel?</p>
+<p>My name is Yusuf Odukoya, Senior Web Designer at <a href="https://branditechture.agency/">Branditechture</a>.  The purpose of writing this article is to show you a step-by-step guide to installing WordPress using Namecheap cPanel.</p>
+<p><strong>NOTE: This guide assumes that you have both your domain name and hosting plan in the same Namecheap account.</strong></p>
+<p>So, how do I get WordPress up and running on NameCheap?</p>
+<p>To install WordPress, you&#8217;ll first need to log in to your Namecheap cPanel account. It was a little terrifying when I first installed WordPress on Namecheap, but it shouldn&#8217;t necessarily be the same for you.</p>
+<p>So, based off my experience, I&#8217;ve devised a method for installing WordPress with NameCheap cPanel. It is quick, error-proof, and simple. Let&#8217;s begin!</p>
+<h3>Before you start&#8230;</h3>
+<p>Yes, before you start, you need to check a certain DNS setting. This is one of the very first steps to installing WordPress on Namecheap. Don&#8217;t fret, I&#8217;ll show you where to check that setting. This setting is important in other to correctly point your domain name to the hosting where WordPress would be installed.</p>
+<p>Simply log in your Namecheap account by visiting <a href="https://ap.www.namecheap.com/" target="_blank" rel="noopener">https://ap.www.namecheap.com/</a> and navigate to the <strong>Domain List</strong> tab. Next, click the <strong>Manage</strong> button for the domain name you want to use to access your website.</p>
+<div id="attachment_13949" style="width: 1901px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-13949" class="size-full wp-image-13949" title="Checking Namecheap DNS Settings" src="https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-1.jpg" alt="Checking Namecheap DNS Settings" width="1891" height="890" srcset="https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-1.jpg 1891w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-1-300x141.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-1-1024x482.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-1-768x361.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-1-1536x723.jpg 1536w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-1-480x226.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-1-1320x621.jpg 1320w" sizes="(max-width: 1891px) 100vw, 1891px" /><p id="caption-attachment-13949" class="wp-caption-text">Checking Namecheap DNS Settings</p></div>
+<p>Good! Now check to make sure that the <strong>Nameserver</strong> dropdown menu is set to <strong>Namecheap Web Hosting DNS.  </strong>Make sure you click the <strong>teal-colored tick icon</strong> to save your changes. In most cases, you may find that it is correctly set to <strong>Namecheap Web Hosting DNS</strong> by default. In that case, no change would be required.</p>
+<div id="attachment_13950" style="width: 1888px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-13950" class="size-full wp-image-13950" title="Checking Namecheap DNS Settings" src="https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-2.jpg" alt="Checking Namecheap DNS Settings" width="1878" height="1222" srcset="https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-2.jpg 1878w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-2-300x195.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-2-1024x666.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-2-768x500.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-2-1536x999.jpg 1536w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-2-480x312.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/12/Checking-Namecheap-DNS-Settings-2-1320x859.jpg 1320w" sizes="(max-width: 1878px) 100vw, 1878px" /><p id="caption-attachment-13950" class="wp-caption-text">Make sure it&#8217;s set to &#8220;Namecheap Web Hosting DNS&#8221;</p></div>
+<p>But if you make any change, it may take up to 48 hours for the new Nameserver settings to be updated. In my experience with Namecheap, though, it just takes 3/5 minutes rather than 48 hours.</p>
+<p>Once you&#8217;ve made sure that the Nameserver setting is set to <strong>Namecheap Web Hosting DNS</strong>, then it&#8217;s time to begin the WordPress installation procedure.</p>
+<h2>Installing WordPress in Namecheap cPanel</h2>
+<div id="attachment_13948" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-13948" class="size-full wp-image-13948" title="How to Install WordPress in Namecheap cPanel" src="https://branditechture.agency/wp-content/uploads/2021/12/How-to-Install-Wordpress-in-Namecheap-cPanel-1.jpg" alt="How to Install WordPress in Namecheap cPanel" width="1024" height="682" srcset="https://branditechture.agency/wp-content/uploads/2021/12/How-to-Install-Wordpress-in-Namecheap-cPanel-1.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/12/How-to-Install-Wordpress-in-Namecheap-cPanel-1-300x200.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/12/How-to-Install-Wordpress-in-Namecheap-cPanel-1-768x512.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/12/How-to-Install-Wordpress-in-Namecheap-cPanel-1-480x320.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-13948" class="wp-caption-text">How to Install WordPress in Namecheap cPanel</p></div>
+<p>There are a couple alternative ways to install WordPress on NameCheap, but I&#8217;ll show you the simplest one which is also less prone to errors. Let&#8217;s get this party started!</p>
+<h3>Step 1: Log Into Your Namecheap Account:</h3>
+<p>Simply log in your Namecheap account by visiting <a href="https://ap.www.namecheap.com/" target="_blank" rel="noopener">https://ap.www.namecheap.com./</a> Then navigate to the <strong>Product List</strong> tab. Next, click the <b>GO TO CPANEL </b>button for the hosting you want to install WordPress on.</p>
+<div id="attachment_13955" style="width: 2570px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13955" class="size-full wp-image-13955" title="Click Hosting List then GO TO CPANEL" src="https://branditechture.agency/wp-content/uploads/2021/12/Click-Hosting-List-then-GO-TO-CPANEL-scaled.jpg" alt="Click Hosting List then GO TO CPANEL" width="2560" height="545" srcset="https://branditechture.agency/wp-content/uploads/2021/12/Click-Hosting-List-then-GO-TO-CPANEL-scaled.jpg 2560w, https://branditechture.agency/wp-content/uploads/2021/12/Click-Hosting-List-then-GO-TO-CPANEL-300x64.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/12/Click-Hosting-List-then-GO-TO-CPANEL-1024x218.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/12/Click-Hosting-List-then-GO-TO-CPANEL-768x164.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/12/Click-Hosting-List-then-GO-TO-CPANEL-1536x327.jpg 1536w, https://branditechture.agency/wp-content/uploads/2021/12/Click-Hosting-List-then-GO-TO-CPANEL-480x102.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/12/Click-Hosting-List-then-GO-TO-CPANEL-1320x281.jpg 1320w" sizes="(max-width: 2560px) 100vw, 2560px" /><p id="caption-attachment-13955" class="wp-caption-text">Click Hosting List, then GO TO CPANEL</p></div>
+<h3>Step 2: Look for the Softaculous Apps Installer:</h3>
+<p>You&#8217;d be taken to your cPanel home screen after clicking the button in step 1 above. The next step is to locate and click the <strong>Softaculous Apps Installer. </strong> As the name suggests, the Softaculous Apps Installer is used to install apps on your domain. One of them is WordPress.</p>
+<div id="attachment_13958" style="width: 1810px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13958" class="size-full wp-image-13958" title="Look for Softaculous Apps Installer and Click it" src="https://branditechture.agency/wp-content/uploads/2021/12/Look-for-Softaculous-Apps-Installer-and-Click-it.jpg" alt="Look for Softaculous Apps Installer and Click it" width="1800" height="583" srcset="https://branditechture.agency/wp-content/uploads/2021/12/Look-for-Softaculous-Apps-Installer-and-Click-it.jpg 1800w, https://branditechture.agency/wp-content/uploads/2021/12/Look-for-Softaculous-Apps-Installer-and-Click-it-300x97.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/12/Look-for-Softaculous-Apps-Installer-and-Click-it-1024x332.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/12/Look-for-Softaculous-Apps-Installer-and-Click-it-768x249.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/12/Look-for-Softaculous-Apps-Installer-and-Click-it-1536x497.jpg 1536w, https://branditechture.agency/wp-content/uploads/2021/12/Look-for-Softaculous-Apps-Installer-and-Click-it-480x155.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/12/Look-for-Softaculous-Apps-Installer-and-Click-it-1320x428.jpg 1320w" sizes="(max-width: 1800px) 100vw, 1800px" /><p id="caption-attachment-13958" class="wp-caption-text">Look for Softaculous Apps Installer and Click it</p></div>
+<h3>Step 3: Install WordPress:</h3>
+<p>Now that you are in the Softaculous Apps Installer grid menu, simply install WordPress by clicking the <strong>Install</strong> button on the WordPress card.</p>
+<div id="attachment_13956" style="width: 1810px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13956" class="size-full wp-image-13956" title="Click the Install button on the WordPress card" src="https://branditechture.agency/wp-content/uploads/2021/12/Click-the-Install-button-on-the-WordPress-card-1.jpg" alt="Click the Install button on the WordPress card" width="1800" height="682" srcset="https://branditechture.agency/wp-content/uploads/2021/12/Click-the-Install-button-on-the-WordPress-card-1.jpg 1800w, https://branditechture.agency/wp-content/uploads/2021/12/Click-the-Install-button-on-the-WordPress-card-1-300x114.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/12/Click-the-Install-button-on-the-WordPress-card-1-1024x388.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/12/Click-the-Install-button-on-the-WordPress-card-1-768x291.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/12/Click-the-Install-button-on-the-WordPress-card-1-1536x582.jpg 1536w, https://branditechture.agency/wp-content/uploads/2021/12/Click-the-Install-button-on-the-WordPress-card-1-480x182.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/12/Click-the-Install-button-on-the-WordPress-card-1-1320x500.jpg 1320w" sizes="(max-width: 1800px) 100vw, 1800px" /><p id="caption-attachment-13956" class="wp-caption-text">Click the Install button on the WordPress card</p></div>
+<p>You will be taken to the WordPress installation page.</p>
+<h3>Step 4: Start the WordPress Installation Process:</h3>
+<p>Now you can start the WordPress installation process. Let&#8217;s look at each section separately.</p>
+<h4>#1. Software Setup</h4>
+<div id="attachment_13960" style="width: 1609px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13960" class="size-full wp-image-13960" title="Software Setup Section" src="https://branditechture.agency/wp-content/uploads/2021/12/Software-Setup-Section.jpg" alt="Software Setup Section" width="1599" height="621" srcset="https://branditechture.agency/wp-content/uploads/2021/12/Software-Setup-Section.jpg 1599w, https://branditechture.agency/wp-content/uploads/2021/12/Software-Setup-Section-300x117.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/12/Software-Setup-Section-1024x398.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/12/Software-Setup-Section-768x298.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/12/Software-Setup-Section-1536x597.jpg 1536w, https://branditechture.agency/wp-content/uploads/2021/12/Software-Setup-Section-480x186.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/12/Software-Setup-Section-1320x513.jpg 1320w" sizes="(max-width: 1599px) 100vw, 1599px" /><p id="caption-attachment-13960" class="wp-caption-text">Software Setup Section</p></div>
+<p><strong>Select a Protocol:</strong> This is, in a nutshell, your website&#8217;s URL address. If your site uses <a href="https://support.branditechture.agency/docs/what-is-ssl/" target="_blank" rel="noopener">SSL</a>, you should choose one of the options that starts with <strong>HTTPS://</strong>; if it does not, you must choose <strong>&#8220;HTTP://&#8221;</strong>. Well, if you try to choose HTTPS:// when your site doesn&#8217;t have a valid SSL Certificate, it would warn you.</p>
+<pre><strong>📝TIP:</strong> Always choose HTTPS:// unless you get a warning.</pre>
+<p>With namecheap, there&#8217;s a very good chance that SSL is already installed on your site by default. You really don&#8217;t have to be concerned about SSL because Namecheap hosting provides FREE SSL for the first year.</p>
+<p><strong>Select a Domain Name:</strong> In this section, you must select the domain name on which you want to install WordPress. If you have multiple domain names registered within the same Namecheap account, you&#8217;d have to select your preferred domain from the dropdown, otherwise, your only domain will be selected by default.</p>
+<p>In the Directory, I strongly recommend leaving it blank.</p>
+<h4>#2. Site Settings</h4>
+<p><strong>Site Name:</strong> Essentially, this is where you choose the name of your website. For example, the name of this website is &#8220;Branditechture&#8221;</p>
+<p><strong>Site Description:</strong> It allows you to enter more information about your site in a single line. A short sentences should be used to describe your website.</p>
+<div id="attachment_13959" style="width: 1810px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13959" class="size-full wp-image-13959" title="Site settings section" src="https://branditechture.agency/wp-content/uploads/2021/12/Site-settings-section.jpg" alt="Site settings section" width="1800" height="740" srcset="https://branditechture.agency/wp-content/uploads/2021/12/Site-settings-section.jpg 1800w, https://branditechture.agency/wp-content/uploads/2021/12/Site-settings-section-300x123.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/12/Site-settings-section-1024x421.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/12/Site-settings-section-768x316.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/12/Site-settings-section-1536x631.jpg 1536w, https://branditechture.agency/wp-content/uploads/2021/12/Site-settings-section-480x197.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/12/Site-settings-section-1320x543.jpg 1320w" sizes="(max-width: 1800px) 100vw, 1800px" /><p id="caption-attachment-13959" class="wp-caption-text">Site settings section</p></div>
+<p>Leave the &#8220;Enable Multisite&#8221; and &#8220;Disable WordPress Cron&#8221; tick boxes <strong>unchecked</strong>.</p>
+<h4>#3 Admin Account</h4>
+<p>In order to be able to log in to the admin dashboard of your WordPress site, you must first set up your admin Username, Password, and Email. The password and username should be carefully chosen. Choose a password that is hard for others to guess but easy for you to remember.</p>
+<h4>#4. Select a Language</h4>
+<p>The term &#8220;choose language&#8221; is self-explanatory.</p>
+<h4>#5: Choose Plugins</h4>
+<p>Essentially, these choices are entirely dependent on your particular preferences but I would suggest you leave it unchanged.</p>
+<h4>#6. Advanced Options</h4>
+<p>Disable Update Notification is one of the more advanced options. Where you can change upgrade options such as Auto Upgrade, Backups, and so on.</p>
+<p>I strongly advise you to leave these portions alone. For your site, the default options are more than adequate.</p>
+<h4>#7. Optionally choose a theme and click &#8220;Install&#8221;</h4>
+<div id="attachment_13957" style="width: 1610px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13957" class="size-full wp-image-13957" title="Finally click the Install button" src="https://branditechture.agency/wp-content/uploads/2021/12/Finally-click-the-Install-button.-1.jpg" alt="Finally click the Install button" width="1600" height="976" srcset="https://branditechture.agency/wp-content/uploads/2021/12/Finally-click-the-Install-button.-1.jpg 1600w, https://branditechture.agency/wp-content/uploads/2021/12/Finally-click-the-Install-button.-1-300x183.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/12/Finally-click-the-Install-button.-1-1024x625.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/12/Finally-click-the-Install-button.-1-768x468.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/12/Finally-click-the-Install-button.-1-1536x937.jpg 1536w, https://branditechture.agency/wp-content/uploads/2021/12/Finally-click-the-Install-button.-1-480x293.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/12/Finally-click-the-Install-button.-1-1320x805.jpg 1320w" sizes="(max-width: 1600px) 100vw, 1600px" /><p id="caption-attachment-13957" class="wp-caption-text">Finally click the Install button</p></div>
+<p>You&#8217;ve reached the end of the WordPress setup procedure. Now you can optionally choose a WordPress theme, enter an email address to get information, and finally click on the <strong>Install</strong> button.</p>
+<p>The installation process will take a few seconds after you click the install button.</p>
+<h3>Step 5: Go to WordPress and log in.</h3>
+<p>If everything goes as planned, you should have successfully installed WordPress. Congratulations!</p>
+<p>The login address for WordPress websites is http://yourdomain.com/<strong>wp-admin</strong> by default.</p>
+<p>Yourdomain.com must now be replaced with your actual domain name. Now that everything has been completed, You can log in to your WordPress site now.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-install-wordpress-in-namecheap-cpanel-in-5-minutes/">How to Install WordPress in Namecheap cPanel in 5 Minutes</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-install-wordpress-in-namecheap-cpanel-in-5-minutes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Website Design Tips &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/website-design-tips/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sat, 23 Jul 2022 22:09:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>Website Design Tips &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What Exactly is UI/UX Design? And Why Does It Matter</title>
+		<link>https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/</link>
+					<comments>https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/#respond</comments>
+		
+		<dc:creator><![CDATA[Elvis Chukwuka]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:43 +0000</pubDate>
+				<category><![CDATA[Website Design Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=8180#038;preview=true&#038;preview_id=8180</guid>
+
+					<description><![CDATA[<p>UI/UX, to some people, are the &#8220;unknown X and Y&#8221; of the design world. They’ve probably all heard about them but they don’t know what they entail. Even the elite few that understand the terms now capitalize on that knowledge, using it like some sort of secret language. But today, we’ll decrypt that code and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/">What Exactly is UI/UX Design? And Why Does It Matter</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><strong>UI/UX, to some people, are the &#8220;unknown X and Y&#8221; of the design world.</strong></p>
+<p>They’ve probably all heard about them but they don’t know what they entail.</p>
+<p>Even the elite few that understand the terms now capitalize on that knowledge, using it like some sort of secret language. But today, we’ll decrypt that code and find out ourselves.</p>
+<h2>What exactly is UI?</h2>
+<p><strong>UI means User Interface</strong>. And what’s User Interface? User Interface refers to the screens, buttons, and visual elements put in place to enable a user to interact with a product or service.</p>
+<p>That is to say, User Interface is anything a user interacts with in order to use a digital product or service.</p>
+<p>This may include touchscreens, sounds, icons, pages, etc.</p>
+<p>Back in the 1970s, if you wanted to use the computer, some form of coding or programming knowledge was required.</p>
+<p>But By the ‘80s, the first Graphical User Interface (GUI) was made and users and <span class="gt3_custom_tooltip" data-gt3-tooltip="Peopleware is a term used to describe the role of humans in the development of computers and related devices along with the software and hardware components related. It helps to give a perceptive to people who have a significant role in making these devices work for us.">peopleware </span>could then use the computer by inputting commands via the use of icons, buttons, etc.</p>
+<p>We all know how complex the usage of computers would have been if not for that particular achievement.</p>
+<p>So, UI basically refers to the arrangement of visual interactive elements and the general look and feel of a product.</p>
+<p>&nbsp;</p>
+<div id="attachment_8404" style="width: 1610px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-8404" class="size-full wp-image-8404" title="A Music App UI by Vitaliy Dorozhko dribbble" src="https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble.png" alt="A Music App UI by Vitaliy Dorozhko dribbble" width="1600" height="1200" srcset="https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble.png 1600w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-300x225.png 300w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-1024x768.png 1024w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-768x576.png 768w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-1536x1152.png 1536w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-480x360.png 480w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-1320x990.png 1320w" sizes="(max-width: 1600px) 100vw, 1600px" /><p id="caption-attachment-8404" class="wp-caption-text">A Music App UI by Vitaliy Dorozhko, via Dribbble</p></div>
+<p>&nbsp;</p>
+<p>When you login into a social media website, the “Reaction” or &#8220;Comment&#8221; buttons that you select are all part of UI, as well as the login button you used to access your account.</p>
+<p>UI deals with the visual aesthetics and interaction of a product.</p>
+<h2>What is UX?</h2>
+<p>UX, User Experience, refers to the experience or feeling that a user has as they interact with every aspect of a product or service.</p>
+<p>&nbsp;</p>
+<div id="attachment_8419" style="width: 1090px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-8419" class="size-full wp-image-8419" title="Foodie App Rating by Bhavna Kashyap via Dribbble" src="https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1.jpg" alt="Foodie App Rating by Bhavna Kashyap via Dribbble" width="1080" height="810" srcset="https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1.jpg 1080w, https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1-300x225.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1-1024x768.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1-768x576.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1-480x360.jpg 480w" sizes="(max-width: 1080px) 100vw, 1080px" /><p id="caption-attachment-8419" class="wp-caption-text">How was your Food? —  Foodie App Rating by Bhavna Kashyap, via Dribbble</p></div>
+<p>&nbsp;</p>
+<p>Cognitive Scientist &amp; User Experience Architect Don Norman is credited with coining the term, “User Experience” back in the early 1990s when he worked at Apple, which he defined as follows;</p>
+<blockquote><p>User Experience encompasses all aspects of the end-user’s interaction with the company, its services, and its products.</p></blockquote>
+<p>This tells you that UI is also embedded in UX, but unlike UI, UX isn’t limited to digital products alone.</p>
+<p>It can be ascertained even in offline or physical products.</p>
+<p>UX basically means what the user feels while interacting with the product, what does it remind him of, in what light does he project the product.</p>
+<p>It is universally accepted that one of the main aims of any business is to maximize profit and sales, and for this to be possible and sustainable, a UI/UX design is required — Not just UI/UX, but good UI/UX design.</p>
+<p><strong>Read Also: <a href="https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/" target="_blank" data-schema-attribute="" rel="noopener">UX Microcopy — 7 Amazing Tips For Designers</a></strong></p>
+<h2>Why does UI/UX design matter actually?</h2>
+<p>The interaction of users with your products, whether digital or not, absolutely influences their experience, which in turn determines whether or not your product would get good reviews.</p>
+<p>To begin with, if your UI isn’t good enough, both you and your customers will not be able to leverage the full potential of the affected product, and even UX is more likely to end up frustrating.</p>
+<p>UI/UX design is very crucial because;</p>
+<h3>1. It facilitates customer satisfaction</h3>
+<p>Investing in a good UI/UX design facilitates customer satisfaction.</p>
+<p>So many product ads we see today are centred on the ease of navigation and usage.</p>
+<p>Research indicates that products that are easy to use appeal to new users and set the stage for repeated usage, thereby maximizing Return on Investment (or ROI).</p>
+<p>According to a user testing company called Userbrain,  <a class="extlink" href="https://userbrain.net/blog/10-usability-user-experience-statistics-every-product-manager-needs-know" target="_blank" data-schema-attribute="" rel="nofollow noopener">“Ease of use” is cited as the most important quality for mobile apps by 97% of users.</a></p>
+<p>&nbsp;</p>
+<h3>2. It helps you understand your audience and meet their needs</h3>
+<p>Before creating a UI/UX design, you need to understand the needs and language of your audience. This stage is called the user research stage.</p>
+<p>&nbsp;</p>
+<div style="width: 940px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-8180-1" width="940" height="705" preload="metadata" controls="controls"><source type="video/mp4" src="https://branditechture.agency/wp-content/uploads/2021/05/Web-App-for-Online-Education-UI-by-Outcrowd-via-Dribbble.mp4?_=1" /><a href="https://branditechture.agency/wp-content/uploads/2021/05/Web-App-for-Online-Education-UI-by-Outcrowd-via-Dribbble.mp4">https://branditechture.agency/wp-content/uploads/2021/05/Web-App-for-Online-Education-UI-by-Outcrowd-via-Dribbble.mp4</a></video></div>
+<p>&nbsp;</p>
+<p>UI/UX, as the name implies is designed mainly to suit the user, so in the process of designing, you get to understand your audience effectively, consequently bring about customer satisfaction and maximization.</p>
+<p>&nbsp;</p>
+<h3>3. It helps brand growth and improves brand equity (or perceived brand value)</h3>
+<p>Customer satisfaction breeds happiness and improves the overall perception of your brand.</p>
+<p>Good UI/UX helps you satisfy your customers, making them contented, and in turn, they build a relationship with you. This consequently increases your brand equity, because they would eventually admit you as a credible force in the marketplace.</p>
+<p>UI/UX design ultimately builds brands in the minds of customers. A company with a well-designed website or app is held in higher regard than one with a poor website or app.</p>
+<p><strong>You may want to read:<a href="https://branditechture.agency/7-secrets-to-building-and-sustaining-brand-equity/"> 7 Secrets To Building And Sustaining Brand Equity</a></strong></p>
+<p>&nbsp;</p>
+<h3>4. It saves time and money</h3>
+<p>A good UI/UX design, just like a high-quality product, lasts longer. Therefore, time and money that will be wasted on upgrades and updates are efficiently saved and invested in other areas.</p>
+<p>Investing in quality UI/UX designs, rather than cheap ones, certainly is a must take advice considering the various benefits that accompany it. Therefore, business owners and brand builders should pay close attention to the UI/UX designs of their products.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/">What Exactly is UI/UX Design? And Why Does It Matter</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://branditechture.agency/wp-content/uploads/2021/05/Web-App-for-Online-Education-UI-by-Outcrowd-via-Dribbble.mp4" length="9539971" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>The Ultimate WordPress Website Pre-launch Checklist</title>
+		<link>https://branditechture.agency/wordpress-website-pre-launch-checklist/</link>
+					<comments>https://branditechture.agency/wordpress-website-pre-launch-checklist/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:36 +0000</pubDate>
+				<category><![CDATA[Website Design Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=6850</guid>
+
+					<description><![CDATA[<p>Every day, thousands of WordPress-based websites are released into the World Wide Web. However, the majority of those websites are just like any other website; they end up at the bottom of the pecking order, and they suffer from having very little to no influence. &#160; I have carefully prepared this WordPress website pre-launch checklist [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/wordpress-website-pre-launch-checklist/">The Ultimate WordPress Website Pre-launch Checklist</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="has-drop-cap">Every day, thousands of WordPress-based websites are released into the World Wide Web. However, the majority of those websites are just like any other website; they end up at the bottom of the pecking order, and they suffer from having very little to no influence.</p>
+<p>&nbsp;</p>
+<p><span>I have carefully prepared this WordPress website pre-launch checklist to guide you on how to make your WordPress-based website stand out upon launch. </span></p>
+<p>&nbsp;</p>
+<p>NB: This article assumes that you already have a fundamental knowledge of WordPress.</p>
+<p>&nbsp;</p>
+
+<h3></h3>
+<h2>Temporarily Hide Your Website From Search Engines</h2>
+<p>The first and most important step, especially if your site was built from a WordPress template is to temporarily take your website off the eyes of search engines like Google and Bing.</p>
+<p>&nbsp;</p>
+<p>Doing this would effectively disallow search engine bots from crawling your website, thereby preventing the search engines from associating the dummy content found in most WordPress themes/templates with your website address on their search engine result pages (SERP).</p>
+<p>&nbsp;</p>
+<p>To do this from the WP Admin Dashboard, go to <strong>Settings &gt;&gt; Reading</strong>. Under Search engine visibility, check the box that reads &#8220;Discourage search engines from indexing this site&#8221;. Click the &#8220;Save Changes&#8221; button below, and that&#8217;s it!</p>
+<p>&nbsp;</p>
+<div id="attachment_6867" style="width: 562px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-6867" class="size-full wp-image-6867" title="Discourage Search Engines from Indexing SIte" src="https://branditechture.agency/wp-content/uploads/2021/03/Discourage-Search-Engines-from-Indexing-SIte.png" alt="Discourage Search Engines from Indexing SIte" width="552" height="130" srcset="https://branditechture.agency/wp-content/uploads/2021/03/Discourage-Search-Engines-from-Indexing-SIte.png 552w, https://branditechture.agency/wp-content/uploads/2021/03/Discourage-Search-Engines-from-Indexing-SIte-300x71.png 300w, https://branditechture.agency/wp-content/uploads/2021/03/Discourage-Search-Engines-from-Indexing-SIte-480x113.png 480w" sizes="(max-width: 552px) 100vw, 552px" /><p id="caption-attachment-6867" class="wp-caption-text">Discourage Search Engines from Indexing SIte</p></div>
+<p>&nbsp;</p>
+<p><span style="color: #ff0000;"><strong>WARNING!!!</strong> </span><strong>Remember to undo this setting (uncheck the box) after you must have removed all the dummy content and demo pages installed by the theme.</strong></p>
+<h3></h3>
+<p><strong>Also Read: <a target="_blank" href="https://branditechture.agency/content-ideas-for-your-content-marketing/" title="Content Marketing — 20 Ideas For Your Brand" rel="noopener">Content Marketing — 20 Ideas For Your Brand</a></strong></p>
+<p>&nbsp;</p>
+<h2>Update Permalinks Settings For SEO</h2>
+<p>On WordPress, the default permalink structure is &#8220;Day and name&#8221;, which means your URLs will contain the date which the post or page was created followed by the title of the blog post or page.</p>
+<p>&nbsp;</p>
+<p>Unless you are a traditional newspaper company, I strongly recommend that you use the &#8220;Post-name&#8221; permalink setting because it&#8217;s more reader-friendly and certainly a better option than the default permalink setting as far as SEO is concerned.</p>
+<p>&nbsp;</p>
+<p>To check your permalink settings, click <strong>Settings</strong> &gt;&gt; <strong>Permalinks </strong>from the WP admin dashboard.</p>
+<p>&nbsp;</p>
+<p>Here&#8217;s an important tip: It is better for you to decide on your permalink structure earlier in time because doing so after having so many pages and posts may result in a nasty bunch of  Error 404&#8217;s or page not found errors. So check now and deliberate about your choice.</p>
+<p>&nbsp;</p>
+<h2>Verify Admin Email Address</h2>
+<p>Check and verify that your admin email address is correct.</p>
+<p>&nbsp;</p>
+<p>To do this from your WP admin dashboard, go to <strong>Settings &gt;&gt; General</strong>. Under &#8220;Administration Email Address&#8221;, verify that the email address is correct and accessible, and click the &#8220;Save Changes&#8221; button.</p>
+<p>&nbsp;</p>
+<h2>Delete Theme-generated Pages</h2>
+<p>A lot of WordPress themes come with demo pages and page content.</p>
+<p>&nbsp;</p>
+<p>Before launching your website, delete the demo pages so that they don&#8217;t become a part of your website&#8217;s sitemap.</p>
+<p>&nbsp;</p>
+<p>If not deleted, these pages might still show up on search engine result pages under your domain.</p>
+<p>&nbsp;</p>
+<p>With all that being said, we can all agree that it is very important to get rid of those pages before launching your website.</p>
+<p>&nbsp;</p>
+<p>To delete pages from your WP Admin dashboard, click <strong>Pages &gt;&gt; All pages</strong>. You will see a list of those unrelated pages.</p>
+<p>&nbsp;</p>
+<p>Check all the unwanted pages, then select &#8220;Move To  Trash&#8221; from the &#8220;Bulk Actions&#8221; drop-down menu.</p>
+<p>&nbsp;</p>
+<h2>Delete Unused Themes And Plugins</h2>
+<p>The number of plugins installed and activated on your WordPress website has a direct effect on its load times.</p>
+<p>&nbsp;</p>
+<p>Apart from that, leaving so many unused plugins and themes on your website makes it more susceptible to cyber-attacks.</p>
+<p>&nbsp;</p>
+<p>Deleting unused plugins and themes from your website reduces the bloat, thereby decreasing the overall website&#8217;s size <span>—</span> Which means lesser server stress during full site backups.</p>
+<p>&nbsp;</p>
+<h2>Install A Security Plugin</h2>
+<p>Install and activate an anti-virus and security plugin like Wordfence.</p>
+<p>&nbsp;</p>
+<div id="attachment_6866" style="width: 598px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6866" class="size-full wp-image-6866" title="Wordfence" src="https://branditechture.agency/wp-content/uploads/2021/03/Wordfence.png" alt="Wordfence" width="588" height="247" srcset="https://branditechture.agency/wp-content/uploads/2021/03/Wordfence.png 588w, https://branditechture.agency/wp-content/uploads/2021/03/Wordfence-300x126.png 300w, https://branditechture.agency/wp-content/uploads/2021/03/Wordfence-480x202.png 480w" sizes="(max-width: 588px) 100vw, 588px" /><p id="caption-attachment-6866" class="wp-caption-text">Wordfence Security Plugin</p></div>
+<p>&nbsp;</p>
+<p>I recommend Wordfence because it is free and easy to use. Wordfence also sends security alerts to you via email, so you are always up to date with the security situation of your website.</p>
+<p>&nbsp;</p>
+<p>Installing Wordfence should be quite straightforward and easy to use; Just visit the WordPress plugins directory from your WP Dashboard as usual to install Wordfence.</p>
+<p>&nbsp;</p>
+<p>The default settings will work fine enough to protect a new WordPress website, however, you can play around with more advanced settings at your own risk.</p>
+<p><strong>Read Also:  <a href="https://branditechture.agency/why-wordpress-is-perfect-for-your-next-website-project/" rel="noopener" class="LinkSuggestion__Link-sc-1gewdgc-4 iyHtHS">Why WordPress Is Perfect For Your Next Website Project</a></strong></p>
+<h2>Install An SEO Plugin</h2>
+<p>Install search engine optimization plugins and generate an XML sitemap.</p>
+<p>&nbsp;</p>
+<p>I recommend using Rank Math. Rank Math is not only easy to use but also intuitive.</p>
+<p>&nbsp;</p>
+<div id="attachment_6865" style="width: 597px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6865" class="size-full wp-image-6865" title="Rank Math" src="https://branditechture.agency/wp-content/uploads/2021/03/Rank-Math.png" alt="Rank Math" width="587" height="246" srcset="https://branditechture.agency/wp-content/uploads/2021/03/Rank-Math.png 587w, https://branditechture.agency/wp-content/uploads/2021/03/Rank-Math-300x126.png 300w, https://branditechture.agency/wp-content/uploads/2021/03/Rank-Math-480x201.png 480w" sizes="(max-width: 587px) 100vw, 587px" /><p id="caption-attachment-6865" class="wp-caption-text">Rank Math SEO Plugin</p></div>
+<p>&nbsp;</p>
+<p>It also has a page SEO score that allows you to preview how your website will fare in search engine search results pages.</p>
+<p>&nbsp;</p>
+<p>It also features seamless integrations with Google Search Console, Google Analytics and Bing Webmaster Tools.</p>
+<p>&nbsp;</p>
+<p>Rank Math also allows you to generate a file called sitemap.xml</p>
+<p>&nbsp;</p>
+<p>What an XML sitemap does is that it creates a &#8220;map&#8221; that enlists all your web pages for easy structuring by search engine bots or <a class="extlink" target="_blank" href="https://developers.google.com/search/docs/advanced/crawling/overview-google-crawlers#:~:text=%22Crawler%22%20is%20a%20generic%20term,main%20crawler%20is%20called%20Googlebot.&amp;text=User%20agent%20token%20is%20used,%2Dagent%3A%20line%20in%20robots." rel="noopener">crawlers.</a></p>
+<p>&nbsp;</p>
+<h2>Install A Caching Plugin</h2>
+<p>On WordPress, selecting the right caching plugin is a tricky task. This is because we have so many options to select from.</p>
+<p>&nbsp;</p>
+<div id="attachment_6864" style="width: 1195px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6864" class="size-full wp-image-6864" title="Caching Options WordPress" src="https://branditechture.agency/wp-content/uploads/2021/03/Caching-Options-WordPress.png" alt="Caching Options WordPress" width="1185" height="577" srcset="https://branditechture.agency/wp-content/uploads/2021/03/Caching-Options-WordPress.png 1185w, https://branditechture.agency/wp-content/uploads/2021/03/Caching-Options-WordPress-300x146.png 300w, https://branditechture.agency/wp-content/uploads/2021/03/Caching-Options-WordPress-1024x499.png 1024w, https://branditechture.agency/wp-content/uploads/2021/03/Caching-Options-WordPress-768x374.png 768w, https://branditechture.agency/wp-content/uploads/2021/03/Caching-Options-WordPress-480x234.png 480w" sizes="(max-width: 1185px) 100vw, 1185px" /><p id="caption-attachment-6864" class="wp-caption-text">Caching Plugin Options for WordPress</p></div>
+<p>&nbsp;</p>
+<p>Instead of &#8220;disturbing&#8221; the origin server every time you visit the same web page, a caching plugin helps your website load faster by temporarily storing and serving your website&#8217;s static files (known as cache). This effectively minimizes the load on the webserver and significantly reduces your website loading time.</p>
+<p>&nbsp;</p>
+<p>My best caching plugin is WP Rocket, which is a paid plugin, but you can achieve similar results with other free WordPress plugins such as W3 Total Cache, WP Super Cache, WP Fastest Cache, etc.</p>
+<p>&nbsp;</p>
+<h2>Set Up Search Console and Analytics</h2>
+<p>For the Branditechture website, we use Google Search Console, Google Analytics and Bing Webmaster Tools.</p>
+<p>&nbsp;</p>
+<p><b>Google Search Console</b> is used to fetch what keywords (or search queries) were used by people who visited our website through the Google search.</p>
+<p>&nbsp;</p>
+<p><strong>Google Analytics:</strong> Google Analytics<span> is </span>used<span> by website owners or webmasters to track website activity such as the average time visitors spend on a certain page, their geographic location, the pages viewed per session, the website&#8217;s <a class="extlink" target="_blank" href="https://support.google.com/analytics/answer/1009409" rel="noopener">bounce rate</a>, the user flow etc. of people visiting or using the site, along with the information such as the source of the traffic.</span></p>
+<p>&nbsp;</p>
+<p><strong>Bing Webmaster Tools</strong> (Bing WMT) is a free Microsoft service that allows you to add your websites to the Bing crawler so they show up on the<span> Bing </span>search engine result pages. It allows you to see detailed information<span> about your website; including clicks, page views, pages indexed, and pages crawled. </span></p>
+<p>&nbsp;</p>
+<p>It also helps to monitor and maintain a site’s presence. Bing Webmaster Tools is to the Bing search engine, what<span> </span>Google Search Console<span> </span>is to Google.</p>
+<p>&nbsp;</p>
+<h2>Install A GDPR/CCPA Compliance Plugin</h2>
+<p>The major reason to make a website GDPR compliant is to tackle the issue of consent. Information (which may be regarded as &#8220;cookies&#8221;) should never be collected and processed unless consent has been obtained.</p>
+<p>&nbsp;</p>
+<div id="attachment_6862" style="width: 507px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6862" class="size-full wp-image-6862" title="Cookie Notice" src="https://branditechture.agency/wp-content/uploads/2021/03/Cookie-Notice.png" alt="Cookie Notice" width="497" height="195" srcset="https://branditechture.agency/wp-content/uploads/2021/03/Cookie-Notice.png 497w, https://branditechture.agency/wp-content/uploads/2021/03/Cookie-Notice-300x118.png 300w, https://branditechture.agency/wp-content/uploads/2021/03/Cookie-Notice-480x188.png 480w" sizes="(max-width: 497px) 100vw, 497px" /><p id="caption-attachment-6862" class="wp-caption-text">Cookie Notice</p></div>
+<p>&nbsp;</p>
+<p>Any company or business caught harvesting information without the consent of their users is liable to face data protection fines according to their state laws. For example, the European Union GDPR Law sets a maximum fine of €20 million (about £18 million) or 4% of annual global turnover – whichever is greater – for infringements.</p>
+<p>&nbsp;</p>
+<p>To make a WordPress website GDPR-Compliant, all you need to do is install and activate a cookie consent plugin. Feel free to use the plugin of your choice but our most-preferred GDPR/CCPA Compliance plugin is<strong> CookieYes</strong> by <em>WebToffee.</em></p>
+<p>&nbsp;</p>
+<div id="attachment_6863" style="width: 594px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6863" class="size-full wp-image-6863" title="CookieYes GDPR Compliance" src="https://branditechture.agency/wp-content/uploads/2021/03/CookieYes-GDPR-Compliance.png" alt="CookieYes GDPR Compliance" width="584" height="262" srcset="https://branditechture.agency/wp-content/uploads/2021/03/CookieYes-GDPR-Compliance.png 584w, https://branditechture.agency/wp-content/uploads/2021/03/CookieYes-GDPR-Compliance-300x135.png 300w, https://branditechture.agency/wp-content/uploads/2021/03/CookieYes-GDPR-Compliance-480x215.png 480w" sizes="(max-width: 584px) 100vw, 584px" /><p id="caption-attachment-6863" class="wp-caption-text">CookieYes GDPR Compliance Plugin</p></div>
+<p>&nbsp;</p>
+<p>Finally, in addition, you should create a privacy policy page. What a privacy policy page primarily does is explain how user data on your website is processed.</p>
+<p>&nbsp;</p>
+<div id="attachment_6861" style="width: 507px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6861" class="size-full wp-image-6861" title="Cookie Notice" src="https://branditechture.agency/wp-content/uploads/2021/03/Cookie-Notice.jpg" alt="Cookie Notice" width="497" height="195" srcset="https://branditechture.agency/wp-content/uploads/2021/03/Cookie-Notice.jpg 497w, https://branditechture.agency/wp-content/uploads/2021/03/Cookie-Notice-300x118.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/03/Cookie-Notice-480x188.jpg 480w" sizes="(max-width: 497px) 100vw, 497px" /><p id="caption-attachment-6861" class="wp-caption-text">Cookie Notice</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/wordpress-website-pre-launch-checklist/">The Ultimate WordPress Website Pre-launch Checklist</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/wordpress-website-pre-launch-checklist/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Baseline vs. Progressive  —  JPEG Formats Explained For Dummies</title>
+		<link>https://branditechture.agency/baseline-vs-progressive-jpeg/</link>
+					<comments>https://branditechture.agency/baseline-vs-progressive-jpeg/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:26 +0000</pubDate>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[Website Design Tips]]></category>
+		<category><![CDATA[jpeg]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=5888</guid>
+
+					<description><![CDATA[<p>What is JPEG? JPEG, also known as JPG, stands for Joint Photographic Experts Group.  It is a standard image format used for compressed image data.  Despite the huge reduction in file size as a result of the compression, JPEG images can still maintain reasonable image quality.  This compression allows JPEG files to be used widely [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/baseline-vs-progressive-jpeg/">Baseline vs. Progressive  —  JPEG Formats Explained For Dummies</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">What is JPEG?</h2>
+
+
+
+<p>JPEG, also known as JPG, stands for Joint Photographic Experts Group. </p>
+
+
+
+
+
+<p>It is a standard image format used for compressed image data. </p>
+
+
+
+
+
+<p>Despite the huge reduction in file size as a result of the compression, JPEG images can still maintain reasonable image quality. </p>
+
+
+
+
+
+<p>This compression allows JPEG files to be used widely on the Internet, most notably on web pages. </p>
+
+
+
+
+
+<p>Unlike PNG, JPEG does not support alpha channels (also known as lossless transparency).</p>
+
+
+
+
+
+<p>In 2010, a new image format called WebP was released by Google. Talking about lossless image compression, WebP has far better compression levels when compared to JPEG. </p>
+
+
+
+
+
+<p>In layman’s term, <strong><em>lossless compression</em></strong> simply means reducing the file size of an image without reducing its visual quality or visual integrity.</p>
+
+
+
+
+
+<p>The biggest reason for compressing images for web pages is so that the images become lighter in file size, therefore reducing the time required to fully load a webpage.</p>
+
+
+
+
+
+<p>Let’s quickly take a look at the crucial differences between Baseline and Progressive JPEG, including the pro and cons of our recommended JPEG format — The Progressive.</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-video"><video src="https://branditechture.agency/wp-content/uploads/2020/11/non_progressive_vs_progressive_jpeg.mp4" controls="controls" width="300" height="150"></video>
+<figcaption>Click to Play Video</figcaption>
+</figure>
+
+
+
+
+
+<p>If you are a Graphic Designer, you must be familiar with this dialogue in Adobe Photoshop;</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="474" height="445" class="wp-image-5884" src="https://branditechture.agency/wp-content/uploads/2020/11/Save-As-JPG-Dialogue.jpg" alt="Save As JPG Dialogue" title="Baseline vs. Progressive — JPEG Formats Explained For Dummies 1" srcset="https://branditechture.agency/wp-content/uploads/2020/11/Save-As-JPG-Dialogue.jpg 474w, https://branditechture.agency/wp-content/uploads/2020/11/Save-As-JPG-Dialogue-300x282.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" />
+<figcaption>Save As JPG Dialogue</figcaption>
+</figure>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">What is Baseline JPEG?</h2>
+
+
+
+<p>A Baseline JPEG is created using the JPEG compression algorithm that will start to render the image line by line from top to bottom as more data becomes available.</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" class="alignnone wp-image-5940 size-full" src="https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1.png" alt="Baseline JPEG Format min" width="4525" height="1699" title="Baseline vs. Progressive — JPEG Formats Explained For Dummies 2" srcset="https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1.png 4525w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-300x113.png 300w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-1024x384.png 1024w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-768x288.png 768w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-1536x577.png 1536w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-480x180.png 480w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-1320x496.png 1320w, https://branditechture.agency/wp-content/uploads/2020/11/Baseline-JPEG-Format-min-1-1200x451.png 1200w" sizes="(max-width: 4525px) 100vw, 4525px" />
+<figcaption>Baseline JPEG Format</figcaption>
+</figure>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>On a webpage, for example, you can be sure that the compression algorithm of a JPEG image is Baseline when you notice it rendering from top to bottom in a line by line manner. This effect is better observed on a slow internet connection or when viewing a fairly large image such as this one <a class="extlink" href="https://is.gd/F2ldgR" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener nofollow">here. (Click this link to view)</a>. </p>
+
+
+
+
+
+<h2 class="wp-block-heading">What is Progressive JPEG?</h2>
+
+
+
+<p>A Progressive JPEG encoding initially renders a full-sized but low-quality pixellated image, but the quality only becomes better and clearer as the image downloads.</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" class="alignnone wp-image-5887 size-full" src="https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1.png" alt="Progressive JPEG Format min" width="4576" height="1758" title="Baseline vs. Progressive — JPEG Formats Explained For Dummies 3" srcset="https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1.png 4576w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-300x115.png 300w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-1024x393.png 1024w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-768x295.png 768w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-1536x590.png 1536w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-480x184.png 480w, https://branditechture.agency/wp-content/uploads/2020/11/Progressive-JPEG-Format-min-1-1320x507.png 1320w" sizes="(max-width: 4576px) 100vw, 4576px" />
+<figcaption>Progressive JPEG Format</figcaption>
+</figure>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>When used on a web page, progressive JPEGs can improve user experience by giving the illusion of an instant image load.</p>
+
+
+
+
+
+<p>Although blurry at first, users can still see the entire image while the image keeps loading in the background.</p>
+
+
+
+
+
+<p>The number of transition depends on the amount of “Scans” set during the JPEG encoding. As the Progressive JPEG renders, each iteration is referred to as a Scan.</p>
+
+
+
+
+
+<p>You may not notice this transition if you are on a fast internet connection because everything can happen too fast.</p>
+
+
+
+
+
+<p>The Progressive JPEG encoding came as a space-saving, performance-enhancing upgrade to the Standard or Baseline JPEG encoding.</p>
+
+
+
+<p>Unless you’ve done some JPEG optimization, it’s very likely your website is full of Standard Baseline JPEGs.</p>
+
+
+
+
+
+<h2 class="wp-block-heading">The Pros and Cons of Progressive JPEG</h2>
+
+
+
+<p><strong>Pros:</strong></p>
+
+
+
+<p>✔ The compression ratio can be adjusted in programs like Adobe Photoshop</p>
+
+
+
+<p>✔ Relatively smaller file size</p>
+
+
+
+<p>✔ Supports lossless image compression </p>
+
+
+
+<p>✔ it is best suited for use on websites as it quickly renders the images as it downloads more of the image data in the background, therefore effectively reducing wait time.</p>
+
+
+
+
+
+<p><strong>Cons:</strong></p>
+
+
+
+<p>✘ Doesnt work on very old browsers such as Internet Explorer 8 </p>
+
+
+
+<p>✘ The difference in loading times are barely noticeable in modern browsers, hence might not be worth all the effort of re-econding your already uploaded images.</p>
+
+
+
+<p>✘ Users can never be so sure if an image is originally blurry or just hasn’t finished loading.</p>
+
+
+
+
+
+<p>Need to make your website load faster? We can help by optimizing your images! Click <a href="mailto:company@branditechture-agency.local" class="rank-math-link">HERE</a> to send us an e-mail. You can also click <a href="https://branditechture.agency/lets-build-your-website/">HERE </a>to work with us on your next web design project.</p>
+
+
+
+
+
+<p>Thanks for reading. Please leave a comment below</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/baseline-vs-progressive-jpeg/">Baseline vs. Progressive  —  JPEG Formats Explained For Dummies</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/baseline-vs-progressive-jpeg/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		<enclosure url="https://branditechture.agency/wp-content/uploads/2020/11/non_progressive_vs_progressive_jpeg.mp4" length="1947436" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

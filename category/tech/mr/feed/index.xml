@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MR &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/tech/mr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Thu, 28 Jul 2022 05:45:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>MR &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What Is Microsoft HoloLens and What is it Used For?</title>
+		<link>https://branditechture.agency/what-is-microsoft-hololens/</link>
+					<comments>https://branditechture.agency/what-is-microsoft-hololens/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Thu, 28 Jul 2022 05:45:52 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[MR]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=13556</guid>
+
+					<description><![CDATA[<p>Microsoft HoloLens is a completely self-contained, wireless, holographic computer. It enables users to take a look at what is known as “mixed reality”. This means that people with Microsoft HoloLens can see digital content &#8211; so-called holograms &#8211; in the real world and interact with it using speech and gestures.  What is Microsoft HoloLens? What [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-is-microsoft-hololens/">What Is Microsoft HoloLens and What is it Used For?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_13558" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-13558" class="size-full wp-image-13558" title="Microsoft Hololens" src="https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2.jpg" alt="Microsoft Hololens" width="1024" height="682" srcset="https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2-300x200.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2-768x512.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2-480x320.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-13558" class="wp-caption-text">The Microsoft Hololens 2</p></div>
+<p><em>Microsoft HoloLens is a completely self-contained, wireless, holographic computer. It enables users to take a look at what is known as “mixed reality”. This means that people with Microsoft HoloLens can see digital content &#8211; so-called holograms &#8211; in the real world and interact with it using speech and gestures. </em></p>
+<p><strong>What is Microsoft HoloLens? What can it be used for? In this article, you will find a simple definition and exciting application scenarios for Microsoft HoloLens.</strong></p>
+<p>Hololens is to Microsoft what Oculus is to Meta, formerly known as Facebook. But the Microsoft Hololens is targeted at businesses and enterprises, while Oculus is more inclined towards entertainment and the social metaverse.</p>
+<p>The potential of the Microsoft HoloLens is almost unlimited, and possible uses across all industries are conceivable. This diversity makes the Microsoft HoloLens particularly interesting for companies and convinces developers and corporate customers to work with its innovative technology.</p>
+<h2>Microsoft Hololens Models</h2>
+<p>In January 2015, Microsoft HoloLens, the world&#8217;s first wireless, stand-alone holographic computer based on the mixed reality platform, was presented. The powerful hardware allows high-resolution 3D holograms to be displayed in the real world without having to rely on separate hardware. HoloLens enables interaction with holographic objects via voice, gaze and gesture control. For example, holograms can be moved, positioned or changed in size completely freely in physical space using specific hand movements.</p>
+<p>The second generation was presented for the first time at MWC Barcelona in February 2019. Compared to the previous model, <strong>Microsoft HoloLens 2</strong> offers a field of view that is more than twice as large, significantly improved wearing comfort thanks to an optimized center of gravity and allows more intuitive interaction with holograms. For example, using finger tracking, which enables even more precise input about the movement of individual fingers.</p>
+<div id="attachment_13559" style="width: 410px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-13559" class="size-full wp-image-13559" title="Microsoft HoloLens 2 Industrial Edition smart glasses - 64 GB" src="https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-HoloLens-2-Industrial-Edition-smart-glasses-64-GB.jpg" alt="Microsoft HoloLens 2 Industrial Edition smart glasses - 64 GB" width="400" height="300" srcset="https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-HoloLens-2-Industrial-Edition-smart-glasses-64-GB.jpg 400w, https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-HoloLens-2-Industrial-Edition-smart-glasses-64-GB-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /><p id="caption-attachment-13559" class="wp-caption-text">Microsoft HoloLens 2 Industrial Edition Smart Glasses &#8211; 64 GB. Costs <span class="c-currency__code ">USD<span> </span></span><span class="c-currency__value ">$4,950</span></p></div>
+<h3>What Are Holograms?</h3>
+<p><span class="">Simply put, holograms are graphics created with light that appear to float three-dimensionally in space.<span> </span></span><span class="">Anyone who has ever been to an event with light projections probably knows this: images are projected into free space using laser beams.<span> </span></span><span>Microsoft HoloLens works in a similar way but displays the images on the device&#8217;s projection glass so that only the wearer can see them at first.</span></p>
+<h2>How does the Microsoft HoloLens work?</h2>
+<p><iframe title="Introducing Microsoft HoloLens 2" width="940" height="529" src="https://www.youtube.com/embed/eqFqtAJMtYE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h2></h2>
+<p>Microsoft HoloLens is equipped with the latest technology and relies on artificial intelligence (AI). For intuitive interactions in mixed reality, Microsoft HoloLens 2 relies on the AI ​​capabilities of Azure, Microsoft&#8217;s cloud computing platform, and uses numerous sensors and special tracking systems. For example, a special hand tracking system measures the individual shape of the hands and enables precise operation.</p>
+<p>Eye tracking makes it possible to measure the individual distance between the wearer&#8217;s pupil centers, which influences how a person sees near or distant objects. Based on an AI algorithm, personalized 3D models are then adapted to the hands and eyes of the user, which enables precise interaction with holograms.</p>
+<p>The corresponding AI technologies run on HoloLens 2 and are called <strong>Perception AI</strong> because they correspond to the instinctive perception and activity of the human brain. Perception AI works on the basis of the HPU 2.0 &#8211; the <strong>holographic processing unit</strong> that was specially developed for the HoloLens 2 &#8211; locally on the respective device, which avoids long latency times (reaction times).</p>
+<h3>What defines an “intelligent edge” device?</h3>
+<p>HoloLens 2 is considered a flagship device in the field of intelligent edge. This refers to technologies that can collect data even without a reliable internet connection and process it where it is created. However, you can share some or all of the data with the intelligent cloud when it is connected. The device, based on artificial intelligence and cloud computing, enables instinctive collaboration and the exchange of knowledge via holograms, regardless of space and time.</p>
+<h3>What apps are available for the HoloLens?</h3>
+<ol>
+<li>Dynamics 365 Remote Assist.</li>
+<li>Dynamics 365 Guides</li>
+<li>Azure Remote Rendering</li>
+<li>Azure Spatial Anchors</li>
+</ol>
+<p>One of the most popular applications is<a href="https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/" target="_blank" rel="noopener"> Dynamics 365 Remote Assist.</a> The solution allows the use of holograms to give precise instructions across different locations. This means, for example, that technicians can explain repairs remotely or carry out maintenance more easily.</p>
+<p><a href="https://dynamics.microsoft.com/en-us/mixed-reality/guides/" target="_blank" rel="noopener">Dynamics 365 Guides</a> for HoloLens enables users to practice-oriented learning based on holographic instructions when and where they need them. The instruction cards are visually tied to the location where the work is being carried out. They can contain images, videos, and 3D holographic models. Users see what needs to be done where and can get the job done faster and with fewer errors.</p>
+<p>With <a href="https://azure.microsoft.com/en-us/services/remote-rendering/" target="_blank" rel="noopener">Azure Remote Rendering,</a> high-quality 3D content and interactive surfaces are brought to mixed reality devices such as the HoloLens. Using the computing power of Azure, even the most complex models are rendered in the cloud and streamed to devices in real time. For example, designers or engineers can interact with 3D content with great attention to detail.</p>
+<p>Another application is <a href="https://azure.microsoft.com/en-us/services/spatial-anchors/" target="_blank" rel="noopener">Azure Spatial Anchors:</a> Customers use it to create mixed reality applications with spatial reference. For example, industrial customers in a factory can place maintenance information in the form of holograms next to machines on a production line and then make this information visible to specific employees.</p>
+<p>More apps are currently being developed.</p>
+<h3>What is the Azure Kinect Developer Kit?</h3>
+<p>The <a href="https://www.amazon.com/Azure-Kinect-Developer-Kit-PC-Linux/dp/B07WRV7T2G" target="_blank" rel="noopener">Azure Kinect Developer Kit (DK)</a> is an accessory and development kit with advanced AI sensors for various models in the field of machine vision and speech recognition. It combines a depth sensor and a spatial microphone arrangement with a video camera and a position sensor &#8211; all in one small device.</p>
+<p>This includes the time-of-flight depth sensor, a high-resolution RGB camera and seven microphones arranged in a circle, with which modern image processing and speech solutions can be developed based on Microsoft Azure. This enables applications that not only recognize the world, but also understand it. For example people, places and things in the area.</p>
+
+<h2>Where is the HoloLens used?</h2>
+<p>Microsoft HoloLens is essentially aimed at corporate customers. The innovative technology enables new, digital business processes across all industries &#8211; this ranges from the education or training of employees, through the attractive presentation of products in sales, to visual support for doctors in the operating room. Here are four exciting examples:</p>
+<p><strong>Knowledge transfer:</strong> The Collaborative Training 4.0 from <strong>Bosch</strong> is an end-to-end solution, works with mixed reality technology and was created on the basis of <a rel="nofollow noopener" href="https://www.re-flekt.com/reflekt-one" target="_blank">REFLEKT ONE</a>. The interactive training offers holographic step-by-step instructions that help workshop trainees understand new products and technologies and enable service technicians to work more efficiently and with fewer errors in repairs and maintenance.</p>
+<p><strong>Health:</strong> With the software, Virtual Surgery Intelligence (VSI) from Microsoft&#8217;s mixed reality partner, <strong>apoQlar GmbH</strong>, two-dimensional black and white X-ray images are turned into realistic, three-dimensional objects. This enables doctors to prepare even better for an operation and to explain the procedure in advance of an operation to the patient in a more understandable way.</p>
+<p><strong>Remote maintenance: </strong>In order to make inspections even more efficient, <a href="https://news.microsoft.com/transform/vroom-with-a-view-hololens-2-powers-faster-fixes-mercedes-benz-usa/" target="_blank" rel="noopener">Mercedes-Benz USA</a> equips its authorized American dealers and the associated service technicians with the Microsoft HoloLens 2. With the support of the Microsoft Dynamics 365 Remote Assist application, you can also maintain Mercedes vehicles remotely and give precise instructions for repairs in real time.</p>
+<p><strong>Interior design: </strong>The <strong>.rooms application</strong> from the Berlin company, Island Labs, enables holographic visualization of objects for planning rooms. For example, a Germany based company known as <a href="https://customers.microsoft.com/EN-AU/story/807378-kuechenquelle-retailers-azure" target="_blank" rel="noopener">küchenquelle GmbH uses</a> this solution in the planning and sales process for kitchens.</p>
+<h3>How to order the Microsoft Hololens</h3>
+<p>Interested corporate customers and MR developers can purchase the Microsoft HoloLens 2 either directly from Microsoft Stores or from authorized partners and solution developers.</p>
+<p>Click <a href="https://docs.microsoft.com/en-us/hololens/hololens2-purchase" target="_blank" rel="noopener">HERE</a> for a full list of where to buy.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-is-microsoft-hololens/">What Is Microsoft HoloLens and What is it Used For?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/what-is-microsoft-hololens/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: How Chrome&#8217;s Memory Saver Feature Can Slow Down Your Productivity	</title>
+	<atom:link href="https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sun, 14 May 2023 23:55:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		By: annoyed		</title>
+		<link>https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/#comment-1194</link>
+
+		<dc:creator><![CDATA[annoyed]]></dc:creator>
+		<pubDate>Sun, 14 May 2023 23:55:06 +0000</pubDate>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17859#comment-1194</guid>
+
+					<description><![CDATA[this feature is terrible and it keep resetting itself to on again after a chrome update]]></description>
+			<content:encoded><![CDATA[<p>this feature is terrible and it keep resetting itself to on again after a chrome update</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Coding &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/coding/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sat, 23 Jul 2022 22:09:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>Coding &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>One-Page Navigation: How To Collapse WordPress Nav Menu on Click</title>
+		<link>https://branditechture.agency/how-to-collapse-wordpress-nav-menu-on-click/</link>
+					<comments>https://branditechture.agency/how-to-collapse-wordpress-nav-menu-on-click/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:23 +0000</pubDate>
+				<category><![CDATA[Coding]]></category>
+		<category><![CDATA[collapse menu on cilick. Auto Collapse]]></category>
+		<category><![CDATA[one-page website]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=14964</guid>
+
+					<description><![CDATA[<p>A single-page or one-page website needs its mobile nav menu tray to automatically collapse on click. However, it doesn&#8217;t always happen by default in most cases. For example, if you build a one-page website using WordPress and Elementor Pro, Elegant themes, or Elements Kits, chances are good that you would run into the shown problem [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-collapse-wordpress-nav-menu-on-click/">One-Page Navigation: How To Collapse WordPress Nav Menu on Click</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A single-page or one-page website needs its mobile nav menu tray to automatically collapse on click. However, it doesn&#8217;t always happen by default in most cases.</p>
+<p>For example, if you build a one-page website using WordPress and Elementor Pro, Elegant themes, or Elements Kits, chances are good that you would run into the shown problem below;</p>
+<p><strong><em>[Click on video to play]</em></strong></p>
+<div style="width: 320px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-14964-1" width="320" height="640" loop="1" autoplay="1" preload="auto" controls="controls"><source type="video/mp4" src="https://branditechture.agency/wp-content/uploads/2022/01/Before.mp4?_=1" /><a href="https://branditechture.agency/wp-content/uploads/2022/01/Before.mp4">https://branditechture.agency/wp-content/uploads/2022/01/Before.mp4</a></video></div>
+<p>As you can see in the video above, the menu tray does not collapse after clicking on a menu item. This problem is not limited to WordPress headers alone. It can also occur if you use a Bootstrap template.</p>
+<p>In this post, I will share with you a wonderful jQuery snippet that would help auto collapse the menu tray by mimicking a click event on the [X] icon when a menu item is clicked.</p>
+<p>See the final result below;</p>
+<p><strong><em>[Click on video to play]</em></strong></p>
+<div style="width: 320px;" class="wp-video"><video class="wp-video-shortcode" id="video-14964-2" width="320" height="640" loop="1" autoplay="1" preload="auto" controls="controls"><source type="video/mp4" src="https://branditechture.agency/wp-content/uploads/2022/01/After.mp4?_=2" /><a href="https://branditechture.agency/wp-content/uploads/2022/01/After.mp4">https://branditechture.agency/wp-content/uploads/2022/01/After.mp4</a></video></div>
+<p>&nbsp;</p>
+<p>So, Here is the jQuery Snippet to automatically collapse the nav menu tray on menu click;</p>
+<h3>For WordPress</h3>
+<p>Install and activate any plugin that will enable you to add custom JS codes to your website. I recommend <strong><a href="https://wordpress.org/plugins/custom-css-js/" target="_blank" rel="nofollow noopener">Simple Custom CSS and JS</a> </strong>plugin.</p>
+<p>Copy and paste the following code into your custom JS field.</p>
+<pre>jQuery(document).ready(function( $ ){
+(function($){
+$(window).on("load",function(){ 
+$("body").on("click","<strong>.menu-item</strong>",function(){$("<strong>.menu-close</strong>")[0].click();}); }); })(jQuery);
+});</pre>
+<p><strong>Variables to take care of;</strong></p>
+<p>There are just two variables you need to change;</p>
+<p>.<strong>menu-item </strong>= Change it to the CSS class name of your menu items</p>
+<p><strong>.menu-close</strong> = Change it to the CSS class name of your mobile menu&#8217;s close icon.</p>
+<h3>For an HTML/Bootstrap Template</h3>
+<pre>&lt;script&gt;
+
+jQuery(document).ready(function( $ ){ (function($){ $(window).on("load",function(){ $("body").on("click","<strong>.menu-item</strong>",function(){$("<strong>.menu-close</strong>")[0].click();}); }); })(jQuery); });
+
+&lt;/script&gt;</pre>
+<p>Please comment below if it worked for you.</p>
+<p>Thank for reading!</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-collapse-wordpress-nav-menu-on-click/">One-Page Navigation: How To Collapse WordPress Nav Menu on Click</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-collapse-wordpress-nav-menu-on-click/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://branditechture.agency/wp-content/uploads/2022/01/Before.mp4" length="329724" type="video/mp4" />
+<enclosure url="https://branditechture.agency/wp-content/uploads/2022/01/After.mp4" length="309336" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

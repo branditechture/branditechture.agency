@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>How Tos &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/how-tos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Mon, 26 Sep 2022 13:45:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>How Tos &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Change Password on MTN HyNetflex</title>
+		<link>https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/</link>
+					<comments>https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:24 +0000</pubDate>
+				<category><![CDATA[How Tos]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17126</guid>
+
+					<description><![CDATA[<p>Gaining access to the settings panel of the MTN HyNetflex is a hard task for some people, and this is due to the lack of navigational buttons and LCD display on the MTN Hynetflex Router. In this post, I will show you how to navigate your way around the HyNetflex settings panel so that you can [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/">How to Change Password on MTN HyNetflex</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Gaining access to the settings panel of the MTN HyNetflex is a hard task for some people, and this is due to the lack of navigational buttons and LCD display on the MTN <a href="https://branditechture.agency/mtn-hynetflex-honest-review/" target="_blank" rel="noopener">Hynetflex Router.</a> In this post, I will show you how to navigate your way around the HyNetflex settings panel so that you can change your HyNetflex password.</p>
+<p>Before we begin, it is important to note that there are two types of passwords on the HyNetflex namely; <strong>The admin password</strong>, which is used to gain access to the HyNetflex settings panel, and <strong>the Wi-Fi password</strong> (technically called <strong>WPA Key</strong>), which devices can use to connect to the router. This post would walk you through how to change both passwords.</p>
+
+<h3>How to Change HyNetflex Admin Password.</h3>
+<p>To change the settings panel password (a.k.a Admin password), you must know the current password. Just so you know, the default password is &#8220;<strong>admin&#8221;.</strong></p>
+<p>I strongly advice that you change this password to prevent unauthorized access to your MTN HynetFlex Router. This is because the default admin panel password is <strong><em>&#8220;admin&#8221; </em></strong>for all HyNetflex devices sold by MTN, and anyone who knows this may change your password without your consent.</p>
+<p><strong>Follow the steps below to change your HyNetflex admin password;</strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 1:</span> </strong><br />
+Make sure that your device is connected to your MTN HyNet Router.</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 2: </span></strong><br />
+Using a web browser, visit <strong>http://192.168.0.1/</strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 3: </span></strong><br />
+Login with the default password: <strong>admin</strong></p>
+<p>Once in the dashboard,</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 4:<br />
+</span></strong>Click <strong>&#8220;Modify Login Password&#8221; </strong>as shown in the screenshot below</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-17130" title="Click Modify Login Password" src="https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password.jpg" alt="Click Modify Login Password" width="974" height="527" srcset="https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password.jpg 974w, https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password-300x162.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password-768x416.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/07/Click-Modify-Login-Password-480x260.jpg 480w" sizes="(max-width: 974px) 100vw, 974px" /></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 5:<br />
+</span></strong>Enter your current password (Default password is &#8220;admin&#8221;)<br />
+Enter your new password.<br />
+Repeat your new password.<br />
+Finally, click <strong>Apply.</strong></p>
+<p>Congratulations, you have successfully changed your MTN HyNetflex admin password.</p>
+<h3>How to Change WiFi Password on the MTN HyNetflex.</h3>
+<p>A WiFi password is technically known as WPA Key. <a href="https://branditechture.agency/mtn-hynetflex-honest-review/#:~:text=The%20router%20is%20dual%2Dband%2C%20which%20means%20it%20has%20support%20for%20both%202.4%20GHz%20and%205.0%20GHz%20frequencies.">Because the MTN HyNetflex is a dual-band router</a>, it can broadcast these two bands ( 2.4GHz and 5.0GHz) simultaneously. These two bands can also have different Wi-Fi passwords or WPA Keys.</p>
+<p><strong>Follow the steps below to Change the WPA Key or Wi-Fi Hotspot password for your MTN HynetFlex;  </strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 1:</span> </strong><br />
+Make sure your device is connected to your MTN HyNet Router.</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 2: </span></strong><br />
+Using a web browser, visit <strong>http://192.168.0.1/</strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 3: </span></strong><br />
+Login with your admin login password. (Default password: <strong>admin</strong>)</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 4:<br />
+</span></strong>Once in the dashboard, Click the round <span class="gt3_highlighter" style="background-color: #0a0a0a; color: #ffffff;"><strong> Settings&gt; </strong> </span> button under <strong>W-Fi.</strong></p>
+<p><img decoding="async" class="size-full wp-image-17132" title="WiFi Settings" src="https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings.jpg" alt="WiFi Settings" width="974" height="449" srcset="https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings.jpg 974w, https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings-300x138.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings-768x354.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/07/WiFi-Settings-480x221.jpg 480w" sizes="(max-width: 974px) 100vw, 974px" /></p>
+<p>On the next page, you would see settings for both <strong><span class="gt3_highlighter" style="background-color: #f2c900; color: #0a0a0a;"> 2.4GHz </span></strong> and <strong><span class="gt3_highlighter" style="background-color: #f2c900; color: #0a0a0a;"> 5.0GHz </span></strong> Wi-Fi bands. Set new passwords for each of them by modifying the password in the <strong>WLAN KEY</strong> field as shown in the screenshot below.</p>
+<p><img decoding="async" class="size-full wp-image-17131" title="Change WPA key and click Apply" src="https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply-.jpg" alt="Change WPA key and click Apply" width="847" height="512" srcset="https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply-.jpg 847w, https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply--300x181.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply--768x464.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/07/Change-WPA-key-and-click-Apply--480x290.jpg 480w" sizes="(max-width: 847px) 100vw, 847px" /></p>
+<p>Once done with the WLAN key change, click <strong>Apply</strong>. You would notice that your device disconnects upon successful WLAN Key change. Don&#8217;t fret. All devices including yours, would now need to provide the new Wi-Fi password in order to connect to the HynetFlex router.</p>
+<p>Congratulations, you have successfully changed your MTN HyNetflex admin password.</p>
+<p>I hope this short piece of information has helped you. If you find it helpful, please share and <a href="https://branditechture.agency/newsletter/">subscribe to Branditechture Newsletter</a> get more office tech tips.</p>
+<p>Thanks for reading.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/">How to Change Password on MTN HyNetflex</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-change-password-on-mtn-hynetflex/feed/</wfw:commentRss>
+			<slash:comments>18</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How To Dial Codes and Send or Check SMS on Your MTN Mi-Fi and HyNetflex</title>
+		<link>https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/</link>
+					<comments>https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:50 +0000</pubDate>
+				<category><![CDATA[How Tos]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17114</guid>
+
+					<description><![CDATA[<p>Due to the lack of a touch-enabled interface and LCD display on the MTN Mi-Fi and Hynetflex Routers, less tech-savvy owners are finding it hard to dial USSD codes to load airtime or check data balance without having to remove their SIM card. But In this post, I will show you how to check your [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/">How To Dial Codes and Send or Check SMS on Your MTN Mi-Fi and HyNetflex</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Due to the lack of a touch-enabled interface and LCD display on the <a href="https://branditechture.agency/mtn-hynetflex-honest-review/" target="_blank" rel="noopener">MTN Mi-Fi</a> and <a href="https://branditechture.agency/mtn-hynetflex-honest-review/" target="_blank" rel="noopener">Hynetflex Routers</a>, less tech-savvy owners are finding it hard to dial USSD codes to load airtime or check data balance without having to remove their SIM card. But In this post, I will show you how to check your airtime balance, load airtime, send and read text messages on your MTN Mi-Fi and router devices.</p>
+<p>MTN is doing well lately having released a series of <a href="https://branditechture.agency/the-key-differences-between-a-mifi-and-a-router/" target="_blank" rel="noopener">Mi-Fi and Router Devices</a> into the market in partnership with the Chinese telecoms technology company, ZTE. I have personally used and tested two of them, and they include;</p>
+<ol>
+<li><a href="https://branditechture.agency/mtn-hynetflex-honest-review/" target="_blank" rel="noopener">MTN HyNetflex ZTE MF286 Router</a></li>
+<li><a href="https://branditechture.agency/reviews/mtn-mifi-review/" target="_blank" rel="noopener">MTN Broadband MiFi MF927U</a></li>
+</ol>
+<div id="attachment_15891" style="width: 729px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-15891" class="size-full wp-image-15891" title="A Photo of the MTN MiFi on its box" src="https://branditechture.agency/wp-content/uploads/2022/05/A-Photo-of-the-MTN-MiFi-on-its-box.jpg" alt="A Photo of the MTN MiFi on its box" width="719" height="769" srcset="https://branditechture.agency/wp-content/uploads/2022/05/A-Photo-of-the-MTN-MiFi-on-its-box.jpg 719w, https://branditechture.agency/wp-content/uploads/2022/05/A-Photo-of-the-MTN-MiFi-on-its-box-280x300.jpg 280w, https://branditechture.agency/wp-content/uploads/2022/05/A-Photo-of-the-MTN-MiFi-on-its-box-480x513.jpg 480w" sizes="(max-width: 719px) 100vw, 719px" /><p id="caption-attachment-15891" class="wp-caption-text">📷: MTN 4G Broadband MiFi, and MTN HyNetflex Router.</p></div>
+<p>To view and top-up your MTN Mi-Fi and Router airtime and data balance, you would need to gain access to the control dashboard. All you need to do is follow the steps below;</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 1:</span> </strong><br />
+Make sure that your device is connected to your MTN Mi-Fi or Router, else <strong><em>Step 2</em> </strong>won&#8217;t work.</p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 2: </span></strong><br />
+Using a web browser, visit <strong>http://192.168.0.1/</strong></p>
+<p><strong><span class="gt3_highlighter" style="background-color: #eeee22;">Step 3: </span></strong><br />
+Login with the default password: <strong>admin</strong></p>
+<p>Once in the dashboard, you should be able to do the following;</p>
+<ul>
+<li>✔ <strong>Dial USSD Codes</strong> (Used to load airtime and check airtime and data balance)</li>
+<li>✔ <strong>Send text messages</strong> (SMS)</li>
+</ul>
+<p>To check your data balance, you can simply send an SMS with the number &#8220;<strong>2</strong>&#8221; to <strong>131. </strong>Details of your data balance would be sent to you via SMS immediately.</p>
+<p>I hope this short piece of information has helped you. If you find it helpful, please share.</p>
+<p>Thanks for reading.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/">How To Dial Codes and Send or Check SMS on Your MTN Mi-Fi and HyNetflex</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/dial-code-and-sms-on-mtn-mi-fi-and-hynetflex/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why Your Startup Needs A Brand Champion</title>
+		<link>https://branditechture.agency/why-your-startup-needs-a-brand-champion/</link>
+					<comments>https://branditechture.agency/why-your-startup-needs-a-brand-champion/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:45 +0000</pubDate>
+				<category><![CDATA[Branding Tips]]></category>
+		<category><![CDATA[How Tos]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=8480</guid>
+
+					<description><![CDATA[<p>Your brand promises something to consumers, and in my previous article, you learned how to align your brand with your brand strategy. How would consumers believe your brand promise if your own employees don’t even align with your brand strategy? You&#8217;ll need a brand champion to spearhead your brand building quest. Does your company or startup have [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/why-your-startup-needs-a-brand-champion/">Why Your Startup Needs A Brand Champion</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Your<span> </span>brand promises<span> </span>something to consumers, and in my previous article<a href="https://branditechture.agency/how-to-align-your-brand-with-your-brand-strategy/"></a>, you learned <a href="https://branditechture.agency/how-to-align-your-brand-with-your-brand-strategy/">how to align your brand with your brand strategy.</a> How would consumers believe your brand promise if your own employees don’t even align with your brand strategy? You&#8217;ll need a brand champion to spearhead your brand building quest.</p>
+<p><span id="more-2251"></span>Does your company or startup have a person in a leadership position? Preferably at the executive level, who embodies the brand promise, champions the brand promise both internally and externally, and ensures that it is effectively protected against naysayers. Yes? No?</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-8496" title="How To Align Your Brand With Your Brand Strategy" src="https://branditechture.agency/wp-content/uploads/2021/05/How-To-Align-Your-Brand-With-Your-Brand-Strategy-3.jpg" alt="How To Align Your Brand With Your Brand Strategy" width="1024" height="682" srcset="https://branditechture.agency/wp-content/uploads/2021/05/How-To-Align-Your-Brand-With-Your-Brand-Strategy-3.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/05/How-To-Align-Your-Brand-With-Your-Brand-Strategy-3-300x200.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/05/How-To-Align-Your-Brand-With-Your-Brand-Strategy-3-768x512.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/05/How-To-Align-Your-Brand-With-Your-Brand-Strategy-3-480x320.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>&nbsp;</p>
+<p><strong>The brand champion</strong> has a huge list of critical responsibilities, but the most important of all is to help to <a href="https://branditechture.agency/7-secrets-to-building-and-sustaining-brand-equity/">increase<span> </span>brand equity.</a></p>
+<p>Brand champions don’t always drive immediate results, making their position easy to write off or to consider as a secondary responsibility within another position. But if you have the means, do not let that happen in your organization.</p>
+<p>Here, we&#8217;ve got some of the core features a brand champion should possess:</p>
+<h2>Motivate the brand</h2>
+<p>The brand champion should be the most powerful, most vocal promoter of the brand. He needs to be able to drive the employees, consumers, and other external audiences to trust and have faith in the brand, too.</p>
+<p>The brand champion should also ensure that the brand is always in <a href="https://branditechture.agency/how-to-align-your-brand-with-your-brand-strategy/"><strong>alignment with its brand strategy.</strong></a> He makes sure no stone is left unturned.</p>
+<h2>Protect the brand</h2>
+<p>The brand champion should also be able to act like the brand’s guard. He should effectively protect it against negative publicity and avoid brand-related scandals.</p>
+<p>The brand champion should be able to carry out fundamental PR duties; when a problem of any kind arises, the brand champion should be able to recognize and address them. In addition, he should always strive to be the first to bring the attention of the executive directors or head before the problem worsens.</p>
+<h2>Embody the brand</h2>
+<p>A utopian scenario is that which all employees are living embodiments of the brand promise, but at the very least you can expect is that the brand champion to <strong>live and breathe</strong> the brand. He should be a walking example.</p>
+<h2>Preach the brand</h2>
+<p>Preaching the brand should not be left for the marketers alone. A brand champion must also act as a brand <strong>evangelist</strong>.</p>
+<p>He has to be able to put himself in the position of the consumers. He needs to be in a constant loop with them in order to ensure that business decisions are in alignment with the brand promise and don&#8217;t negatively impact consumers’ perceptions of the brand.</p>
+<h2>Contribute to the brand&#8217;s innovation</h2>
+<p>The brand champion must be innovative. He should lead strategic and tactical planning in order to maintain and sustain the brand’s relevance. He also leverages public feedback as a tool for adjustments and growth.</p>
+<h2>Act as the brand coach</h2>
+<p>In the absence of education, no one will fully understand and believe in a brand. That&#8217;s why the brand champion needs to make sure that both the staff, customers and potential customers understand the brand.</p>
+<p>He also ensures that business goals and initiatives are in alignment with the brand promise.</p>
+<p>He makes effort to ensures that all team members within the organization are on the same level as it relates to building brand equity.</p>
+<p>Remember, the brand champion leads the charge, but without the required support from other stakeholders, the brand champion will not succeed.</p>
+<p>To sum it up, stakeholders must ensure that adequately supporting the brand champion remains a top priority to stand any chance of real results.</p>
+<hr />
+<p><em><b>Need Market Research?</b></em></p>
+<p><em>Our market research service ensures that your brand gets the market data it requires to enable it (re)connect and achieve top-of-mind recognition among its target markets. Kickstart a new market research study; <a href="https://branditechture.agency/start-a-project/">click here</a> and select <strong>Market Research</strong>. </em><span><b></b></span></p>
+<hr />
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/why-your-startup-needs-a-brand-champion/">Why Your Startup Needs A Brand Champion</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/why-your-startup-needs-a-brand-champion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Optimize Your Facebook Profile for Quality Leads</title>
+		<link>https://branditechture.agency/how-to-optimize-your-facebook-profile-for-quality-leads/</link>
+					<comments>https://branditechture.agency/how-to-optimize-your-facebook-profile-for-quality-leads/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:31 +0000</pubDate>
+				<category><![CDATA[How Tos]]></category>
+		<category><![CDATA[Marketing Tips]]></category>
+		<category><![CDATA[How to Optimize Your Facebook Profile for Quality Leads]]></category>
+		<category><![CDATA[Leads]]></category>
+		<category><![CDATA[Optimize Your Facebook Profile]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=6687</guid>
+
+					<description><![CDATA[<p>Have you ever wished your personal Facebook profile could turn into a money-spinner for you? Or perhaps, you are just wondering how to go about it. You just need to learn how to optimize your Facebook profile for quality leads. Facebook discourages people from using their personal Facebook profile primarily for commercial gains, but you [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-optimize-your-facebook-profile-for-quality-leads/">How to Optimize Your Facebook Profile for Quality Leads</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Have you ever wished your personal Facebook profile could turn into a money-spinner for you? Or perhaps, you are just wondering how to go about it.</p>
+<p>You just need to learn how to optimize your Facebook profile for quality leads.</p>
+<p>Facebook discourages people from using their personal Facebook profile primarily for commercial gains, but you can still use your Facebook profile to indirectly promote the awareness of your brand.</p>
+<p>In this article, we shall exploit those hidden opportunities.</p>
+
+<h2>What is the problem with Facebook Pages?</h2>
+<p>First, you need to know that <a class="extlink" target="_blank" href="https://facebook.com/business/learn/lessons/difference-between-facebook-page-and-profile" rel="noopener">Facebook Pages are different from personal Facebook profiles.</a></p>
+<p>Facebook Launched <strong>Pages for Business</strong> on November 6, 2006 — A major improvement to the original Pages feature, giving you access to a wide array of reporting tools that may provide you with useful analytical data that may help in your marketing decisions — something that Facebook personal profiles lack.</p>
+<p>On a Facebook page, you can either check the analytics metrics for a whole Facebook page or check the metrics for a single post or ad.</p>
+<p>&nbsp;</p>
+<div id="attachment_6693" style="width: 393px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6693" class="wp-image-6693 size-full" title="A screenshot showing the analytic report of a Facebook page" src="https://branditechture.agency/wp-content/uploads/2021/01/A-screenshot-showing-the-analytic-report-of-a-Facebook-page..png" alt="A screenshot showing the analytic report of a Facebook page" width="383" height="313" srcset="https://branditechture.agency/wp-content/uploads/2021/01/A-screenshot-showing-the-analytic-report-of-a-Facebook-page..png 383w, https://branditechture.agency/wp-content/uploads/2021/01/A-screenshot-showing-the-analytic-report-of-a-Facebook-page.-300x245.png 300w" sizes="(max-width: 383px) 100vw, 383px" /><p id="caption-attachment-6693" class="wp-caption-text">A screenshot showing the analytics report of our Facebook page since the last 28 days. The red downwards arrows mean that there&#8217;s a drop in numbers when compared to the previous 28-day record.</p></div>
+<p>&nbsp;</p>
+<p>Luckily for most people, a Facebook personal profile is hands down the winner when it comes to impressions, engagement and organic reach.</p>
+<p>Just in case you are a newbie;<br />
+<strong>Reach</strong> means the total number of unique people who have seen your page, ad (a.k.a advert or advertisement) or post.</p>
+<p><b>Impression</b> means the number of times your page, ad, or post has been seen by people. Note that impressions is not concerned with the uniqueness of accounts, but how many times that page, ad, or post has been seen.</p>
+<p><strong>Organic Reach</strong> means the total number of people who have seen your ad or content <b>without</b> any form of <em><strong>paid distribution</strong></em>. The opposite of organic reach is inorganic reach, which is usually acquired via the use of paid distribution a.k.a sponsored or paid advertising.</p>
+<p><strong>Engagement</strong> ( not related to romance 🤣) is when people interact with or take action as a result of ‘consuming’ (your) content; this could be either through clicks, likes, shares or comments.</p>
+<p>The problem with Facebook Pages is that you can&#8217;t pretty much use it the same way you use your Facebook Profile to join Groups, and Like and comment on people&#8217;s status updates.</p>
+<p>This is why it is ok for us to assume that a personal Facebook profile would typically allow us to reach a relatively wider audience as compared to a Facebook page.</p>
+<p>Using the table below, let us quickly compare the most important limitations of Facebook Pages with reference to this blog post.</p>
+<p>&nbsp;</p>
+<table class="tg">
+<thead>
+<tr>
+<td class="tg-0lax"><span style="font-weight: bold;">Facebook Profile</span></td>
+<td class="tg-0lax"><span style="font-weight: bold;">Facebook Pages</span></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tg-0lax">Can interact with any type of Facebook account; Groups, Profiles, Pages etc.</td>
+<td class="tg-0lax">Cannot be used to directly interact with Facebook profiles.</td>
+</tr>
+<tr>
+<td class="tg-0lax">News Feed is populated with content from Pages, Groups, and Friends</td>
+<td class="tg-0lax">No Friends, only followers (or &#8220;Page Likers&#8221;, or Fans). The newsfeed is segregated and only content from <span style="font-weight: bold; font-style: italic;">Liked Pages</span> and<span style="font-weight: bold; font-style: italic;"> Groups</span><span style="font-style: italic;"> </span>are shown.</td>
+</tr>
+<tr>
+<td class="tg-0lax">Can initiate a message to both Facebook users and Facebook Pages</td>
+<td class="tg-0lax">Cannot initiate a message. You can only reply messages (or reply a comment privately).</td>
+</tr>
+<tr>
+<td class="tg-0lax">Can create Events and invite your Friends</td>
+<td class="tg-0lax">This feature is absent in Facebook pages.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="size-large wp-image-9261 aligncenter" title="Facebook Pages Update" src="https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Pages-Update-1024x499.jpeg" alt="Facebook Pages Update" width="940" height="458" srcset="https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Pages-Update-1024x499.jpeg 1024w, https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Pages-Update-300x146.jpeg 300w, https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Pages-Update-768x374.jpeg 768w, https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Pages-Update-480x234.jpeg 480w, https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Pages-Update.jpeg 1080w" sizes="(max-width: 940px) 100vw, 940px" /></p>
+<pre><span style="color: #ff6600;"><strong>
+UPDATE: </strong></span><em>Facebook has made an attempt to improve Pages <strong>reach</strong> by creating a separate News Feed for Facebook Pages. If eligible, You may use your Facebook Pages to join certain groups and interact with other Facebook Pages.</em></pre>
+<p>&nbsp;</p>
+<p>If you have a Facebook page that is not performing well, let me know in the comments. I might just write a separate guide on how you can organically boost the reach and engagement levels of your Facebook Pages.</p>
+<p>Please be informed that the purpose of this post is not to discourage you from creating and maintaining a Facebook Page for your business, but to teach you how to attract and close leads while still going about your normal social activities on Facebook.</p>
+<p>Now let’s go!</p>
+<p>… But wait 👇</p>
+<h3>What Are Leads?</h3>
+<p>In layman’s terms, leads (also known as sales leads) means prospective customers who have all the demographic characteristics to eventually become your customer.</p>
+<p>Depending on the context in which the word is used, a sales lead can also refer to an individual or organization that expresses an interest in your goods or services.</p>
+<p><em>To close a lead</em> means to convert a prospective customer into a buying customer.</p>
+<p>Closing leads usually begin from a point of contact or communication between you and the sales lead, regardless of who initiated the communication.</p>
+<h2>How to Optimize Your Facebook Profile for Quality Leads</h2>
+<p>Back to the subject of this article, let’s quickly itemize 10 things you should do in order to prep your Facebook for your professional audience — In other words, optimizing your Facebook profile not only for attracting quality leads, but also for closing them.</p>
+<h3>1. Update Your Privacy Settings</h3>
+<p>Your privacy is the first price you must pay if you want to maximise your visibility and be accessible to your leads. Strict privacy rules would only reduce or eliminate your chances of being discovered and contacted and here’s why;</p>
+<p>A prospective client on Facebook might;<br />
+<span></span></p>
+<p><span>•</span>    Want to send you a message to ask some pre-purchase questions<br />
+<span>•</span>    Want to see your previous posts on your timeline<br />
+<span>•</span>    Want to send you a friend request to follow up with your future posts<br />
+<span>•</span>    Want to search for your profile via Facebook<br />
+<span>•</span>    Attempt to search for you via Google and other search engines.</p>
+<p>Due to the reasons above, it becomes necessary for you to review and update your privacy settings on Facebook.</p>
+<p>&nbsp;</p>
+<div id="attachment_6696" style="width: 586px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6696" class="wp-image-6696 size-large" title="The Facebook Privacy Settings Screen iOS" src="https://branditechture.agency/wp-content/uploads/2021/01/The-iOS-Facebook-Privacy-Settings-Screen-576x1024.jpg" alt="The Facebook Privacy Settings Screen iOS" width="576" height="1024" srcset="https://branditechture.agency/wp-content/uploads/2021/01/The-iOS-Facebook-Privacy-Settings-Screen-576x1024.jpg 576w, https://branditechture.agency/wp-content/uploads/2021/01/The-iOS-Facebook-Privacy-Settings-Screen-169x300.jpg 169w, https://branditechture.agency/wp-content/uploads/2021/01/The-iOS-Facebook-Privacy-Settings-Screen-480x854.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/01/The-iOS-Facebook-Privacy-Settings-Screen.jpg 750w" sizes="(max-width: 576px) 100vw, 576px" /><p id="caption-attachment-6696" class="wp-caption-text">The Facebook Privacy Settings Screen (iOS)</p></div>
+<p>&nbsp;</p>
+<p>To update your privacy settings on Facebook;</p>
+<ul>
+<li><strong>Using the Facebook App (Android &amp; iOS):</strong></li>
+</ul>
+<p>Tap the hamburger menu <strong>☰</strong> on the top right (Android) or bottom right (iOS)</p>
+<p>Tap <em><strong>Settings &amp; Privacy</strong></em></p>
+<p>Tap <em><strong>Settings</strong></em></p>
+<p>Under the Privacy section, tap <em><strong>Privacy Settings</strong></em></p>
+<ul>
+<li><strong>Using Facebook Web on PC (web.facebook.com):</strong></li>
+</ul>
+<p>Simple! Just click here &gt;&gt; <a class="extlink" target="_blank" href="https://web.facebook.com/settings?tab=privacy" rel="noopener">https://web.facebook.com/settings?tab=privacy</a></p>
+<p>OR</p>
+<p>Click the dropdown menu <strong>▾</strong> on the top right</p>
+<p>Click <em><strong>Settings and Privacy</strong></em></p>
+<p>Click <em><strong>Settings</strong></em></p>
+<p>Look the left pane, click on <em><strong>Privacy</strong></em></p>
+<ul>
+<li><strong>Using Facebook Mobile site (mobile.facebook.com):</strong></li>
+</ul>
+<p>Simply click <a class="extlink" target="_blank" href="https://mobile.facebook.com/privacy/touch/basic/" rel="noopener">HERE</a>,</p>
+<p>OR</p>
+<p>Tap the hamburger menu <strong>☰</strong> on the top right</p>
+<p>Tap <em><strong>Settings</strong></em></p>
+<p>Tap <em><strong>Privacy Settings</strong></em></p>
+<ul>
+<li><strong>Via Facebook Mbasic:</strong></li>
+</ul>
+<p>Mbasic is the most lightweight version of Facebook on the web.</p>
+<p>You can use Mbasic by visiting the Facebook website via <a class="extlink" href="https://mbasic.facebook.com/" target="_blank" rel="noopener">https://mbasic.facebook.com/</a>.</p>
+<p>Go to <a class="extlink" href="https://mbasic.facebook.com/" target="_blank" rel="noopener">https://mbasic.facebook.com/</a></p>
+<p>Scroll down to the footer and click <em><strong>Settings &amp; Privacy</strong></em></p>
+<p>Under the Privacy section, click on <em><strong>Privacy Settings</strong></em></p>
+<ul>
+<li><strong>Via Facebook Lite for Android:</strong></li>
+</ul>
+<p>Tap the hamburger menu <strong>☰</strong> on the top right</p>
+<p>Tap <em><strong>Settings</strong></em></p>
+<p>Under the Privacy section, click <em><strong>Privacy Settings</strong></em></p>
+<p>Now that you are fine with your privacy settings, it’s time to move on to the next item on our checklist.</p>
+<h3>2. Use A Professional Profile Photo</h3>
+<p>Your profile photo should be square (Technically referred to as aspect ratio 1:1, which means the height and width should be equal) and it should be <strong>at least</strong> 200px by 200px.</p>
+<p>&nbsp;</p>
+<div id="attachment_6697" style="width: 310px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6697" class="wp-image-6697 size-medium" title="Yusuf Odukoya" src="https://branditechture.agency/wp-content/uploads/2021/01/Yusuf-Odukoya-II-300x300.jpg" alt="Yusuf Odukoya" width="300" height="300" srcset="https://branditechture.agency/wp-content/uploads/2021/01/Yusuf-Odukoya-II-300x300.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/01/Yusuf-Odukoya-II-150x150.jpg 150w, https://branditechture.agency/wp-content/uploads/2021/01/Yusuf-Odukoya-II-480x480.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/01/Yusuf-Odukoya-II.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /><p id="caption-attachment-6697" class="wp-caption-text">A profile photo (Credit: Yusuf Odukoya, Facebook).</p></div>
+<p>&nbsp;</p>
+<p>If you aren’t familiar with photo dimensions, do not worry, Facebook would most likely prompt you to crop your photo before saving it as your profile photo, just make sure that the most important part of the photo (i.e., from the tip of your head to your shoulder) is within the round frame provided.</p>
+<p>&nbsp;</p>
+<div id="attachment_6698" style="width: 660px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6698" class="size-full wp-image-6698" title="The photo cropping modal which appears before setting a new profile photo on Facebook" src="https://branditechture.agency/wp-content/uploads/2021/01/The-photo-cropping-modal-which-appears-before-setting-a-new-profile-photo-on-Facebook.png" alt="The photo cropping modal which appears before setting a new profile photo on Facebook" width="650" height="737" srcset="https://branditechture.agency/wp-content/uploads/2021/01/The-photo-cropping-modal-which-appears-before-setting-a-new-profile-photo-on-Facebook.png 650w, https://branditechture.agency/wp-content/uploads/2021/01/The-photo-cropping-modal-which-appears-before-setting-a-new-profile-photo-on-Facebook-265x300.png 265w, https://branditechture.agency/wp-content/uploads/2021/01/The-photo-cropping-modal-which-appears-before-setting-a-new-profile-photo-on-Facebook-480x544.png 480w" sizes="(max-width: 650px) 100vw, 650px" /><p id="caption-attachment-6698" class="wp-caption-text">This is the photo cropping modal that appears before setting a new profile photo on Facebook. This feature may or may not be available depending on the Facebook platform you are on. For example, there&#8217;s no way you&#8217;d get this on the mbasic Facebook.com version which is notably bare on features.</p></div>
+<p>&nbsp;</p>
+<p>Ideally, whatever profile image you have chosen should show your head up to your shoulder. Do not show anything more than that.</p>
+<p>I&#8217;ve seen some people use a full image as their profile photo on Facebook. It is wrong! Next time I see someone doing that, I might just involve the cops (LOL). If you see someone doing that too, report them to me 😁.</p>
+<p>Your profile photo (or headshot) should be crisp and clean. Using a professional photographer for that sole purpose wouldn’t be a bad idea, but a good camera phone would do the job, too.</p>
+<p>Now that you have a clean headshot, I recommend that you use a solid colour (ideally your brand colour) for the background.</p>
+<p>If you don’t have graphic design skills, you can use either of the following beginner-friendly tools (listed in order of personal preference) ;</p>
+<p><a class="extlink" href="https://www.adobe.com/express/feature/image/remove-background" target="_blank" rel="noopener"><strong>Image Background Remover by Adobe:</strong></a> Adobe Express is a collection of both free and premium creative tools developed by <strong>Adobe</strong>, however, the most useful one for this purpose is the <a class="extlink" href="https://www.adobe.com/express/feature/image/remove-background" target="_blank" rel="noopener">image background remover tool.</a> To use, visit <a class="extlink" href="https://www.adobe.com/express/feature/image/remove-background" target="_blank" rel="noopener"> https://www.adobe.com/express/feature/image/remove-background or simply click <a class="extlink" href="https://www.adobe.com/express/feature/image/remove-background" target="_blank" rel="noopener">HERE.</a></p>
+<p><a class="extlink" target="_blank" href="https://pfpmaker.com/" rel="noopener"><strong>Profile Pic Maker:</strong></a> Remove and replace the background of your profile picture with just three clicks. Even my grandmama had no problems using it for the first time. Just visit <a class="extlink" target="_blank" href="https://pfpmaker.com/" rel="noopener">https://pfpmaker.com/</a> and upload your headshot. Works on both Mobile and Desktop browsers.</p>
+<p><a class="extlink" target="_blank" href="https://www.remove.bg/" rel="noopener"><strong>Remove.bg</strong> </a>&#8211; Originally an AI-powered background remover tool, but now features an option to further edit images after the background is removed. You can use this feature to set your preferred background colour.</p>
+<p>Remove.bg has Android and iOS apps.</p>
+<h3>3. Get a Nicely Done Cover Image</h3>
+<div style="width: 884px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-full" src="https://branditechture.agency/wp-content/uploads/2021/02/Facebook-Cover-Image.png" alt="Facebook Cover Image (Shown behind the profile photo)" width="874" height="432" title="How to Optimize Your Facebook Profile for Quality Leads 1"><p class="wp-caption-text">An example of a Facebook Cover Image (shown behind the profile photo).</p></div>
+<p>The importance of a good Facebook cover image cannot be over-emphasized.</p>
+<p>To some, a Facebook cover photo is just that picture which “beautifies” the top of their page, but clever entrepreneurs use this medium to elegantly display more information or on-going promotions or offers about their brand.</p>
+<p>You should be interested in leveraging your Facebook cover to increase your brand’s visibility. A professionally designed Facebook cover photo can help your brand reach new heights.</p>
+<p>Tools such as <a class="extlink" target="_blank" href="https://editor.freepik.com/" rel="noopener">Freepik Editor</a> and <a class="extlink" target="_blank" href="https://www.canva.com/" rel="noopener">Canva</a> allow you to make Facebook cover images from a set of pre-designed templates. However, that might not pretty much cut it.</p>
+<p>Fortunately, we can help you design a custom Facebook cover that is perfectly suited for your brand. <a href="https://branditechture.agency/start-a-project/">Just click HERE</a>, fill in your personal/contact details and search for “Facebook Cover” on the next section.</p>
+<p>Is your Facebook cover image good enough to capture the attention of your target audience? Send me a screenshot or a link to your Facebook profile via <a href="mailto:yusuf@branditechture-agency.local">yusuf@branditechture-agency.local</a> and I’ll reply with my recommendations (If any). Please do note, however, that this free consultation is subject to my availability.</p>
+<h3>4. Tidy Up Your Facebook Timeline</h3>
+<p>May I suggest that you take a second look at your Facebook timeline? Yep, because you may need to do a thorough clean up or as required. Check the following list;</p>
+<ul>
+<li>Check for, and remove those irrelevant memes and friend tags on your <a class="extlink" target="_blank" href="https://facebook.com/profile.php" rel="noopener">Facebook timeline</a>.</li>
+<li>If you’ve been tagged a lot by friends in the past, dig up, review and clean up those tags if necessary. Also, be sure to Turn on <a href="http://facebook.com/help/247746261926036" target="_blank" rel="noopener">tag review</a> so that you would have to approve tags of friends before they appear on your Facebook timeline. You should be in control of what appears on your timeline henceforth. <a href="http://facebook.com/help/247746261926036" target="_blank" rel="noopener">Click HERE to learn how to turn on tag review.</a></li>
+<li><a class="extlink" target="_blank" href="https://facebook.com/profile.php" rel="noopener">Review your old posts</a> and check if they conform with your new goals. If they don&#8217;t, you can either delete them or hide them from public view.</li>
+</ul>
+<p>It’s pretty okay to have a few posts of you just &#8220;being yourself&#8221; and going about your normal life, but if you smoke weed, for example, you might want to reconsider hiding that from your timeline. However, there’s little verified evidence that uploading photos of yourself smoking weed or shisha may affect your convincing power — at least, not when you already have more than enough relevant content on your Facebook timeline.</p>
+<p>Your first impression is most likely going to be your last impression, so if prospective clients check your timeline and all they can see there are jokes, fierce political or religious arguments, irrelevant memes and all sorts tags carelessly displayed on your wall, then they might not be convinced enough to engage in a business-related conversation with you.</p>
+<h3>5. Use Your Real Name:</h3>
+<p>Facebook has always had a policy of requiring users to supply their real name on the platform. Although the enforcement of this policy has lacked some strictness, there&#8217;s still a risk of getting caught.</p>
+<p>There might be some privacy benefits if you choose not to use your real name, but generally, the benefits of using your real name on Facebook far outweigh the risks.</p>
+<p>Regardless of your reason for joining Facebook, one of the benefits of using your real name on Facebook is that it facilitates account recovery if your Facebook account ever gets flagged. You may be asked to supply a Government-issued ID (Which must contain a matching name) for verification in order to recover your account.</p>
+<p>If you are in doubt, <a class="extlink" target="_blank" href="https://www.quora.com/I-didnt-use-my-real-name-to-create-a-Facebook-account-and-now-they-are-requesting-for-ID-What-do-I-do" rel="noopener">check out this person.</a></p>
+<p>Now, after all your efforts, would you want to permanently lose your Facebook account just because you had used a pseudonym (or a deliberately misspelt name)? I guess not.</p>
+<p>Concerning leads, one massive benefit of using your real name on Facebook is that you instantly command some credibility and trust.</p>
+<h3>6. Add Your Work Experience:</h3>
+<p>Edit your profile and add your work history to show your work experience. This information shows up on the Intro section of your timeline and it&#8217;s usually seen upon landing on your Facebook profile.</p>
+<p>TIP: To keep things simple, adding only your current job would be enough.</p>
+<p>&nbsp;</p>
+<div id="attachment_6699" style="width: 346px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6699" class="size-full wp-image-6699" title="An example of a good facebook intro" src="https://branditechture.agency/wp-content/uploads/2021/01/An-example-of-a-good-facebook-intro.png" alt="An example of a good facebook intro" width="336" height="384" srcset="https://branditechture.agency/wp-content/uploads/2021/01/An-example-of-a-good-facebook-intro.png 336w, https://branditechture.agency/wp-content/uploads/2021/01/An-example-of-a-good-facebook-intro-263x300.png 263w" sizes="(max-width: 336px) 100vw, 336px" /><p id="caption-attachment-6699" class="wp-caption-text">An example of a good Facebook intro</p></div>
+<p>&nbsp;</p>
+<h3>7. Update Your Contact Details:</h3>
+<p>Doublecheck to verify that your profile does not contain outdated information such as contact phone number, social media handles, website address(es) etc. Update them if necessary, and do your best to keep them updated if anything changes.</p>
+<h3>8. Add or Review Your Bio:</h3>
+<p>On Facebook, the <em>Bio</em> provides an opportunity to sell yourself in 101 characters or less.</p>
+<p>&nbsp;</p>
+<div id="attachment_6700" style="width: 471px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6700" class="size-full wp-image-6700" title="A short yet informative bio" src="https://branditechture.agency/wp-content/uploads/2021/01/A-short-yet-informative-bio.png" alt="A short yet informative bio" width="461" height="141" srcset="https://branditechture.agency/wp-content/uploads/2021/01/A-short-yet-informative-bio.png 461w, https://branditechture.agency/wp-content/uploads/2021/01/A-short-yet-informative-bio-300x92.png 300w" sizes="(max-width: 461px) 100vw, 461px" /><p id="caption-attachment-6700" class="wp-caption-text">A very short, yet informative Facebook Bio</p></div>
+<p>&nbsp;</p>
+<p>Use the bio to your full advantage by describing what you do and/or how you may be of help to your target audience.</p>
+<p>It’s very important to be informative in a concise manner because you have just 101 characters to do this.</p>
+<h3>9. Add (Related) Featured Photos and Highlights:</h3>
+<p>Use the <em>Featured Photos </em>and<em> Highlights </em>feature on your Facebook timeline to your advantage.</p>
+<div id="attachment_6701" style="width: 760px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6701" class="size-full wp-image-6701" title="Facebook Highlights iOS" src="https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Highlights-iOS.jpg" alt="Facebook Highlights iOS" width="750" height="330" srcset="https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Highlights-iOS.jpg 750w, https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Highlights-iOS-300x132.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/01/Facebook-Highlights-iOS-480x211.jpg 480w" sizes="(max-width: 750px) 100vw, 750px" /><p id="caption-attachment-6701" class="wp-caption-text">Facebook Photos &amp; Highlights as shown on the Facebook app. (Credit: Yusuf Odukoya, Facebook)</p></div>
+<p>&nbsp;</p>
+<div id="attachment_6702" style="width: 324px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6702" class="size-full wp-image-6702" title="Featured Photos as shown on Facebook Web" src="https://branditechture.agency/wp-content/uploads/2021/01/Featured-Photos-as-shown-on-Facebook-Web.png" alt="Featured Photos as shown on Facebook Web" width="314" height="224" srcset="https://branditechture.agency/wp-content/uploads/2021/01/Featured-Photos-as-shown-on-Facebook-Web.png 314w, https://branditechture.agency/wp-content/uploads/2021/01/Featured-Photos-as-shown-on-Facebook-Web-300x214.png 300w" sizes="(max-width: 314px) 100vw, 314px" /><p id="caption-attachment-6702" class="wp-caption-text">Featured Photos as shown on Facebook Web. (Credit: Yusuf Odukoya, Facebook)</p></div>
+<p>&nbsp;</p>
+<p>It is a very good idea to display photos of yourself at work, your best works, photographs of your certificates, awards, your flagship products or services, yourself speaking at an event etc., it all depends on your profession.</p>
+<h3>10. Keep Uploading More Content That Is Relevant to Your Business.</h3>
+<p>Finally, I’d like to use this opportunity to let you know that the relevance and usefulness of anything you upload on your Facebook timeline will directly affect the level of patronage you will get on the platform.</p>
+<p>This holds true for any other social media platforms, so if you are hoping to land that big client one day, then you should start focusing on posting mostly contents that are not only useful to people, but are also relevant to your business or brand.</p>
+<div id="attachment_6706" style="width: 483px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-6706" class="size-full wp-image-6706" title="A resourceful Facebook post" src="https://branditechture.agency/wp-content/uploads/2021/01/A-resourceful-Facebook-post..png" alt="A resourceful Facebook post" width="473" height="475" srcset="https://branditechture.agency/wp-content/uploads/2021/01/A-resourceful-Facebook-post..png 473w, https://branditechture.agency/wp-content/uploads/2021/01/A-resourceful-Facebook-post.-300x300.png 300w, https://branditechture.agency/wp-content/uploads/2021/01/A-resourceful-Facebook-post.-150x150.png 150w" sizes="(max-width: 473px) 100vw, 473px" /><p id="caption-attachment-6706" class="wp-caption-text">A resourceful Facebook post</p></div>
+<p>&nbsp;</p>
+<p>If you ever run out of ideas on what to post, <a class="extlink" target="_blank" href="https://www.nairaland.com/" rel="noopener">Nairaland</a>, <a class="extlink" target="_blank" href="https://www.reddit.com/" rel="noopener">Reddit</a>, <a class="extlink" target="_blank" href="https://www.quora.com/" rel="noopener">Quora</a> and <a class="extlink" target="_blank" href="https://www.pinterest.com/" rel="noopener">Pinterest</a> would certainly provide you with loads of new content ideas, all you need to do is search using keywords which are specific to what you do.</p>
+<h3>BONUS: A CASE STUDY</h3>
+<p>I will quickly round up this post with a case study. This entails a prospective client (now client) who needed a logo design, and here’s how it happened in detail.</p>
+<p>August 26, 2020, a very popular Facebook user, Dianna (Not real name) made a post seeking recommendations for a graphic designer who could help her design a branded vehicle mockup for her business. In her exact words:</p>
+<blockquote><p>Please I am looking for someone who does amazing mockups for branding of vehicles.</p>
+<p>Like, I explain what I want and the person does the design and sends back to me.</p>
+<p>A sample is here.</p>
+<p>Kindly make it easy for me to choose by including previous jobs you have done.<br />
+Thank you.</p></blockquote>
+<p>I humbly commented under the status, knowing fully well amidst the rush that even if I didn&#8217;t get her attention due to the huge number of comments, at least, I would get someone else to notice my profile which obviously stood out.</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-6708 aligncenter" title="Status Update" src="https://branditechture.agency/wp-content/uploads/2021/01/Status-Update.png" alt="Status Update" width="323" height="540" srcset="https://branditechture.agency/wp-content/uploads/2021/01/Status-Update.png 323w, https://branditechture.agency/wp-content/uploads/2021/01/Status-Update-179x300.png 179w" sizes="(max-width: 323px) 100vw, 323px" /></p>
+<p>&nbsp;</p>
+<p><b>What happened after?</b></p>
+<p>Well, I was very right 😌. She didn&#8217;t notice me, but other people did. One of those who noticed me went a step further by sending me a message requesting a logo design for her new restaurant.</p>
+<p>Apparently, she had gone through my profile and fallen in love with what she saw. At this point, not even a bad prophecy would stop her from patronizing my services 😂😂.</p>
+<p>That is the power of keeping a focused and optimized profile on Facebook.</p>
+<p>She requested to see my pricing to know how much it would cost. I quickly sent her three logo design packages to choose from.</p>
+<p>To my surprise, she chose the highest package 😱.</p>
+<p>She came back online.</p>
+<p>&#8220;Send me your account details&#8221;, she said.</p>
+<p>I quickly sent my details and prepared an invoice for the project (I applied a small discount on the net total).</p>
+<p>She instantly made an 80% advance payment. &#8220;I&#8217;ve sent 150k&#8221;, she said.</p>
+<p><strong>PS: 150,000 NGN = 417 USD</strong></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-6709 aligncenter" title="Advance payment for Logo Design" src="https://branditechture.agency/wp-content/uploads/2021/01/Advance-payment-for-Logo-Design.png" alt="Advance payment for Logo Design" width="480" height="465" srcset="https://branditechture.agency/wp-content/uploads/2021/01/Advance-payment-for-Logo-Design.png 480w, https://branditechture.agency/wp-content/uploads/2021/01/Advance-payment-for-Logo-Design-300x291.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></p>
+<p>&#8230; And that was how a new business relationship started.</p>
+<p>I had successfully added a new client by just optimizing my Facebook profile.</p>
+<p>I&#8217;ve successfully closed many other leads on Facebook since then; thanks to my optimized profile.</p>
+<p>Optimizing your Facebook profile could prove to be the one-time investment that you need to start getting top quality leads like mine. However, you don&#8217;t just optimize your Facebook profile then sit back and relax.</p>
+<p>You still have to participate in engagement-driven activities like posting and commenting in groups, commenting on status updates, posting helpful and relevant contents, etc., in order to generate those leads.</p>
+<p>Thanks for reading my blog post.</p>
+<p>&nbsp;</p>
+<p><em>Let me know if you have any questions by using the comment section below.</em></p>
+<p>&nbsp;</p>
+<hr />
+<p>💡<span style="color: #de8500;"> We offer premium social media account management services that may interest you if you are looking to promote your business on Facebook. To get started, click <a href="https://branditechture.agency/contact/">HERE</a> to get in touch with our friendly support staff or <a href="https://branditechture.agency/start-a-project/">HERE</a> to start a project straightaway. </span></p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-optimize-your-facebook-profile-for-quality-leads/">How to Optimize Your Facebook Profile for Quality Leads</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-optimize-your-facebook-profile-for-quality-leads/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>7 Amazing Microcopy Tips For UX Designers</title>
+		<link>https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/</link>
+					<comments>https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:30 +0000</pubDate>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[How Tos]]></category>
+		<category><![CDATA[graphic design]]></category>
+		<category><![CDATA[Microcopy]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=6272</guid>
+
+					<description><![CDATA[<p>Using the right words can make all the difference when it comes to user experience (UX). Let’s imagine you designed an e-commerce app. With just a few words, a user can either establish enough connection to make a purchase right away, or they may decide to avoid further interaction with your entire user interface, leaving [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/">7 Amazing Microcopy Tips For UX Designers</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Using the right words can make all the difference when it comes to user experience (UX).</p>
+
+
+
+<p>Let’s imagine you designed an e-commerce app. With just a few words, a user can either establish enough connection to make a purchase right away, or they may decide to avoid further interaction with your entire user interface, leaving their cart empty or abandoned &#8211; It all boils down to the quality of your microcopy. </p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>Microcopy has long played a role in the success or failure rates of many projects, business proposals, marketing materials, and even an entire startup.</p>
+
+
+
+
+
+<p>As more UX Designers become aware of the term, it has become an essential component of many top-level UI/UX Design projects.  </p>
+
+
+
+
+
+<p>Copywriting is usually the art of writing marketing copy, and people who are professionally skilled in copywriting are called Copywriters. </p>
+
+
+
+
+
+<p>UX Microcopy Writing may somewhat be related to Copywriting since it is usually about earning user trust through the art of writing compelling, yet concise texts.</p>
+
+
+
+
+
+
+
+
+
+<h2 class="wp-block-heading">Wait! What is Microcopy?</h2>
+
+
+
+<p>Microcopy refers to those clever and concise texts you often see on websites, apps, marketing banners, and even products. </p>
+
+
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" class="wp-image-6274" src="https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1024x768.jpg" alt="Screenshot of a sample website showing copy and microcopy sections" title="7 Amazing Microcopy Tips For UX Designers 9" srcset="https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1024x768.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-300x225.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-768x576.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1536x1152.jpg 1536w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-480x360.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1320x990.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/Screenshot-of-a-sample-website-showing-copy-and-microcopy-sections-1200x900.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>Screenshot of a sample website showing copy and microcopy sections</figcaption>
+</figure>
+
+
+
+<p>These very few but descriptive words tell a user what to do, help users navigate your app, give users a heads up on what to expect and provide context to a situation. </p>
+
+
+
+
+
+<p>Getting your microcopy done the right way would invariably help tell the greater story about your brand, product, and the way you do business.</p>
+
+
+
+
+
+
+<h2 class="wp-block-heading">How does Microcopy differ from Copy?</h2>
+
+
+
+<p>Microcopy is always concerned with all aspects of the user experience.</p>
+
+
+
+
+
+<p>Processes like onboarding instructions, call-to-action button (a.k.a CTA button) texts, warning notifications, texts in the pop-up modals etc., are given the highest priority.</p>
+
+
+
+
+
+<p>Copy on the other hand generally focuses more on user acquisition through the use of clever textual content on various marketing materials such as web banners, e-mail newsletters, social media banners etc. </p>
+
+
+
+
+
+<p>Both terms are quite similar in many ways but while the ultimate goal of every copy is to <strong>acquire </strong>new users or customers, the ultimate goal of every microcopy is to <strong>retain </strong>users, especially first-time users. </p>
+
+
+
+
+
+<h2 class="wp-block-heading">Seven Practical Tips for Better UX Microcopy</h2>
+
+
+
+
+
+<ol class="wp-block-list">
+<li><span style="font-size: 20px;"><strong>Use Personal Pronouns</strong></span><br />Address the user with words like “You”. People feel closer and pay more attention when you talk directly to them.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1043" class="wp-image-6270" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-1.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 10" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-1.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-1024x765.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-1320x986.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-1-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /></li>
+<li><span style="font-size: 20px;"><strong>Start With A Verb</strong></span><br />Users are instinctively more inclined to take actions when you start your microcopy with an action verb where possible. The same rule goes for marketing copy.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1043" class="wp-image-6269" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-2.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 11" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-2.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-1024x765.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-1320x986.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-2-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />Copy starting with a verb are more persuasive and engaging. (In copywriting, “Copy” is used, whether singular or plural)<br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Avoid User Concerns</strong></span><br />Prevent concerns as much as you can. Be clear and avoid users worrying about what your motives are.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1043" class="wp-image-6268" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-3.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 12" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-3.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-1024x765.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-1320x986.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-3-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />An effective microcopy would usually erase doubts and prevent a lot of questions with as few words as possible.<br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Use Natural Language</strong></span><br />Write conversationally as though you were talking to the user one-on-one. Maintain a relaxed tone. Get rid of jargon and use simple, familiar and relatable words.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1044" class="wp-image-6267" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-4.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 13" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-4.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-1024x766.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-1320x987.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-4-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Default to Active Voice</strong></span><br />Most of the time, an active voice would do the trick. Active voice is easier to understand than passive voice.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1044" class="wp-image-6266" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-5.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 14" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-5.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-1024x766.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-1320x987.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-5-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />Active voice also feels less technical, often shorter, and relatively stronger than passive voice.<br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Show Meaningful Error Messages</strong></span><br />Avoid using threatening, negative or overly technical words.<br /><br />Be friendly and show empathy. Take time to explain to the user in plain English what went wrong.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1043" class="wp-image-6265" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-6.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 15" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-6.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-1024x765.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-1320x986.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-6-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />More technical details of the error can be logged in the console or log file, just prevent your users from seeing them, they are not developers.<br /><br /></li>
+<li><span style="font-size: 20px;"><strong>Be Consistent With Your Choice of Words</strong></span><br />For example, if you have two or more CTA buttons that do the same thing, decide on just which microcopy to use for that CTA and stick to it.<br /><br /><img loading="lazy" decoding="async" width="1396" height="1044" class="wp-image-6275" src="https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1.jpg" alt="UX" title="7 Amazing Microcopy Tips For UX Designers 16" srcset="https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1.jpg 1396w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-300x224.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-1024x766.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-768x574.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-480x359.jpg 480w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-1320x987.jpg 1320w, https://branditechture.agency/wp-content/uploads/2020/12/UX-7-1-1200x897.jpg 1200w" sizes="(max-width: 1396px) 100vw, 1396px" /><br /><br />In some cases, using a completely different microcopy to refer to the same action throughout your website or app may confuse your users, although this is more of an opinion as there is no practical evidence to back up this claim at the time of writing this.</li>
+</ol>
+
+
+
+
+
+<p>Do you have a UI/UX design project at hand and you have some concerns? <a href="https://branditechture.agency/start-a-project/" class="rank-math-link">Click Here</a> to submit your brief and we shall get back to you with a comprehensive quote within 24 working hours.</p>
+
+
+
+
+
+<p>Did I miss anything out? We would appreciate your comment.</p>
+
+
+
+
+
+<p>If you are a designer like me, you might want to <a aria-label=" (opens in a new tab)" href="https://behance.net/yusuf-odukoya" target="_blank" rel="noreferrer noopener" class="rank-math-link">follow me on Behance.</a></p>
+
+
+
+
+
+<p>Thanks for reading.</p>
+
+
+
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/">7 Amazing Microcopy Tips For UX Designers</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Marketing Your Business -We&#8217;ve Exposed 8 Proven Ways!!</title>
+		<link>https://branditechture.agency/8-proven-ways-to-market-your-business/</link>
+					<comments>https://branditechture.agency/8-proven-ways-to-market-your-business/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:28 +0000</pubDate>
+				<category><![CDATA[Marketing Tips]]></category>
+		<category><![CDATA[How Tos]]></category>
+		<category><![CDATA[business growth]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[Small Business]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=5275</guid>
+
+					<description><![CDATA[<p>Your business is our business, that&#8217;s why we invest our time and money in writing detailed guides like this. In most countries, self-employment is the only realistic way of keeping mind and would together, and statistics have gone further to prove that to us.  An estimated total of 81.29% of the working population in Nigeria [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/8-proven-ways-to-market-your-business/">Marketing Your Business -We&#8217;ve Exposed 8 Proven Ways!!</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Your business is our business, that&#8217;s why we invest our time and money in writing detailed guides like this.</p>
+
+
+
+
+
+<p>In most countries, self-employment is the only realistic way of keeping mind and would together, and statistics have gone further to prove that to us. </p>
+
+
+
+
+
+<ul>
+<li>An estimated total of 81.29% of the working population in Nigeria are self-employed, according to the latest data retrieved from the database of the International Labour Organization, ILOSTAT in September 2019. </li>
+<li>According to a Forbes survey, nearly 30% of Americans are fully self-employed.</li>
+</ul>
+
+
+
+
+
+<p>Self-employed professionals are those working on their own account, under a brand of their own, or in collaboration with one or more partners. </p>
+
+
+
+
+
+<p>Following the economic effects of the COVID-19 pandemic, multi-national oil and gas company, <a aria-label="Chevron, announces a 25% job cut. (opens in a new tab)" rel="noreferrer noopener nofollow" href="https://punchng.com/breaking-chevron-nigeria-to-sack-25-of-workforce/" class="extlink" target="_blank">Chevron, announces a 25% job cut.</a> This means they are laying off a quarter of their workforce. </p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" class="wp-image-5276" src="https://branditechture.agency/wp-content/uploads/2020/10/Chevron-to-Sacks-25-percent-of-its-workforce-.jpg" alt="Chevron to Sack percent of its workforce" title="Marketing Your Business -We&#039;ve Exposed 8 Proven Ways!! 17">
+<figcaption><a class="extlink" target="_blank" href="https://punchng.com/breaking-chevron-nigeria-to-sack-25-of-workforce/" aria-label="Chevron to Sack 25% of its workforce (opens in a new tab)" rel="noreferrer noopener nofollow">Chevron to Sack 25% of its workforce</a></figcaption>
+</figure>
+
+
+
+
+
+<p>With many other corporate institutions also following the same direction, it is imperative for employees to have an alter-ego of themselves in order to absorb the shock often accompanied by such news. </p>
+
+
+
+<p>Marketing your business with a $0 marketing budget can be difficult, but here are 8 proven ways to achieve that whether as a freelancer or as a company.</p>
+
+
+
+
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" class="wp-image-5277" src="https://branditechture.agency/wp-content/uploads/2020/10/A-group-of-young-employees.jpg" alt="8 proven ways to market your business" title="Marketing Your Business -We&#039;ve Exposed 8 Proven Ways!! 18" srcset="https://branditechture.agency/wp-content/uploads/2020/10/A-group-of-young-employees.jpg 1024w, https://branditechture.agency/wp-content/uploads/2020/10/A-group-of-young-employees-300x200.jpg 300w, https://branditechture.agency/wp-content/uploads/2020/10/A-group-of-young-employees-768x512.jpg 768w, https://branditechture.agency/wp-content/uploads/2020/10/A-group-of-young-employees-480x320.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>A group of young professionals</figcaption>
+</figure>
+
+
+
+
+
+<p>Even though this article focuses on self-employed professionals, you can pretty much apply almost every one of this strategy if you run a company. </p>
+
+
+
+
+
+<p>Remember this &#8211; When you are self-employed, you are either working alone (e.g Freelancing) or you are an employer with employee(s) under your management (e.g LLC, Ltd.). </p>
+
+
+
+
+
+<p>In today’s highly competitive marketplace warfare, getting your own share of clientele is a battle you must conquer.</p>
+
+
+
+
+
+<p>It doesn’t just end there, you must also learn and adopt some strategies to keep this relationship alive.</p>
+
+
+
+
+
+<p>Here is a blueprint of how to sell yourself or your business, no matter what type of business you run;</p>
+
+
+
+
+
+
+
+
+
+<h2 class="wp-block-heading">Set up an Invoicing System For Your Business</h2>
+
+
+
+
+
+<p>When it comes to getting paid for your efforts and time, there is no better advocate than an invoice. At Branditechture, we use <a aria-label=" (opens in a new tab)" class="extlink" href="https://www.waveapps.com/" target="_blank" rel="noreferrer noopener nofollow">WaveApps</a> for this purpose.</p>
+
+
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="514" class="wp-image-5483" src="https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-Invoice--1024x514.png" alt="Screenshot of an Invoice" title="Marketing Your Business -We&#039;ve Exposed 8 Proven Ways!! 19" srcset="https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-Invoice--1024x514.png 1024w, https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-Invoice--300x150.png 300w, https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-Invoice--768x385.png 768w, https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-Invoice--480x241.png 480w, https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-Invoice--1200x602.png 1200w, https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-Invoice-.png 1244w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>A Screenshot of an Invoice</figcaption>
+</figure>
+
+
+
+
+
+<p>A digital invoicing system, also known as an e-bookkeeping system, will save you a lot of time and effort.</p>
+
+
+
+
+
+<p>With an invoicing system in place;</p>
+
+
+
+<ul class="wp-block-list">
+<li>You can set auto-reminders to remind your clients when they have reached the due date for payment to be made.</li>
+<li>You can set your default footer to show your bank account information and payment methods so that you can easily get paid.</li>
+<li>It can help you keep records of payments and project expected earnings. These records can be useful in projecting your strategy.  </li>
+<li>You can send clients their statement of account as each client can have a separate profile in your invoicing system. </li>
+<li>You can find out who your highest paying and lowest paying clients are.</li>
+<li>Most digital invoicing systems come with integration tools. For example, you can integrate a tool called Zapier, to automatically sync the e-mails of your clients into your Mailchimp list each time you send an invoice to a new client. Their e-mails can be used to send them marketing campaigns. (Let me know in the comments if you want me to create a comprehensive guide on that) </li>
+<li>Last but not the least, an invoicing system helps your brand look more polished and capable, especially if you have a logo, a physical (or virtual) address, a website and a corporate e-mail address such as <a href="mailto:billing@yourcompany.com">billing@yourcompany.com</a>. (Let me know in the comments if you want me to create a guide on that)</li>
+</ul>
+
+
+
+
+<h2 class="wp-block-heading">Create an e-mail Signature Banner to Market Your Business</h2>
+
+
+
+
+
+<p>There are very huge benefits of using e-mail signatures for marketing.</p>
+
+
+
+
+
+<p>Not only does it provide a subtle and less-aggressive way of marketing your brand, but it also arouses your recipient’s interest each time you exchange a mail with them. </p>
+
+
+
+
+
+<p>This inevitably makes them find out more about your business, and I tell you, there is no escaping it!</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="734" height="392" class="wp-image-5279" src="https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-e-mail-footer.png" alt="Screenshot of an e mail footer" title="Marketing Your Business -We&#039;ve Exposed 8 Proven Ways!! 20" srcset="https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-e-mail-footer.png 734w, https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-e-mail-footer-300x160.png 300w, https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-an-e-mail-footer-480x256.png 480w" sizes="(max-width: 734px) 100vw, 734px" />
+<figcaption>A Screenshot of my e-mail footer on Gmail</figcaption>
+</figure>
+
+
+
+
+
+<p>It is like a banner ad popping below your favourite app. </p>
+
+
+
+
+
+<p>You can embed CTA (Call to Action) links in e-mail signature banners.</p>
+
+
+
+
+
+<p>Such links may be your website address, a direct Whatsapp chat link, a phone number to call, your Instagram page, a link to your Facebook profile etc., depending on your marketing objectives.</p>
+
+
+
+
+
+<p>You can also animate your e-mail banners to improve your chances of getting them noticed.</p>
+
+
+
+
+
+<p>Listed below are the multiple advantages of using an e-mail signature banner.</p>
+
+
+
+<ul class="wp-block-list">
+<li>You are increasing your brand awareness</li>
+<li>Gives the impression that you are passionate about what you do</li>
+<li>Facilitates quick access to your contact details</li>
+<li>Helps you generate traffic and leads</li>
+<li>More precise targeting </li>
+<li>It is FREE!</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><a href="https://branditechture.agency/using-google-my-business-to-get-customers/" class="rank-math-link">Create a Google My Business Account For Your Business </a></h2>
+
+
+
+
+
+<p>If you have ever used Google to search for a service online, you probably might have an idea of what Google My Business is. </p>
+
+
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="438" height="607" class="wp-image-5280" src="https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-our-Company-Google-My-Business-Page.png" alt="Screenshot of our Company Google My Business Page" title="Marketing Your Business -We&#039;ve Exposed 8 Proven Ways!! 21" srcset="https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-our-Company-Google-My-Business-Page.png 438w, https://branditechture.agency/wp-content/uploads/2020/10/Screenshot-of-our-Company-Google-My-Business-Page-216x300.png 216w" sizes="(max-width: 438px) 100vw, 438px" />
+<figcaption>A Screenshot of our Company&#8217;s Google My Business Page</figcaption>
+</figure>
+
+
+
+
+
+<p>Google My Business is a free online directory created by Google. It integrates tightly into the Google search engine to give you results of business listings that are highly relevant to your search query. </p>
+
+
+
+
+
+<p>The location you are searching from may also influence the search results.</p>
+
+
+
+
+
+<p>Depending on your search query, results may be influenced by the proximity to your current location. </p>
+
+
+
+
+
+<p>This makes it generally profitable for local businesses such as Restaurants, Car Wash, Gyms, Salons e.t.c. because it allows searchers nearby to locate their shops.</p>
+
+
+
+
+
+<p>By using Google My Business, your business would see the following growth;</p>
+
+
+
+<ul class="wp-block-list">
+<li>Appear in Google Maps and Nearby Places</li>
+<li>Earn the trust of prospective customers through reviews</li>
+<li>Increase in sales and/or website traffic </li>
+</ul>
+
+
+
+<p>It is definitely worth taking the time to <a href="https://branditechture.agency/using-google-my-business-to-get-customers/">create a Google My Business page for your business.</a></p>
+
+
+
+
+
+<h2 class="wp-block-heading">Audit Your Business&#8217; Online Contact Details</h2>
+
+
+
+
+
+<p>This means you should run a check on all your online profiles &#8211; LinkedIn, Facebook, Twitter, Instagram, Website, Business Listing Pages, etc., and triple-check if your contact details are all updated and accessible. </p>
+
+
+
+
+
+<p>You don’t want to be unreachable when a prospective client needs you most, do you? </p>
+
+
+
+
+
+<h2 class="wp-block-heading">Offer Free Consultation To Prospects</h2>
+
+
+
+
+
+<p>Knowing pretty well that time is money, you might be tempted to think that it is counter-intuitive to offer free consultation to prospective clients. Think again! It is actually not! Here&#8217;s why;</p>
+
+
+
+
+
+<p>During consultation, you have the full attention of your prospective clients. Although, this doesn’t always guarantee you a paying client as it is finally up to the client as to whether to take your “expert” advice or not, the consultation, notwithstanding would give you the opportunity to pitch your business to them in a passive and subtle manner. </p>
+
+
+
+<p><strong>You may like to read: <a target="_blank" href="https://branditechture.agency/branding-vs-marketing-7-differences/" title="Branding Vs Marketing — 7 Differences No One Told You" rel="noopener">Branding Vs Marketing — 7 Differences No One Told You</a></strong></p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://branditechture.agency/branding-packages/" aria-label="Develop a Strong Brand Identity For Your Business" class="rank-math-link" data-schema-attribute="" rel="noopener">Develop a Strong Brand Identity For Your Business</a></h2>
+
+
+
+
+
+<p>Developing a (strong) brand identity for your business is an extremely important determinant of its success in the long-run. </p>
+
+
+
+
+
+<p>In order to stand out from the rest of the competition, you need a unique and memorable visual representation of your brand. </p>
+
+
+
+
+
+<figure class="wp-block-video"><video src="https://branditechture.agency/wp-content/uploads/2020/10/Branding-and-Web-Design-for-Wibbitz.mp4" controls="controls" width="300" height="150"></video></figure>
+
+
+
+<p>A strong brand identity is made up of;</p>
+
+
+
+<ol class="wp-block-list">
+<li>Name</li>
+<li>A Target Audience</li>
+<li>Logo</li>
+<li>Color Scheme</li>
+<li>Unique Value Proposition (A.K.A. Brand Promise)</li>
+<li>Cohesion</li>
+</ol>
+
+
+
+
+
+
+
+<p>These are some of very many good reasons to develop and manage a brand identity;</p>
+
+
+
+<ul class="wp-block-list">
+<li>It may make your company look more valuable (than it actually is.)</li>
+<li>It helps you build loyalty and trust among your clients and prospects respectively.</li>
+<li>Consistent use of logo and brand colors across all platforms makes your brand memorable.</li>
+<li>It gives more efficacy to all the strategies described above; Your Invoice, Google My Business Page, Online Payment Pages, Website or App e.t.c would all require a logo.</li>
+</ul>
+
+
+
+
+
+<h2 class="wp-block-heading"><a href="https://branditechture.agency/lets-build-your-website/" aria-label="Get Your Business A Website" class="rank-math-link" data-schema-attribute="" rel="noopener">Get Your Business A Website</a></h2>
+
+
+
+
+
+<p>There are more than a billion reasons why a website is easily the most valuable marketing asset your business can ever own. </p>
+
+
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="464" class="wp-image-5481" src="https://branditechture.agency/wp-content/uploads/2020/10/A-Screenshot-of-Learn-With-Yusuf-My-Online-Design-Tutorial-Landing-Page--1024x464.png" alt="A Screenshot of Learn With Yusuf My Online Design Tutorial Landing Page" title="Marketing Your Business -We&#039;ve Exposed 8 Proven Ways!! 22" srcset="https://branditechture.agency/wp-content/uploads/2020/10/A-Screenshot-of-Learn-With-Yusuf-My-Online-Design-Tutorial-Landing-Page--1024x464.png 1024w, https://branditechture.agency/wp-content/uploads/2020/10/A-Screenshot-of-Learn-With-Yusuf-My-Online-Design-Tutorial-Landing-Page--300x136.png 300w, https://branditechture.agency/wp-content/uploads/2020/10/A-Screenshot-of-Learn-With-Yusuf-My-Online-Design-Tutorial-Landing-Page--768x348.png 768w, https://branditechture.agency/wp-content/uploads/2020/10/A-Screenshot-of-Learn-With-Yusuf-My-Online-Design-Tutorial-Landing-Page--480x217.png 480w, https://branditechture.agency/wp-content/uploads/2020/10/A-Screenshot-of-Learn-With-Yusuf-My-Online-Design-Tutorial-Landing-Page--1320x598.png 1320w, https://branditechture.agency/wp-content/uploads/2020/10/A-Screenshot-of-Learn-With-Yusuf-My-Online-Design-Tutorial-Landing-Page--1200x543.png 1200w, https://branditechture.agency/wp-content/uploads/2020/10/A-Screenshot-of-Learn-With-Yusuf-My-Online-Design-Tutorial-Landing-Page-.png 1347w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption><a class="extlink" target="_blank" href="https://lwy.com.ng/" aria-label="A Screenshot of Learn With Yusuf - My Online Design Tutorial Landing Page (opens in a new tab)" rel="noreferrer noopener">A Screenshot of Learn With Yusuf &#8211; My Online Design Tutorial Landing Page</a></figcaption>
+</figure>
+
+
+
+<p>Owning a website on the web is akin to owning a house in real life, and with a custom domain name, it is just like owning a street named after your business. </p>
+
+
+
+
+
+<p>Now, imagine the massive impact it would have on your business’ online advertising efforts.</p>
+
+
+
+
+
+<p>Let me enumerate other advantages of owning your website and a custom domain name;</p>
+
+
+
+<ul class="wp-block-list">
+<li>You’ll be able to create corporate e-mail accounts e.g <a href="mailto:yourname@yourwebsite.com" class="rank-math-link">yourname@yourwebsite.com</a></li>
+<li>You can add it to Google My Business pages to generate more high-quality traffic</li>
+<li>Allows you to create a very strong impression of your brand online</li>
+<li>It is one of the cheapest and most effective ways of marketing your brand </li>
+<li>People on the world wide web often stumble upon websites daily. That means with a website, you have higher chances of getting your business found &#8211; planned or unplanned. </li>
+<li>You have full ownership of your website data, unlike on other social media platforms where you may get a permanent ban and lose many years of hard work. </li>
+<li>Some clients, such as me, get picky on who to work with. Having a great website shows them how committed and passionate you are about your business.<br />Personally, I will never consider a business without a website.</li>
+<li>If you sell things, you can create an e-commerce website. Unlike a physical shop, your e-commerce website would be open 24/7, and you get paid even in your sleep.</li>
+</ul>
+<p><strong>Read Also: <a target="_blank" href="https://branditechture.agency/10-common-branding-mistakes-you-must-avoid/" title="10 Common Branding Mistakes You Must Avoid" rel="noopener">10 Common Branding Mistakes You Must Avoid</a></strong></p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://branditechture.agency/start-a-project/" aria-label="Run Social Media Marketing Campaigns">Run Social Media Marketing Campaigns</a></h2>
+
+
+
+
+
+<p>If you have checked most of the boxes above, it is now time to start putting some more marketing efforts. </p>
+
+
+
+
+
+<p>Social networks are now a key component of any marketing strategy. It is a cost-effective and phenomenal marketing opportunity. </p>
+
+
+
+
+
+
+<p>Advertising on social networks is usually free of charge, but you can further boost your reach by means of sponsored (paid) advertisements.</p>
+
+
+
+
+
+<p>Social media has witnessed massive growth since the start of the second millennium, after the first social media website, SixDegrees.com was born in 1997. </p>
+
+
+
+
+
+<p>SixDegrees lasted just four years as it lasted until about 2001. However, that paved way for other social media networks such as Hi5, Twitter, and Facebook, which began operation in February 2004.</p>
+
+
+
+
+
+<p>As of 2019, Facebook has 2.5 billion active monthly users of which over 65% are mobile users. </p>
+
+
+
+
+
+<p>Currently today, we have a lot of social media marketing tools at our disposal &#8211; from Audience Targeting to Analytics. </p>
+
+
+
+
+
+<p>Basic marketing is something you should be able to do yourself as an entrepreneur. Although it is highly effective, it requires a great deal of patience, effort, and a bit of luck. </p>
+
+
+
+
+
+
+<p>However, if you want more advanced marketing techniques, you should hire a digital marketing professional to do that for you. </p>
+
+
+
+
+
+<p>There are many perks of hiring a digital marketing professional, but that would be a topic for another post.</p>
+
+
+
+
+
+<p>If you have any questions or comments, please feel free to comment below.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/8-proven-ways-to-market-your-business/">Marketing Your Business -We&#8217;ve Exposed 8 Proven Ways!!</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/8-proven-ways-to-market-your-business/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		<enclosure url="https://branditechture.agency/wp-content/uploads/2020/10/Branding-and-Web-Design-for-Wibbitz.mp4" length="7248587" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

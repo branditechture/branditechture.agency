@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elvis Chukwuka &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/author/elvis-chukwuka/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sat, 23 Jul 2022 22:09:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>Elvis Chukwuka &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What Exactly is UI/UX Design? And Why Does It Matter</title>
+		<link>https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/</link>
+					<comments>https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/#respond</comments>
+		
+		<dc:creator><![CDATA[Elvis Chukwuka]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:43 +0000</pubDate>
+				<category><![CDATA[Website Design Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=8180#038;preview=true&#038;preview_id=8180</guid>
+
+					<description><![CDATA[<p>UI/UX, to some people, are the &#8220;unknown X and Y&#8221; of the design world. They’ve probably all heard about them but they don’t know what they entail. Even the elite few that understand the terms now capitalize on that knowledge, using it like some sort of secret language. But today, we’ll decrypt that code and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/">What Exactly is UI/UX Design? And Why Does It Matter</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><strong>UI/UX, to some people, are the &#8220;unknown X and Y&#8221; of the design world.</strong></p>
+<p>They’ve probably all heard about them but they don’t know what they entail.</p>
+<p>Even the elite few that understand the terms now capitalize on that knowledge, using it like some sort of secret language. But today, we’ll decrypt that code and find out ourselves.</p>
+<h2>What exactly is UI?</h2>
+<p><strong>UI means User Interface</strong>. And what’s User Interface? User Interface refers to the screens, buttons, and visual elements put in place to enable a user to interact with a product or service.</p>
+<p>That is to say, User Interface is anything a user interacts with in order to use a digital product or service.</p>
+<p>This may include touchscreens, sounds, icons, pages, etc.</p>
+<p>Back in the 1970s, if you wanted to use the computer, some form of coding or programming knowledge was required.</p>
+<p>But By the ‘80s, the first Graphical User Interface (GUI) was made and users and <span class="gt3_custom_tooltip" data-gt3-tooltip="Peopleware is a term used to describe the role of humans in the development of computers and related devices along with the software and hardware components related. It helps to give a perceptive to people who have a significant role in making these devices work for us.">peopleware </span>could then use the computer by inputting commands via the use of icons, buttons, etc.</p>
+<p>We all know how complex the usage of computers would have been if not for that particular achievement.</p>
+<p>So, UI basically refers to the arrangement of visual interactive elements and the general look and feel of a product.</p>
+<p>&nbsp;</p>
+<div id="attachment_8404" style="width: 1610px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-8404" class="size-full wp-image-8404" title="A Music App UI by Vitaliy Dorozhko dribbble" src="https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble.png" alt="A Music App UI by Vitaliy Dorozhko dribbble" width="1600" height="1200" srcset="https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble.png 1600w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-300x225.png 300w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-1024x768.png 1024w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-768x576.png 768w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-1536x1152.png 1536w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-480x360.png 480w, https://branditechture.agency/wp-content/uploads/2021/05/A-Music-App-UI-by-Vitaliy-Dorozhko-dribbble-1320x990.png 1320w" sizes="(max-width: 1600px) 100vw, 1600px" /><p id="caption-attachment-8404" class="wp-caption-text">A Music App UI by Vitaliy Dorozhko, via Dribbble</p></div>
+<p>&nbsp;</p>
+<p>When you login into a social media website, the “Reaction” or &#8220;Comment&#8221; buttons that you select are all part of UI, as well as the login button you used to access your account.</p>
+<p>UI deals with the visual aesthetics and interaction of a product.</p>
+<h2>What is UX?</h2>
+<p>UX, User Experience, refers to the experience or feeling that a user has as they interact with every aspect of a product or service.</p>
+<p>&nbsp;</p>
+<div id="attachment_8419" style="width: 1090px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-8419" class="size-full wp-image-8419" title="Foodie App Rating by Bhavna Kashyap via Dribbble" src="https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1.jpg" alt="Foodie App Rating by Bhavna Kashyap via Dribbble" width="1080" height="810" srcset="https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1.jpg 1080w, https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1-300x225.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1-1024x768.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1-768x576.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/05/Foodie-App-Rating-by-Bhavna-Kashyap-via-Dribbble-1-480x360.jpg 480w" sizes="(max-width: 1080px) 100vw, 1080px" /><p id="caption-attachment-8419" class="wp-caption-text">How was your Food? —  Foodie App Rating by Bhavna Kashyap, via Dribbble</p></div>
+<p>&nbsp;</p>
+<p>Cognitive Scientist &amp; User Experience Architect Don Norman is credited with coining the term, “User Experience” back in the early 1990s when he worked at Apple, which he defined as follows;</p>
+<blockquote><p>User Experience encompasses all aspects of the end-user’s interaction with the company, its services, and its products.</p></blockquote>
+<p>This tells you that UI is also embedded in UX, but unlike UI, UX isn’t limited to digital products alone.</p>
+<p>It can be ascertained even in offline or physical products.</p>
+<p>UX basically means what the user feels while interacting with the product, what does it remind him of, in what light does he project the product.</p>
+<p>It is universally accepted that one of the main aims of any business is to maximize profit and sales, and for this to be possible and sustainable, a UI/UX design is required — Not just UI/UX, but good UI/UX design.</p>
+<p><strong>Read Also: <a href="https://branditechture.agency/7-amazing-microcopy-tips-for-ux-designers/" target="_blank" data-schema-attribute="" rel="noopener">UX Microcopy — 7 Amazing Tips For Designers</a></strong></p>
+<h2>Why does UI/UX design matter actually?</h2>
+<p>The interaction of users with your products, whether digital or not, absolutely influences their experience, which in turn determines whether or not your product would get good reviews.</p>
+<p>To begin with, if your UI isn’t good enough, both you and your customers will not be able to leverage the full potential of the affected product, and even UX is more likely to end up frustrating.</p>
+<p>UI/UX design is very crucial because;</p>
+<h3>1. It facilitates customer satisfaction</h3>
+<p>Investing in a good UI/UX design facilitates customer satisfaction.</p>
+<p>So many product ads we see today are centred on the ease of navigation and usage.</p>
+<p>Research indicates that products that are easy to use appeal to new users and set the stage for repeated usage, thereby maximizing Return on Investment (or ROI).</p>
+<p>According to a user testing company called Userbrain,  <a class="extlink" href="https://userbrain.net/blog/10-usability-user-experience-statistics-every-product-manager-needs-know" target="_blank" data-schema-attribute="" rel="nofollow noopener">“Ease of use” is cited as the most important quality for mobile apps by 97% of users.</a></p>
+<p>&nbsp;</p>
+<h3>2. It helps you understand your audience and meet their needs</h3>
+<p>Before creating a UI/UX design, you need to understand the needs and language of your audience. This stage is called the user research stage.</p>
+<p>&nbsp;</p>
+<div style="width: 940px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-8180-1" width="940" height="705" preload="metadata" controls="controls"><source type="video/mp4" src="https://branditechture.agency/wp-content/uploads/2021/05/Web-App-for-Online-Education-UI-by-Outcrowd-via-Dribbble.mp4?_=1" /><a href="https://branditechture.agency/wp-content/uploads/2021/05/Web-App-for-Online-Education-UI-by-Outcrowd-via-Dribbble.mp4">https://branditechture.agency/wp-content/uploads/2021/05/Web-App-for-Online-Education-UI-by-Outcrowd-via-Dribbble.mp4</a></video></div>
+<p>&nbsp;</p>
+<p>UI/UX, as the name implies is designed mainly to suit the user, so in the process of designing, you get to understand your audience effectively, consequently bring about customer satisfaction and maximization.</p>
+<p>&nbsp;</p>
+<h3>3. It helps brand growth and improves brand equity (or perceived brand value)</h3>
+<p>Customer satisfaction breeds happiness and improves the overall perception of your brand.</p>
+<p>Good UI/UX helps you satisfy your customers, making them contented, and in turn, they build a relationship with you. This consequently increases your brand equity, because they would eventually admit you as a credible force in the marketplace.</p>
+<p>UI/UX design ultimately builds brands in the minds of customers. A company with a well-designed website or app is held in higher regard than one with a poor website or app.</p>
+<p><strong>You may want to read:<a href="https://branditechture.agency/7-secrets-to-building-and-sustaining-brand-equity/"> 7 Secrets To Building And Sustaining Brand Equity</a></strong></p>
+<p>&nbsp;</p>
+<h3>4. It saves time and money</h3>
+<p>A good UI/UX design, just like a high-quality product, lasts longer. Therefore, time and money that will be wasted on upgrades and updates are efficiently saved and invested in other areas.</p>
+<p>Investing in quality UI/UX designs, rather than cheap ones, certainly is a must take advice considering the various benefits that accompany it. Therefore, business owners and brand builders should pay close attention to the UI/UX designs of their products.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/">What Exactly is UI/UX Design? And Why Does It Matter</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/what-exactly-is-ui-ux-design-and-why-does-it-matter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://branditechture.agency/wp-content/uploads/2021/05/Web-App-for-Online-Education-UI-by-Outcrowd-via-Dribbble.mp4" length="9539971" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

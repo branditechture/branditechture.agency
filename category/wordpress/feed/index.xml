@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordPress &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Thu, 08 Sep 2022 13:42:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>WordPress &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Avoid Conflicts When Using Multiple Plugins on WordPress</title>
+		<link>https://branditechture.agency/how-to-avoid-conflicts-when-using-multiple-plugins-on-wordpress/</link>
+					<comments>https://branditechture.agency/how-to-avoid-conflicts-when-using-multiple-plugins-on-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2022 13:41:00 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17356</guid>
+
+					<description><![CDATA[<p>You can have as much WordPress plugins as your project requires, but here are simple rules to follow in order to minimize conflicts. Before I tell you, let&#8217;s explain and categorise what &#8220;conflicts&#8221; actually mean. Plugin conflicts can be categorized into three major categories; 1. Performance Conflict Website slows down noticeably as a result of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-avoid-conflicts-when-using-multiple-plugins-on-wordpress/">How to Avoid Conflicts When Using Multiple Plugins on WordPress</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>You can have as much WordPress plugins as your project requires, but here are simple rules to follow in order to minimize conflicts.</p>
+<p>Before I tell you, let&#8217;s explain and categorise what &#8220;conflicts&#8221; actually mean.</p>
+<p>Plugin conflicts can be categorized into three major categories;</p>
+<h4>1. Performance Conflict</h4>
+<p>Website slows down noticeably as a result of resource overusage due to conflicting plugins. This is technically known as &#8220;resource hogging&#8221;</p>
+<h4>2. Visual Conflict</h4>
+<p>The website rendering is distorted or incomplete. This can happen when CSS or JS files are fully or partially unable to load. This is commonly caused by conflicting caching plugins.</p>
+<h4>3. Functional Conflict</h4>
+<p>This can impact the functionality of the website, causing some features not to work even though the website seems to load fine.</p>
+<p>A plugin conflict can cause your website to suffer from either of the three categories above, or a combination of two or more categories.</p>
+<h2>How To Avoid Conflicts When Using Multiple Plugins</h2>
+<p>As you could see in the screenie below, I have a WordPress site that loads fairly fast, and it uses over 53 Plugins.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-17359" title="Screenshot 2022 09 06 122010" src="https://branditechture.agency/wp-content/uploads/2022/09/Screenshot-2022-09-06-122010.png" alt="Screenshot 2022 09 06 122010" width="528" height="163" srcset="https://branditechture.agency/wp-content/uploads/2022/09/Screenshot-2022-09-06-122010.png 528w, https://branditechture.agency/wp-content/uploads/2022/09/Screenshot-2022-09-06-122010-300x93.png 300w, https://branditechture.agency/wp-content/uploads/2022/09/Screenshot-2022-09-06-122010-480x148.png 480w" sizes="(max-width: 528px) 100vw, 528px" /></p>
+<p><strong>Here are two golden rules to follow when installing/activating plugins:</strong></p>
+<ol>
+<li>Never activate two different plugins that do the same job.</li>
+<li>Never activate the same feature from different sources. For example, if two plugins provide the &#8220;Lazy Load&#8221; feature, only activate it from one.</li>
+</ol>
+<p>Once you are able to abide by these two golden rules, you&#8217;d be ruling out any chance of plugin conflicts.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-avoid-conflicts-when-using-multiple-plugins-on-wordpress/">How to Avoid Conflicts When Using Multiple Plugins on WordPress</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-avoid-conflicts-when-using-multiple-plugins-on-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Best WordPress Themes &#038; HTML Templates for Domain Parking</title>
+		<link>https://branditechture.agency/best-wordpress-html-themes-for-domain-parking/</link>
+					<comments>https://branditechture.agency/best-wordpress-html-themes-for-domain-parking/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:25 +0000</pubDate>
+				<category><![CDATA[Theme Reviews]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=15621</guid>
+
+					<description><![CDATA[<p>What is Domain Parking? Domain parking is the act of leveraging advertisements on a web domain in order to generate revenue while that domain is dormant. By parking a domain, you make money based on how many users land on your site and click the advertisements. Another notable use case of a parked domain is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/best-wordpress-html-themes-for-domain-parking/">Best WordPress Themes &#038; HTML Templates for Domain Parking</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>What is Domain Parking?</h2>
+<p>Domain parking is the act of leveraging advertisements on a web domain in order to generate revenue while that domain is dormant. By parking a domain, you make money based on how many users land on your site and click the advertisements. Another notable use case of a parked domain is to notify visitors that the domain is intended for sale or lease. Have you ever visited a website and you get a notice saying &#8220;This Domain is for Sale&#8221;?. Yeah, that&#8217;s domain parking in action. If you’re looking for the best WordPress theme or HTML template for domain parking, you’ve come to the right place. Read on for a list of my personalized recommendation below.</p>
+
+<h2>What is a WordPress Theme?</h2>
+<p><strong>Short Answer:</strong> A WordPress theme is a ready-made design template for a WordPress-based website. A WordPress theme is responsible for the overall appearance of the entire WordPress-based website, including visual elements such as fonts, sizes, and colours.</p>
+<p>An HTML template serves the same purpose as a WordPress theme, only that you&#8217;d have to make any modifications to the (HTML) template using a code editor (e.g Visual Studio Code).</p>
+<h3>Why you should use an HTML Template for a Domain Parking Page instead of WordPress.</h3>
+<ol>
+<li>HTML Templates are lightweight</li>
+<li>HTML Templates load very fast since no server-side preprocessing is required</li>
+<li>You would not need to buy a hosting plan just to park web domains you can simply <a href="https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-namecheap/" target="_blank" rel="noopener">plug your domain into a Github Pages repo using the custom domain feature.</a></li>
+<li>Installing WordPress for the sole purpose of parking a domain is a waste of web hosting resources.</li>
+</ol>
+<h3>Why you may need to use a WordPress Theme for a Domain Parking Page instead of an HTML Template.</h3>
+<ol>
+<li>You don&#8217;t know how to code in HTML</li>
+<li>You don&#8217;t know how to code working contact forms.</li>
+<li> You are more comfortable with using page builders like Elementor.</li>
+</ol>
+<h2>Best WordPress Themes for Domain Parking</h2>
+<p><span>Choosing the best WordPress theme or HTML Template is not an easy task: there are thousands of both free and premium domain parking WordPress themes and HTML templates to choose from, each with its own unique set of features and benefits. As a web designer, I’ve spent the past 10 years trying out several premium domain parking themes and HTML templates from <strong>Themeforest</strong>, <strong>WP Astra</strong>, <strong>WooThemes</strong>, <strong>Themeisle</strong>, <strong>Elegant Themes</strong>, and <strong>StudioPress</strong>, and I have been able to narrow down the top-performing domain parking WordPress themes and HTML Templates to a select few.</span></p>
+<p>The 8 golden criteria for ranking the best domain parking WordPress themes and HTML Templates are;</p>
+<ol>
+<li><strong>Design: </strong>The template or theme&#8217;s design must be visually optimized around the concept of domain parking.</li>
+<li><strong>Speed &amp; Performance:</strong> The template or theme must not be a resource hog and must load fully within 2 seconds.</li>
+<li><strong>No feature bloat:</strong> Contains only the needed features (i.e domain parking.)</li>
+<li><strong>Responsiveness:</strong> It must be adaptable to multiple screen sizes and resolutions.</li>
+<li><strong>Personal Experience:</strong> My Overall Personal Experience with the Theme</li>
+</ol>
+<p>So, based on the criteria above, here are the 4 best WordPress Themes and HTML templates for domain parking;</p>
+<h2>1. <a href="https://branditechture.agency/recommends/domsell" target="_blank" rel="nofollow noopener">Domsell &#8211; Domain For Sale Template</a></h2>
+<p><strong>Type: HTML Template</strong></p>
+<div id="attachment_15626" style="width: 1376px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-15626" class="size-full wp-image-15626" title="Domsell Domain Parking Template" src="https://branditechture.agency/wp-content/uploads/2022/04/Domsell-Domain-Parking-Template.png" alt="Domsell Domain Parking Template" width="1366" height="625" srcset="https://branditechture.agency/wp-content/uploads/2022/04/Domsell-Domain-Parking-Template.png 1366w, https://branditechture.agency/wp-content/uploads/2022/04/Domsell-Domain-Parking-Template-300x137.png 300w, https://branditechture.agency/wp-content/uploads/2022/04/Domsell-Domain-Parking-Template-1024x469.png 1024w, https://branditechture.agency/wp-content/uploads/2022/04/Domsell-Domain-Parking-Template-768x351.png 768w, https://branditechture.agency/wp-content/uploads/2022/04/Domsell-Domain-Parking-Template-480x220.png 480w, https://branditechture.agency/wp-content/uploads/2022/04/Domsell-Domain-Parking-Template-1320x604.png 1320w" sizes="(max-width: 1366px) 100vw, 1366px" /><p id="caption-attachment-15626" class="wp-caption-text">Domsell Domain Parking Template</p></div>
+<p><span><a href="https://branditechture.agency/recommends/domsell" target="_blank" rel="nofollow noopener">Domsell </a>– is a responsive, Domain For Sale template. This minimal HTML template ships with a FOMO countdown timer, mail form and beautiful effects. </span></p>
+<p>This is my best domain parking template due to its appealing looks, and countdown functionality. But unfortunately, the developers, ArtSoundGroup, no longer provide support for this wonderful template. That being said, only go for this template if you are fairly good with HTML, CSS and JS.</p>
+<p><strong>Important Features of <a href="https://branditechture.agency/recommends/domsell" target="_blank" rel="nofollow noopener">Domsell HTML Template</a></strong></p>
+<ul class="gt3_styled_list">
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>18 HTML Pages</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>16 Color Styles</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Amazing CSS3 Effects/Animations</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Responsive in Any Device</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Fast and Lightweight</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Countdown functionality for FOMO Marketing</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Very Clean Design</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Google Recaptcha</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Well Commented Code</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Detailed Documentation</li>
+</ul>
+<p><strong>💵 Price: </strong>$12 USD</p>
+[su_button url=&#8221;https://branditechture.agency/recommends/domsell/&#8221; target=&#8221;blank&#8221; style=&#8221;noise&#8221; background=&#8221;#FF8C00&#8243; size=&#8221;6&#8243; wide=&#8221;yes&#8221; center=&#8221;yes&#8221; radius=&#8221;5&#8243;]<b>TRY DOMSELL DOMAIN PARKING HTML TEMPLATE</b>[/su_button]
+<blockquote class="wp-embedded-content" data-secret="oXaoBxtH2g"><p><a href="https://branditechture.agency/best-wordpress-themes-for-nft-marketplace/">3 Best WordPress Themes Strictly Made for NFT Marketplace Websites</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;3 Best WordPress Themes Strictly Made for NFT Marketplace Websites&#8221; &#8212; Branditechture" src="https://branditechture.agency/best-wordpress-themes-for-nft-marketplace/embed/#?secret=qMAFVKGTRn#?secret=oXaoBxtH2g" data-secret="oXaoBxtH2g" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<h2>2. <a href="https://branditechture.agency/recommends/domina" target="_blank" rel="nofollow noopener">DOMINA &#8211; Domain Sale And Auction Landing Page</a></h2>
+<p><strong>Type: HTML Template</strong></p>
+<div id="attachment_15627" style="width: 1376px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-15627" class="wp-image-15627 size-full" title="Domania Responsive HTML Template" src="https://branditechture.agency/wp-content/uploads/2022/04/Domina-Domain-Parking-HTML-Template.png" alt="Domina Domain Parking HTML Template" width="1366" height="625" srcset="https://branditechture.agency/wp-content/uploads/2022/04/Domina-Domain-Parking-HTML-Template.png 1366w, https://branditechture.agency/wp-content/uploads/2022/04/Domina-Domain-Parking-HTML-Template-300x137.png 300w, https://branditechture.agency/wp-content/uploads/2022/04/Domina-Domain-Parking-HTML-Template-1024x469.png 1024w, https://branditechture.agency/wp-content/uploads/2022/04/Domina-Domain-Parking-HTML-Template-768x351.png 768w, https://branditechture.agency/wp-content/uploads/2022/04/Domina-Domain-Parking-HTML-Template-480x220.png 480w, https://branditechture.agency/wp-content/uploads/2022/04/Domina-Domain-Parking-HTML-Template-1320x604.png 1320w" sizes="(max-width: 1366px) 100vw, 1366px" /><p id="caption-attachment-15627" class="wp-caption-text"><a href="https://branditechture.agency/recommends/domina/" target="_blank" rel="nofollow noopener">Domina Domain Parking HTML Template</a></p></div>
+<p><a href="https://branditechture.agency/recommends/domina/" target="_blank" rel="nofollow noopener">DOMINA </a>– Domain Sale And Auction Landing Page is a template for creating a simple domain sale and auction landing page. The template is built with HTML5 and CSS3 and the newest version of the Twitter Bootstrap framework. <a href="https://branditechture.agency/recommends/domina/" target="_blank" rel="nofollow noopener">DOMINA </a>comes in five different template versions, allowing you to pick the best one for your auction or domain sale website.</p>
+<p><a href="https://branditechture.agency/recommends/domina/" target="_blank" rel="nofollow noopener">DOMINA </a>is available in six different colour schemes and six different typographic styles. A working contact form, a working local, and a subscription to MailChimp are all included. It&#8217;s built with a clean look and feel, and it&#8217;s responsive for all devices.</p>
+<p><strong>Important Features of Durel HTML Template</strong></p>
+<ul class="gt3_styled_list">
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>5+ Landing Page Layouts</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>RTL Version Included</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Dark &amp; Light Mode Version</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Responsive in Any Device</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Fast and Lightweight</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Smooth Transition Effects</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Sass Included</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Integrated with FontAwesome &amp; Flaticon</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Well Commented Code</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Detailed Documentation</li>
+</ul>
+<p><strong>💵 Price: </strong>$13USD</p>
+[su_button url=&#8221;https://branditechture.agency/recommends/domina/&#8221; target=&#8221;blank&#8221; style=&#8221;noise&#8221; background=&#8221;#FF8C00&#8243; size=&#8221;6&#8243; wide=&#8221;yes&#8221; center=&#8221;yes&#8221; radius=&#8221;5&#8243;]<b>TRY DOMINA DOMAIN PARKING HTML TEMPLATE</b>[/su_button]
+<h2>3. <a href="https://branditechture.agency/recommends/domania/" target="_blank" rel="nofollow noopener">Domania &#8211; Responsive Domain Template</a></h2>
+<p><strong>Type: HTML Template</strong></p>
+<div id="attachment_15630" style="width: 1376px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-15630" class="wp-image-15630 size-full" title="Domania Responsive HTML Template" src="https://branditechture.agency/wp-content/uploads/2022/04/Domania-HTML-Domain-Parking-Theme.png" alt="Domania HTML Domain Parking Theme" width="1366" height="624" srcset="https://branditechture.agency/wp-content/uploads/2022/04/Domania-HTML-Domain-Parking-Theme.png 1366w, https://branditechture.agency/wp-content/uploads/2022/04/Domania-HTML-Domain-Parking-Theme-300x137.png 300w, https://branditechture.agency/wp-content/uploads/2022/04/Domania-HTML-Domain-Parking-Theme-1024x468.png 1024w, https://branditechture.agency/wp-content/uploads/2022/04/Domania-HTML-Domain-Parking-Theme-768x351.png 768w, https://branditechture.agency/wp-content/uploads/2022/04/Domania-HTML-Domain-Parking-Theme-480x219.png 480w, https://branditechture.agency/wp-content/uploads/2022/04/Domania-HTML-Domain-Parking-Theme-1320x603.png 1320w" sizes="(max-width: 1366px) 100vw, 1366px" /><p id="caption-attachment-15630" class="wp-caption-text"><a href="https://branditechture.agency/recommends/domania/" target="_blank" rel="nofollow noopener">Domania HTML Domain Parking Theme</a></p></div>
+<p><a href="https://branditechture.agency/recommends/domania/" target="_blank" rel="nofollow noopener"><strong>Domania</strong> </a>is a new modern HTML template that allows you to sell your parked domain names with ease. It’s a one-page domain parking HTML template. This is specially created for individuals and companies who offer parked web domains for sale.</p>
+<p>You can choose from at least, 5 homepage variations. It also comes with a ready-made contact form for prospects to get in touch with you right on the website.</p>
+<p><strong>Important Features of Domania &#8211; Responsive Domain Parking Template: </strong></p>
+<ul class="gt3_styled_list">
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>5+ Demo Variations</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Working Contact Form</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Responsive in Any Device</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Fast, Lightweight &amp; Powerful</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Bootstrap (v4.x)</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Sass Included</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i>Well Commented Code</li>
+</ul>
+<p><strong>💵 Price: </strong>$17 USD</p>
+[su_button url=&#8221;https://branditechture.agency/recommends/domania/&#8221; target=&#8221;blank&#8221; style=&#8221;noise&#8221; background=&#8221;#FF8C00&#8243; size=&#8221;6&#8243; wide=&#8221;yes&#8221; center=&#8221;yes&#8221; radius=&#8221;5&#8243;]<b>TRY DOMANIA DOMAIN PARKING HTML TEMPLATE</b>[/su_button]
+<h2>4. <a href="https://branditechture.agency/recommends/sala" target="_blank" rel="nofollow noopener">Sala &#8211; Startup &amp; SaaS WordPress Theme</a></h2>
+<p><strong>Type: WordPress Theme</strong></p>
+<div id="attachment_15648" style="width: 1369px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-15648" class="wp-image-15648 size-full" title="Sala Landing Page WordPress Theme" src="https://branditechture.agency/wp-content/uploads/2022/04/Sala-Landing-Page-WordPress-Theme-4.png" alt="Sala Landing Page WordPress Theme" width="1359" height="577" srcset="https://branditechture.agency/wp-content/uploads/2022/04/Sala-Landing-Page-WordPress-Theme-4.png 1359w, https://branditechture.agency/wp-content/uploads/2022/04/Sala-Landing-Page-WordPress-Theme-4-300x127.png 300w, https://branditechture.agency/wp-content/uploads/2022/04/Sala-Landing-Page-WordPress-Theme-4-1024x435.png 1024w, https://branditechture.agency/wp-content/uploads/2022/04/Sala-Landing-Page-WordPress-Theme-4-768x326.png 768w, https://branditechture.agency/wp-content/uploads/2022/04/Sala-Landing-Page-WordPress-Theme-4-480x204.png 480w, https://branditechture.agency/wp-content/uploads/2022/04/Sala-Landing-Page-WordPress-Theme-4-1320x560.png 1320w" sizes="(max-width: 1359px) 100vw, 1359px" /><p id="caption-attachment-15648" class="wp-caption-text"><a href="https://branditechture.agency/recommends/sala" target="_blank" rel="nofollow noopener">Sala Landing Page WordPress Theme</a></p></div>
+<p>This is the only WordPress theme that is on our list of best domain parking themes and templates.</p>
+<p><a href="https://branditechture.agency/recommends/sala" target="_blank" rel="nofollow noopener">Sala </a>is a unique top-notch technology &amp; creative IT WordPress theme that can also be used as a parked domain landing page. With this theme, anyone can build landing pages for parked domains without having to deal with HTML and CSS codes.</p>
+<p>You can easily customize your site by adding text and images through the popular Elementor drag-and-drop page builder. As mentioned previously, there&#8217;s absolutely no code required!</p>
+<p><strong>Important Features of <a href="https://branditechture.agency/recommends/sala/" target="_blank" rel="nofollow noopener">Sala Startup &amp; SaaS WordPress Theme </a></strong></p>
+<ul class="gt3_styled_list">
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i><strong>Full Light/Dark Mode:</strong> Toggle between Dark/Light Mode for a great viewing experience, especially in low-light environments. Turn on Dark Mode to give your eyes a break.</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i><strong>16+ Predefined different homepage layouts:</strong> Sala comes with 16+ awesome homepage layouts. All homepage layouts are included in the demo content file.</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i><strong>Elementor Drop &amp; Drag Page Builder:</strong> Fast, intuitive, and smart page builders will make your customization fast and easy.</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i><strong>One-click import:</strong> Many gorgeous landing page designs are available for you to adjust in just a click’s distance.</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i><strong>Advanced typography options:</strong> Choose any of the Google web fonts libraries through the powerful theme options panel! Now you can set a unique style for your brand!</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i><strong>Free Lifetime Updates &amp; Support:</strong> Once you buy our theme. You will get free lifetime updates. Our awesome support team will handle any support questions to make sure you can finish customizing your website.</li>
+<li><i class="gt3_list__icon fa fa-check-circle" style="color: #81d742;"></i><strong>Detailed documentation online:</strong> Extensive documentation guides on how to set up and customize Factory will make your customizations super easy and fast!</li>
+</ul>
+<p><strong>💵 Price: </strong>$59 USD</p>
+<p><b>Supported Page Builder: </b>Elementor</p>
+[su_button url=&#8221;https://branditechture.agency/recommends/sala/&#8221; target=&#8221;blank&#8221; style=&#8221;noise&#8221; background=&#8221;#FF8C00&#8243; size=&#8221;6&#8243; wide=&#8221;yes&#8221; center=&#8221;yes&#8221; radius=&#8221;5&#8243;]<b>TRY SALA WORDPRESS THEME</b>[/su_button]
+<p>The post <a rel="nofollow" href="https://branditechture.agency/best-wordpress-html-themes-for-domain-parking/">Best WordPress Themes &#038; HTML Templates for Domain Parking</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/best-wordpress-html-themes-for-domain-parking/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>3 Best WordPress Themes Strictly Made for NFT Marketplace Websites</title>
+		<link>https://branditechture.agency/best-wordpress-themes-for-nft-marketplace/</link>
+					<comments>https://branditechture.agency/best-wordpress-themes-for-nft-marketplace/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:07 +0000</pubDate>
+				<category><![CDATA[Theme Reviews]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=15589</guid>
+
+					<description><![CDATA[<p>Choosing the best WordPress theme is not an easy task: there are thousands of both free and premium NFT WordPress themes to choose from, each with its own unique set of features and benefits. As a web designer, I’ve spent the past 3 years trying out several premium NFT marketplace themes from Themeforest, WP Astra, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/best-wordpress-themes-for-nft-marketplace/">3 Best WordPress Themes Strictly Made for NFT Marketplace Websites</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span>Choosing the best WordPress theme is not an easy task: there are thousands of both free and premium NFT WordPress themes to choose from, each with its own unique set of features and benefits. As a web designer, I’ve spent the past 3 years trying out several premium NFT marketplace themes from <strong>Themeforest</strong>, <strong>WP Astra</strong>, <strong>WooThemes</strong>, <strong>Themeisle</strong>, <strong>Elegant Themes</strong>, and <strong>StudioPress</strong>, and I have been able to narrow down the top-performing NFT Marketplace WordPress themes to a select few.</span></p>
+<p>I have done the research for you so you don&#8217;t have to spend hours doing the same thing. I will be updating this page as my experience changes while using the WordPress themes listed below.</p>
+<h2>What is a WordPress Theme?</h2>
+<p><strong>Short Answer:</strong> A WordPress theme is a ready-made design template for a WordPress-based website. A WordPress theme is responsible for the overall appearance of the entire WordPress-based website, including visual elements such as fonts, sizes, and colours.</p>
+<p>If you’re looking for the best WordPress theme for an NFT Marketplace, you’ve come to the right place. Read on for a list of my personalized recommendation below.</p>
+<h2>Ranking Criteria</h2>
+<p>The 8 golden criteria for ranking the 3 best NFT Marketplace WordPress themes are;</p>
+<ol>
+<li><strong>Design: </strong>The theme&#8217;s design must be visually optimized around the concept of NFT Marketplace.</li>
+<li><strong>Speed &amp; Performance:</strong> The theme must not be a resource hog.</li>
+<li><strong>No feature bloat:</strong> Contains only the needed features (i.e NFT Marketplace.)</li>
+<li><strong>Responsiveness:</strong> It must be adaptable to multiple screen sizes and resolutions.</li>
+<li><strong>Page Builder Compatibility:</strong> There should be in-built support for either Elementor, WP Bakery, or Gutenberg.</li>
+<li><strong>Priority Support from Theme Developer:</strong> The theme developer must give priority and be attentive to all support requests.</li>
+<li><strong>Ratings on Themeforest:</strong> Themeforest Ratings and Tone of Comments must be positive.</li>
+<li><strong>Personal Experience:</strong> My Overall Personal Experience with the Theme</li>
+</ol>
+<p>So, based on the criteria above, here are the 3 best WordPress Themes for NFT Marketplace;</p>
+<h2>1. <a href="https://branditechture.agency/recommends/enefti/" target="_blank" rel="nofollow noopener">Enefti</a></h2>
+<div id="attachment_15642" style="width: 1375px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-15642" class="wp-image-15642 size-full" title="Enefti NFT Theme" src="https://branditechture.agency/wp-content/uploads/2022/04/Enerfti-NFT-WP-Theme.png" alt="Enerfti NFT WP Theme" width="1365" height="629" srcset="https://branditechture.agency/wp-content/uploads/2022/04/Enerfti-NFT-WP-Theme.png 1365w, https://branditechture.agency/wp-content/uploads/2022/04/Enerfti-NFT-WP-Theme-300x138.png 300w, https://branditechture.agency/wp-content/uploads/2022/04/Enerfti-NFT-WP-Theme-1024x472.png 1024w, https://branditechture.agency/wp-content/uploads/2022/04/Enerfti-NFT-WP-Theme-768x354.png 768w, https://branditechture.agency/wp-content/uploads/2022/04/Enerfti-NFT-WP-Theme-480x221.png 480w, https://branditechture.agency/wp-content/uploads/2022/04/Enerfti-NFT-WP-Theme-1320x608.png 1320w" sizes="(max-width: 1365px) 100vw, 1365px" /><p id="caption-attachment-15642" class="wp-caption-text"><a href="https://branditechture.agency/recommends/enefti/" target="_blank" rel="nofollow noopener">Enerfti NFT WP Theme</a></p></div>
+<p><a href="https://branditechture.agency/recommends/enefti/">Enefti</a> is the first truly functional WordPress NFT Theme with Metamask login.</p>
+<p>Do you want to build an NFT Marketplace like Foundation or Opensea? This WordPress NFT theme is my top choice based on personal experience. With the Enefti NFT Marketplace theme, you can kickstart your own NFT marketplace in no time.</p>
+<p>The good thing about this NFT marketplace WordPress theme is that the developers give 6 months of priority support for free after you purchase it. So if you run into any issue, all you need to do is raise a ticket, and they&#8217;d attend to you promptly. You can optionally extend this support to 12 months at an additional fee of $17.63 USD.</p>
+<pre><strong>This is my best NFT theme so far because it has the most complete set of features required to build a true NFT marketplace. </strong></pre>
+<p><strong>Unique Features of <a href="https://branditechture.agency/recommends/enefti/" target="_blank" rel="nofollow noopener">Enefti NFT Marketplace WordPress Theme:</a></strong></p>
+<ol>
+<li><strong>Metamask Login: </strong>You can log in directly to your Metamask wallet to purchase NFT items.</li>
+<li><strong>ETH Prices:</strong> Prices of NFT listings can be viewed in either your local currency or <strong>ETH (Ethereum).</strong></li>
+<li><strong>NFT Collections:</strong> Archive page that lists NFT Collections by a particular owner.</li>
+<li><strong>Single NFT Page: </strong>This is similar to the single product pages on e-commerce websites, where you have full product descriptions, and reviews.</li>
+<li><strong>NFT Shortcodes: </strong>This allows you to display any NFT item anywhere on your site. Even inside blog posts.</li>
+<li><span><strong>NFT Creator addon:</strong> You can create (or mint) NFTs using this add-on.  </span></li>
+</ol>
+<p><strong>Other Features of <a href="https://branditechture.agency/recommends/enefti/" target="_blank" rel="nofollow noopener">Enefti NFT Marketplace WordPress Theme:</a></strong></p>
+<ol>
+<li><strong>List/Grid View Toggle: </strong>You can display NFT category archives in lists or in grids.</li>
+<li><strong>One-click Demo Import: </strong>This NFT marketplace WordPress theme lets you import pre-built demo content that can help you get started and launch your NFT marketplace superfast.</li>
+<li><strong>Ajax Live Search: </strong>This displays products search results or suggestions in real-time as you search.</li>
+<li><strong>Pop-up Login and Social Auth:</strong> Users can easily register/log in via a popup modal. There is also an option to log in/register using social accounts like your Facebook and Twitter profiles.</li>
+</ol>
+<p><strong>Price: </strong>$59 USD</p>
+<p><b>Supported Page Builder: </b>WPBakery</p>
+[su_button url=&#8221;https://branditechture.agency/recommends/enefti/&#8221; target=&#8221;blank&#8221; style=&#8221;noise&#8221; background=&#8221;#FF8C00&#8243; size=&#8221;6&#8243; wide=&#8221;yes&#8221; center=&#8221;yes&#8221; radius=&#8221;5&#8243;]<b>TRY ENEFTI NFT THEME</b>[/su_button]
+<h2>2. <a href="https://branditechture.agency/recommends/netstorm/" target="_blank" rel="nofollow noopener">Netstorm &#8211; NFT Marketplace WordPress Theme</a></h2>
+<div id="attachment_15644" style="width: 1373px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-15644" class="wp-image-15644 size-full" title="Netstorm NFT Marketplace WordPress Theme" src="https://branditechture.agency/wp-content/uploads/2022/04/Netstorm-NFT-Marketplace-WordPress-Theme-.png" alt="Netstorm NFT Marketplace WordPress Theme" width="1363" height="671" srcset="https://branditechture.agency/wp-content/uploads/2022/04/Netstorm-NFT-Marketplace-WordPress-Theme-.png 1363w, https://branditechture.agency/wp-content/uploads/2022/04/Netstorm-NFT-Marketplace-WordPress-Theme--300x148.png 300w, https://branditechture.agency/wp-content/uploads/2022/04/Netstorm-NFT-Marketplace-WordPress-Theme--1024x504.png 1024w, https://branditechture.agency/wp-content/uploads/2022/04/Netstorm-NFT-Marketplace-WordPress-Theme--768x378.png 768w, https://branditechture.agency/wp-content/uploads/2022/04/Netstorm-NFT-Marketplace-WordPress-Theme--480x236.png 480w, https://branditechture.agency/wp-content/uploads/2022/04/Netstorm-NFT-Marketplace-WordPress-Theme--1320x650.png 1320w" sizes="(max-width: 1363px) 100vw, 1363px" /><p id="caption-attachment-15644" class="wp-caption-text"><a href="https://branditechture.agency/recommends/netstorm/" target="_blank" rel="nofollow noopener">Netstorm NFT Marketplace WordPress Theme</a></p></div>
+<p><a href="https://branditechture.agency/recommends/netstorm/" target="_blank" rel="nofollow noopener">Netstorm</a> is a WordPress theme designed specifically for NFTs and NFT assets stores, crypto art marketplaces, and digital asset bidding websites. It&#8217;s well-designed, with modern features and coded using the latest web3 technology. This theme does not require any coding knowledge. <a href="https://branditechture.agency/recommends/netstorm/" target="_blank" rel="nofollow noopener">This NFT Marketplace theme</a> fully supports Elementor Page Builder. So if you are a die-hard Elementor user, this is surely the best option for you.</p>
+<p>The developer, <em>Theme_land,</em> gives 6 months of priority support for free after you purchase it. So if you run into any issue, all you need to do is raise a ticket, and they&#8217;d attend to you promptly. You can, however, extend your 6-month free support to 12 months by paying an additional $10.13 USD.</p>
+<p><strong>Unique Features of <a href="https://branditechture.agency/recommends/netstorm/" target="_blank" rel="nofollow noopener">Netstorm NFT Marketplace WordPress Theme:</a></strong></p>
+<ol>
+<li>25+ Elementor Custom NFT Widgets</li>
+<li>Ultra Modern NFT Marketplace Design</li>
+<li>Live NFT Auctions and Explore Filter</li>
+</ol>
+<p><strong>Other Features of <a href="https://branditechture.agency/recommends/netstorm/" target="_blank" rel="nofollow noopener">Netstorm NFT Marketplace WordPress Theme:</a></strong></p>
+<ol>
+<li><strong>Child Theme Ready: </strong>a child theme comes pre-bundled <span>for advanced users to customize the theme.</span></li>
+<li><strong>One-click Demo Import: </strong>This NFT marketplace WordPress theme lets you import pre-built demo content that can help you get started and launch your NFT marketplace superfast.</li>
+</ol>
+<p><strong>Price: </strong>$39 USD</p>
+<p><b>Supported Page Builders: </b>Elementor</p>
+[su_button url=&#8221;https://branditechture.agency/recommends/netstorm/&#8221; target=&#8221;blank&#8221; style=&#8221;noise&#8221; background=&#8221;#FF8C00&#8243; size=&#8221;6&#8243; wide=&#8221;yes&#8221; center=&#8221;yes&#8221; radius=&#8221;5&#8243;]<b>TRY NETSTORM NFT THEME</b>[/su_button]
+<h2>3. <a href="https://branditechture.agency/recommends/toka-nft-theme/" target="_blank" rel="nofollow noopener">Toka NFT &amp; Crypto WordPress Theme</a></h2>
+<div id="attachment_15645" style="width: 1371px" class="wp-caption alignnone"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-15645" class="wp-image-15645 size-full" title="Toka NFT Crypto WordPress Theme by Duck Themes" src="https://branditechture.agency/wp-content/uploads/2022/04/Toka-Crypto-and-NFT-Marketplace-WordPress-Theme.png" alt="Toka Crypto and NFT Marketplace WordPress Theme" width="1361" height="705" srcset="https://branditechture.agency/wp-content/uploads/2022/04/Toka-Crypto-and-NFT-Marketplace-WordPress-Theme.png 1361w, https://branditechture.agency/wp-content/uploads/2022/04/Toka-Crypto-and-NFT-Marketplace-WordPress-Theme-300x155.png 300w, https://branditechture.agency/wp-content/uploads/2022/04/Toka-Crypto-and-NFT-Marketplace-WordPress-Theme-1024x530.png 1024w, https://branditechture.agency/wp-content/uploads/2022/04/Toka-Crypto-and-NFT-Marketplace-WordPress-Theme-768x398.png 768w, https://branditechture.agency/wp-content/uploads/2022/04/Toka-Crypto-and-NFT-Marketplace-WordPress-Theme-480x249.png 480w, https://branditechture.agency/wp-content/uploads/2022/04/Toka-Crypto-and-NFT-Marketplace-WordPress-Theme-1320x684.png 1320w" sizes="(max-width: 1361px) 100vw, 1361px" /><p id="caption-attachment-15645" class="wp-caption-text"><a href="https://branditechture.agency/recommends/toka-nft-theme/" target="_blank" rel="nofollow noopener">Toka Crypto and NFT Marketplace WordPress Theme</a></p></div>
+<p><a href="https://branditechture.agency/recommends/toka-nft-theme/" target="_blank" rel="nofollow noopener">Toka</a> is a modern crypto WordPress theme specially created for NFT, ICO, cryptocurrency, Web3, DApp, token, crypto trading, blockchain technology, and financial technology websites. It&#8217;s stylish, fully responsive, and easy to customize.</p>
+<p>The developer, Duck-Themes<em>,</em> gives up to 6 months of priority support for free after you purchase it but you can extend this support to 12 months at an additional fee of $17 USD.</p>
+<p><strong>Unique Features of <a href="https://branditechture.agency/recommends/toka-nft-theme/" target="_blank" rel="nofollow noopener">Toka NFT &amp; Crypto WordPress Theme:</a></strong></p>
+<ol>
+<li><strong>ETH Prices:</strong> Prices of NFT listings can be viewed in either your local currency or <strong>ETH (Ethereum).</strong></li>
+<li><strong>NFT Collections:</strong> Archive page that lists NFT Collections by a particular owner.</li>
+<li><strong>Single NFT Page: </strong>This is similar to the single product pages on e-commerce websites, where you have full product descriptions, and reviews.</li>
+</ol>
+<p><strong>Other Features of <a href="https://branditechture.agency/recommends/toka-nft-theme/" target="_blank" rel="nofollow noopener">Toka NFT &amp; Crypto WordPress Theme:</a></strong></p>
+<ol>
+<li><strong>Multiple Homepage Layouts: </strong>You can select from one of many exclusively designed homepage layouts depending on your use case.</li>
+<li><strong>Elementor Support:</strong> This NFT Marketplace theme is compatible with Elementor, the world&#8217;s most popular page builder for WordPress.</li>
+<li><strong>Child Theme Ready: </strong>Child theme comes pre-bundled <span>for advanced users to customize the theme.</span></li>
+<li><strong>One-click Demo Import: </strong>Import pre-built demo content and launch your NFT marketplace superfast.</li>
+<li>Multiple Homepage Layouts: Exclusively designed</li>
+</ol>
+<p><strong>Price: </strong>$59 USD</p>
+<p><b>Supported Page Builders: </b>Elementor Page Builder</p>
+[su_button url=&#8221;https://branditechture.agency/recommends/toka-nft-theme/&#8221; target=&#8221;blank&#8221; style=&#8221;noise&#8221; background=&#8221;#FF8C00&#8243; size=&#8221;6&#8243; wide=&#8221;yes&#8221; center=&#8221;yes&#8221; radius=&#8221;5&#8243;]<b>TRY TOKA NFT THEME</b>[/su_button]
+<p>&nbsp;</p>
+<div id="gtx-trans" style="position: absolute; left: 194px; top: 3741.59px;">
+<div class="gtx-trans-icon"></div>
+</div>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/best-wordpress-themes-for-nft-marketplace/">3 Best WordPress Themes Strictly Made for NFT Marketplace Websites</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/best-wordpress-themes-for-nft-marketplace/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How To Get Rid of Annoying WordPress Notifications</title>
+		<link>https://branditechture.agency/how-to-get-rid-of-wordpress-notifications/</link>
+					<comments>https://branditechture.agency/how-to-get-rid-of-wordpress-notifications/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:58 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=9845</guid>
+
+					<description><![CDATA[<p>WordPress notifications are one of the most annoying features of the WP dashboard. In this post, I am going to tell you how to get rid of those sticky WordPress notifications in your dashboard in simple, easy steps. Among WordPress experts, these notifications are commonly called “Admin Notices&#8221;.  They may increase in numbers with each [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-get-rid-of-wordpress-notifications/">How To Get Rid of Annoying WordPress Notifications</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">WordPress notifications are one of the most annoying features of the WP dashboard. </span><span style="font-weight: 400;">In this post, I am going to tell you how to get rid of those sticky WordPress notifications in your dashboard in simple, easy steps.</span></p>
+<p><span style="font-weight: 400;">Among WordPress experts, these notifications are commonly called </span><b>“Admin Notices&#8221;. </b> They may increase in numbers with each plugin you install. While some of these notifications are easily dismissable, some lack the dismiss button &#8220;<strong>(x)&#8221;</strong> meaning that they would remain there as long as you have the source plugin installed.  Crazy, right?</p>
+<p>The most annoying part is that these admin notifications can always reappear again after dismissing them, making it difficult to concentrate due to the need to scroll deep down every time you want to take an action (e.g Create a new post).</p>
+<p><span style="font-weight: 400;">Personally, for me, these WordPress Admin notifications are a form of distraction to my workflow.</span></p>
+<p><span style="font-weight: 400;">This post is not to discredit the hard work done by WordPress plugin developers as they have been of immense contribution to the WordPress community. </span><span style="font-weight: 400;">For that reason, we are not going to use very extreme methods to get rid of these notifications. </span></p>
+<p><span style="font-weight: 400;">This method will still allow the notifications, but will keep them in a separate menu so you can always go there and check out if you&#8217;ve got any important notices or notifications.</span></p>
+<pre>Could you please take two seconds of your time to <a href="https://branditechture.agency/newsletter/">subscribe to my newsletter? 🙏🏾</a>
+No advertisements, no nonsense, just pure useful content delivered straight to your inbox.</pre>
+<h4>Okay, Let&#8217;s Get To Work! 👇🏾</h4>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-9851" title="How to get rid of WordPress Admin Notifications" src="https://branditechture.agency/wp-content/uploads/2021/07/How-to-get-rid-of-WordPress-Admin-Notifications.jpg" alt="How to get rid of WordPress Admin Notifications" width="1024" height="682" srcset="https://branditechture.agency/wp-content/uploads/2021/07/How-to-get-rid-of-WordPress-Admin-Notifications.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/07/How-to-get-rid-of-WordPress-Admin-Notifications-300x200.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/07/How-to-get-rid-of-WordPress-Admin-Notifications-768x512.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/07/How-to-get-rid-of-WordPress-Admin-Notifications-480x320.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><span style="font-weight: 400;">You are going to install and activate a lightweight plugin called </span><b>Unagi.</b></p>
+<p><span style="font-weight: 400;">From your WordPress Admin Dashboard, head on to </span><b>Plugins</b><span style="font-weight: 400;"> then click </span><b>Add New.</b><span style="font-weight: 400;"> Search for </span><b>Unagi</b><span style="font-weight: 400;">, then Install and Activate it as shown below.</span></p>
+<p><img loading="lazy" decoding="async" class="size-large wp-image-9847" title="Screen Shot at PM" src="https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-07-29-at-7.07.18-PM-1024x530.png" alt="Screen Shot at PM" width="940" height="487" srcset="https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-07-29-at-7.07.18-PM-1024x530.png 1024w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-07-29-at-7.07.18-PM-300x155.png 300w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-07-29-at-7.07.18-PM-768x397.png 768w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-07-29-at-7.07.18-PM-480x248.png 480w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-07-29-at-7.07.18-PM.png 1098w" sizes="(max-width: 940px) 100vw, 940px" /></p>
+<p><span style="font-weight: 400;">One thing I like about Unagi is that it works out of the box, so you don&#8217;t need to take any additional steps for your notifications to be cleaned up — Just install and activate.</span></p>
+<p><strong>You may also like: <a href="https://branditechture.agency/why-wordpress-is-perfect-for-your-next-website-project/" rel="noopener" target="_blank" class="LinkSuggestion__Link-sc-1gewdgc-4 iyHtHS">Why WordPress Is Perfect For Your Next Website Project</a></strong></p>
+<h2>Advantages of cleaning up your WordPress notifications using Unagi;</h2>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The absence of intrusive notifications would allow you to focus more on the most important things as you would no longer need to scroll too deep to get things done. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Your dashboard would have a refreshed look, just like when you just installed WordPress.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Your Admin pages would load a bit faster compared to when the notifications were still there.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">The notifications are not permanently hidden so they are still accessible via the <strong>Notifications</strong> submenu on the left panel.<br />
+</span></span><img loading="lazy" decoding="async" class="size-full wp-image-9848" title="Screen Shot at PM" src="https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-07-29-at-6.05.55-PM.png" alt="Screen Shot at PM" width="324" height="320" srcset="https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-07-29-at-6.05.55-PM.png 324w, https://branditechture.agency/wp-content/uploads/2021/07/Screen-Shot-2021-07-29-at-6.05.55-PM-300x296.png 300w" sizes="(max-width: 324px) 100vw, 324px" /></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Tidying up the WordPress Admin notifications will keep your clients from getting overwhelmed if they need to access their WordPress dashboard.</span></li>
+</ol>
+<hr />
+<p><span style="font-weight: 400;">I hope that this little article has helped you in some ways. Thanks a lot for reading and please don&#8217;t forget to share.</span></p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-get-rid-of-wordpress-notifications/">How To Get Rid of Annoying WordPress Notifications</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-get-rid-of-wordpress-notifications/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why WordPress Is Perfect For Your Next Website Project</title>
+		<link>https://branditechture.agency/why-wordpress-is-perfect-for-your-next-website-project/</link>
+					<comments>https://branditechture.agency/why-wordpress-is-perfect-for-your-next-website-project/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:56 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=9321</guid>
+
+					<description><![CDATA[<p>WordPress is by far the most popular website publishing platform globally, and there are many reasons why it could be the perfect option for your next website design project. Powering over 41% of the world’s websites as of June 2021, WordPress’ &#8220;aggressive&#8221; dominance on the worldwide web is perhaps a result of its notable flexibility, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/why-wordpress-is-perfect-for-your-next-website-project/">Why WordPress Is Perfect For Your Next Website Project</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>WordPress is by far the most popular website publishing platform globally, and there are many reasons why it could be the perfect option for your next website design project.</p>
+<div id="attachment_10287" style="width: 2236px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-10287" class="wp-image-10287 size-full" title="Wordpress Website Distribution on the WWW" src="https://branditechture.agency/wp-content/uploads/2021/06/Screen-Shot-2021-09-01-at-7.35.10-AM.png" alt="Wordpress Website Distribution on the WWW" width="2226" height="1430" srcset="https://branditechture.agency/wp-content/uploads/2021/06/Screen-Shot-2021-09-01-at-7.35.10-AM.png 2226w, https://branditechture.agency/wp-content/uploads/2021/06/Screen-Shot-2021-09-01-at-7.35.10-AM-300x193.png 300w, https://branditechture.agency/wp-content/uploads/2021/06/Screen-Shot-2021-09-01-at-7.35.10-AM-1024x658.png 1024w, https://branditechture.agency/wp-content/uploads/2021/06/Screen-Shot-2021-09-01-at-7.35.10-AM-768x493.png 768w, https://branditechture.agency/wp-content/uploads/2021/06/Screen-Shot-2021-09-01-at-7.35.10-AM-1536x987.png 1536w, https://branditechture.agency/wp-content/uploads/2021/06/Screen-Shot-2021-09-01-at-7.35.10-AM-480x308.png 480w, https://branditechture.agency/wp-content/uploads/2021/06/Screen-Shot-2021-09-01-at-7.35.10-AM-1320x848.png 1320w" sizes="(max-width: 2226px) 100vw, 2226px" /><p id="caption-attachment-10287" class="wp-caption-text">WordPress marketshare on the web (41.7%)</p></div>
+<p>Powering over 41% of the world’s websites as of June 2021, WordPress’ &#8220;aggressive&#8221; dominance on the worldwide web is perhaps a result of its notable flexibility, plus the fact that it can serve as a backend infrastructure for standard blogs, e-commerce websites, and even static web pages. <a href="https://branditechture.agency/lets-build-your-website/">Let&#8217;s build your website</a> with WordPress.</p>
+<p>WordPress is free, open-source software that anyone can download and use. It provides the framework for any type of website you can dream of – but is WordPress right for you? Yes, if you love the idea of having a website you can genuinely call yours.</p>
+<p>A WordPress website is not expected to be difficult to manage at all, but a lot of people still lack the technical knowledge to take care of the platform’s moving parts. Luckily, we have <a href="https://branditechture.agency/website-maintenance-plans/">website maintenance plans</a> for small businesses and personal websites. Those who are already familiar with managing their own site, however, might just be fine.</p>
+<pre>If you want us to manage your WordPress website, perhaps due to lack of time or technical expertise, we have very affordable <a href="https://branditechture.agency/website-maintenance-plans/">website maintenance plans.</a> <a href="https://branditechture.agency/website-maintenance-plans/"></a></pre>
+<h2>Why WordPress is perfect for your next website project</h2>
+<p><strong>Well, here are 9 reasons why we think WordPress is the perfect engine room to power your next website project.</strong></p>
+<ol>
+<li>WordPress is remarkably popular</li>
+<li>It is supported by all web hosting companies</li>
+<li>It has a huge ecosystem of plugins to add functionality</li>
+<li>WordPress makes <a class="extlink" href="https://support.branditechture.agency/docs/seo-checklist-how-we-perform-seo-on-your-website/" target="_blank" data-schema-attribute="" rel="noopener">Search Engine Optimization</a> a breeze</li>
+<li>Visual customizations via themes</li>
+<li>It is free and open-source</li>
+<li>Easy to Install &amp; get started with One-click installs</li>
+<li>Allows for multiple users &amp; roles e.g Authors, Contributors, Editors, Administrators, etc.</li>
+<li>The &#8220;big guys&#8221; use it</li>
+</ol>
+<p>For absolute beginners who are interested in <a class="extlink" href="https://wordpress.org/" target="_blank" data-schema-attribute="" rel="noopener">WordPress</a>, I&#8217;d recommend trying <a class="extlink" href="https://wordpress.com/" target="_blank" data-schema-attribute="" rel="noopener">WordPress.com</a> first. WordPress.com allows you to create a WordPress website for free and without dealing with any of the website management issues.</p>
+<h2>1. WordPress is remarkably popular</h2>
+<p>If you’re having a problem with WordPress, there is a very good chance that someone has dealt with the same issue before. There are plenty of places on the internet to source support if you ever need help.</p>
+<p>The official forum and WordPress Help site are full of useful information. There are also tons of blogs, YouTube videos, and businesses providing custom support to help you on your WordPress journey.</p>
+<p>When I started my journey as a WordPress developer, <a class="extlink" href="https://www.wpbeginner.com/" target="_blank" data-schema-attribute="" rel="noopener">WPBeginner</a> was (and probably still) my most preferred website for seeking quick solutions as well as plugin recommendations. It is like the &#8220;W3Schools&#8221; of WordPress. In addition, many web hosting companies also have helpful WordPress support pages, which typically include tips about navigating the parts of WordPress that rely on their infrastructure.</p>
+<h2>2. It is supported by all web hosting companies</h2>
+<p>In my 10 years as a <a href="https://branditechture.agency/lets-build-your-website/">website developer</a>, I have yet to see a website hosting company that does not support WordPress. Yes, performance may vary between web hosts, but the most important point here is that they all support WordPress.</p>
+<p>WordPress allows you to host your own site and tweak it to the core. This is an important advantage for advanced users who don’t want the restrictions of WordPress.com, which limits site customizations.</p>
+<p>Choosing your own web hosting company also means you can switch hosting providers and upgrade your hosting packages as your site&#8217;s storage and traffic demands increase.</p>
+<p>From my 6+ years of experience with different website hosting companies, <a href="https://namecheap.pxf.io/x9NojO" target="_blank" rel="noopener">Namecheap</a> still remains the best web for both beginners and business people who value their time.</p>
+<p>Some web hosting companies offer tailored plans for WordPress websites. These plans usually come with features such as automated WordPress updates, and sometimes extra features such as email marketing, but they may come pricey.</p>
+<p>On the other hand, there are also a bunch of inferior-quality web hosting service providers that are just out there to strip you out of your hard-earned cash. If you want a WordPress hosting plan, it pays to watch out while you shop around. The good news is that you do not have to go through all that stress if you are a <a href="https://branditechture.agency/lets-build-your-website/">Branditechture</a> customer.</p>
+<h2>3. Huge collection of plugins to add functionality</h2>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="size-large wp-image-9363" title="Plugins In WordPress Image" src="https://branditechture.agency/wp-content/uploads/2021/06/Plugins-In-Wordpress-Image-1024x716.jpg" alt="Plugins In WordPress Image" width="940" height="657" srcset="https://branditechture.agency/wp-content/uploads/2021/06/Plugins-In-Wordpress-Image-1024x716.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/06/Plugins-In-Wordpress-Image-300x210.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/06/Plugins-In-Wordpress-Image-768x537.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/06/Plugins-In-Wordpress-Image-1536x1074.jpg 1536w, https://branditechture.agency/wp-content/uploads/2021/06/Plugins-In-Wordpress-Image-480x336.jpg 480w, https://branditechture.agency/wp-content/uploads/2021/06/Plugins-In-Wordpress-Image-1320x923.jpg 1320w, https://branditechture.agency/wp-content/uploads/2021/06/Plugins-In-Wordpress-Image.jpg 1920w" sizes="(max-width: 940px) 100vw, 940px" /></p>
+<p>The jewel in WordPress’ crown is the abundance of plugins. Plugins enhance the functionality and optimize users’ websites. With plugins, you can enable features such as comment spam filtering, data visualizations (as shown up there), membership, live chat, anti-malware, scheduled website backup, e-commerce and payment gateway etc.</p>
+<p>There is a sea of 100% free and <em>freemium</em> WordPress plugins from both private companies and independent developers.</p>
+<h2>4. WordPress is built for SEO</h2>
+<p>WordPress is already optimized for search engines out of the box but plugins like <a class="extlink" href="https://wordpress.org/plugins/seo-by-rank-math/" target="_blank" rel="nofollow noopener" data-schema-attribute="">Rank Math</a> can further help improve your website’s search engine ranking. Another popular choice is <a class="extlink" href="https://wordpress.org/plugins/wordpress-seo/" target="_blank" rel="nofollow noopener" data-schema-attribute="">Yoast</a>, which, like Rank Math, analyzes your content structure and give suggestions that help you improve the likelihood of better results on <a href="https://support.branditechture.agency/docs/what-is-serp/" target="_blank" rel="noopener">SERP</a>.</p>
+<p>These plugins all have extensive guides on their respective websites, guiding you through the process of improving your entire WordPress website’s SEO.</p>
+<p>There are also a bunch of other plugins that you could use to step up your SEO game. Now you see why we said WordPress has a huge ecosystem of plugins. You&#8217;ll get overwhelmed with options to choose from.</p>
+<h2>5. Customizable themes</h2>
+<p>A new WordPress installation will usually give your website a &#8220;bare&#8221; look. It features a sample site title, a sample blog post, a comments section, a post archive section, and a few other parts. Needless to say, only a very few people leave their WordPress site as-is, probably because the default theme just looks too &#8220;boring&#8221;.</p>
+<p>That’s where themes come in. Themes completely overhaul the look of your site. They are highly customizable, meaning you can personalize your chosen theme to give some uniqueness to the appearance of your website.</p>
+<p>There are thousands of free WordPress themes to choose from. WordPress also features a theme marketplace right inside the CMS, while numerous web designers will offer their services to create a custom theme that’s to your specifications.</p>
+<p>You can find thousands of free WordPress themes in the official WordPress theme repository, but if they appear too simple or too similar for your liking, you can browse external theme libraries, such as <a class="extlink" href="https://themeforest.net/" target="_blank" data-schema-attribute="" rel="noopener">ThemeForest</a> for even more options.</p>
+<h2>6. WordPress is free &amp; open-source</h2>
+<p>WordPress is open-source software, meaning anyone can look at its source code. In fact, anyone who has the knowledge and ability could also modify it if they wished, and redistribute the source code as their own.</p>
+<p>The fact that anyone can read and discover flaws in the code has helped make WordPress more secure and it also encourages the platform to add new features.</p>
+<p>On top of that, WordPress won’t cost you a penny; there are no one-time or monthly fees required to install the platform. All you need to do is <a class="extlink" href="https://wordpress.org/" target="_blank" data-schema-attribute="" rel="noopener">download it</a>, and it’s yours.</p>
+<h2>7. Easy to install &amp; get started with one-click Installs</h2>
+<p>Most web hosting companies offer one-click installs, making it very possible to get your new website set up in less than a minute. With one-click WordPress installs, you do not have to face the technicalities of prepping your own LAMP stack, as well as setting up your own MySQL database.</p>
+
+<p>You’ll only need to spend time tweaking your theme, creating new pages, installing plugins, but getting up and running is relatively quick and easy.</p>
+<p>WordPress sports a large variety of page-building plugins popularly referred to as <strong>page builders</strong>. Examples are Elementor, Divi, WP Bakery, Site Origin, etc.</p>
+<p>Elementor is the most used page builder amongst them all. Page builders make building new WordPress pages as easy as a pie, and even if you are a total n00b, you could get started in minutes.</p>
+<p><strong>Read Also: </strong> <a href="https://branditechture.agency/wordpress-website-pre-launch-checklist/">WordPress Website Prelaunch Checklist</a></p>
+<h2>8. WordPress allows multiple users &amp; roles</h2>
+<p>If you like the idea of multiple users updating your website simultaneously, adding new users and user roles is easy as pie. From your <strong><em>Admin dashboard</em></strong>, all you need to do is click on <strong><em>Users</em>, </strong>and <em><strong>Add New</strong></em> user.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-9356 size-full" title="Why WordPress Is Perfect For Your Next Website Project - Step by step add new user" src="https://branditechture.agency/wp-content/uploads/2021/06/Step-by-step-add-new-user.png" alt="Why WordPress Is Perfect For Your Next Website Project - Step by step add new user" width="799" height="659" srcset="https://branditechture.agency/wp-content/uploads/2021/06/Step-by-step-add-new-user.png 799w, https://branditechture.agency/wp-content/uploads/2021/06/Step-by-step-add-new-user-300x247.png 300w, https://branditechture.agency/wp-content/uploads/2021/06/Step-by-step-add-new-user-768x633.png 768w, https://branditechture.agency/wp-content/uploads/2021/06/Step-by-step-add-new-user-480x396.png 480w" sizes="(max-width: 799px) 100vw, 799px" /></p>
+<p>There, you can assign a <em>username</em>, <em>password</em>, <em>role </em>(e.g. Administrator, Subscriber, Editor, Author, etc.,).</p>
+<h2>9. The &#8220;Big Guys&#8221; use it</h2>
+<p>Contrary to popular belief, WordPress is not just for people trying to start up a little personal blog. It’s also a very popular choice for large organizations such as Walt Disney, Bloomberg, BBC, MTN and celebrity superstars including Usain Bolt, Snoop Dogg, LL Cool J, Chris Brown and Katy Perry. On a serious note, copying superstars may not be the only good reason to opt for WordPress, but it does show that even prominent individuals with very large audiences are happy to use it.</p>
+<h2>The Disadvantages of WordPress</h2>
+<p>WordPress is pretty awesome, but it’s not perfect by any means.</p>
+<p><strong><em>Here are some of the cons of running a WordPress-based website.</em></strong></p>
+<h2>1. It’s a big target for cyber attackers</h2>
+<p>WordPress&#8217; huge popularity means it is a big target for hackers. If a hacker finds an unknown vulnerability in the WordPress core, a massive number of sites would be exposed. Fortunately, WordPress gets regular updates, thanks to a huge community of developers. You should always ensure that your WordPress version is up to date.</p>
+<p>Branditechture will take care of updates for you for a <a href="https://branditechture.agency/website-maintenance-plans/">small monthly fee.</a> If you wish to see the added benefits of subscribing to a maintenance plan, then click <a class="extlink" href="https://support.branditechture.agency/docs/what-is-covered-in-the-website-maintenance-plan/" target="_blank" data-schema-attribute="" rel="noopener">HERE</a> to learn what&#8217;s covered.</p>
+<h2>2. A bespoke design may cost you</h2>
+<p>WordPress is 100% free, and there are many themes you can get for free as well – but if you want some originality to your name, it may cost you.</p>
+<p>That may mean purchasing a premium theme that only a few people are using, or <a href="https://branditechture.agency/lets-build-your-website/">hiring a website designer</a> to come up with an original look. If you have some coding skills, you may be able to do this yourself, but it may not work out if you do not have the right eye for design. Fortunately, we exist to help you <a href="https://branditechture.agency/lets-build-your-website/">build a 100% bespoke website</a> at very flexible rates.</p>
+<h2>3. Plugins need a fine balance</h2>
+<p>WordPress plugins are extremely helpful, but installing too many of them could impact your website’s performance. Because of this, you may sometimes be faced with the dilemma of having to choose what plugins to deactivate/delete.</p>
+<h2><em>** There are alternatives</em></h2>
+<p>If WordPress doesn’t sound like the right option for you, there are other alternative CMS available. You can try Shopify, Squarespace or Wix.</p>
+<hr />
+<p>If you enjoyed reading, please help share this article. If you need to ask a question, please drop me a comment below. Thanks a lot.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/why-wordpress-is-perfect-for-your-next-website-project/">Why WordPress Is Perfect For Your Next Website Project</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/why-wordpress-is-perfect-for-your-next-website-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Right-Click To Set Outline Color In CorelDRAW	</title>
+	<atom:link href="https://branditechture.agency/right-click-to-set-outline-color-in-coreldraw/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/right-click-to-set-outline-color-in-coreldraw/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sat, 23 Jul 2022 22:10:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		By: Yusuf Odukoya		</title>
+		<link>https://branditechture.agency/right-click-to-set-outline-color-in-coreldraw/#comment-685</link>
+
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2022 07:38:55 +0000</pubDate>
+		<guid isPermaLink="false">https://branditechture.agency/?p=11701#comment-685</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://branditechture.agency/right-click-to-set-outline-color-in-coreldraw/#comment-684&quot;&gt;Samuel&lt;/a&gt;.
+
+Yep, doesn&#039;t work that way on macOS. Thanks.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://branditechture.agency/right-click-to-set-outline-color-in-coreldraw/#comment-684">Samuel</a>.</p>
+<p>Yep, doesn&#8217;t work that way on macOS. Thanks.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Samuel		</title>
+		<link>https://branditechture.agency/right-click-to-set-outline-color-in-coreldraw/#comment-684</link>
+
+		<dc:creator><![CDATA[Samuel]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2022 14:04:36 +0000</pubDate>
+		<guid isPermaLink="false">https://branditechture.agency/?p=11701#comment-684</guid>
+
+					<description><![CDATA[Thanks Yusuf
+Can&#039;t do this on Mac 
+the option does not show in the customisation menu]]></description>
+			<content:encoded><![CDATA[<p>Thanks Yusuf<br />
+Can&#8217;t do this on Mac<br />
+the option does not show in the customisation menu</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

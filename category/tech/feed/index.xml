@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tech &#8211; Branditechture</title>
+	<atom:link href="https://branditechture.agency/category/tech/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.agency/</link>
+	<description>Web × Design; Branditechture is an hybrid creative design agency.</description>
+	<lastBuildDate>Sun, 01 Oct 2023 16:53:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://branditechture.agency/wp-content/uploads/2020/05/cropped-Favicon-2-32x32.png</url>
+	<title>Tech &#8211; Branditechture</title>
+	<link>https://branditechture.agency/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Reset and Regain Access To Your MTN MiFi WiFi Password</title>
+		<link>https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/</link>
+					<comments>https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sun, 01 Oct 2023 16:53:48 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17987</guid>
+
+					<description><![CDATA[<p>One of the most annoying mistakes MTN made with their latest MiFi device is putting the sticky paper label OUTSIDE the body of the MiFi device. Perhaps, this could be because this particular Mi-fi model has no removable battery cover, but they could have at least, laminated it. The sad news, however, is that many [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/">How to Reset and Regain Access To Your MTN MiFi WiFi Password</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>One of the most annoying mistakes MTN made with their latest MiFi device is putting the sticky paper label OUTSIDE the body of the MiFi device. Perhaps, this could be because this particular Mi-fi model has no removable battery cover, but they could have at least, laminated it. The sad news, however, is that many MTN Mi-Fi owners have lost the default WLAN Key written on the sticky label due to the rubbing off of the ink used to print the details.</p>
+<p>But do not fret&#8230; My name is Yusuf Odukoya, and as a freelancer and digital guy myself, I understand that losing that little sticker with your WLAN key can be quite frustrating. I have got you covered with this simple and effective solution to regain access to your Wi-Fi connection by checking or setting a new WLAN Key.</p>
+<p>In this step-by-step guide, I will walk you through the process of resetting or checking your MTN MiFi WLAN key (Also known as WiFi password) using just a USB cable and your computer. Whether you&#8217;ve got the latest MTN Mi-Fi model or an older one, this method just works for ALL MTN Mi-Fi models. So, let&#8217;s dive in and get your Wi-Fi back up and running!</p>
+<p><strong>Materials You&#8217;ll Need:</strong></p>
+<ul>
+<li>Your MTN MiFi device</li>
+<li>A USB cable</li>
+<li>A computer or laptop with a web browser</li>
+</ul>
+<p><strong>Step 1: Connect MiFi to Your Computer</strong> Start by powering on your MTN MiFi device. Then, take your trusty USB cable and connect your MiFi device to your computer. Ensure the connection is snug and secure.</p>
+<p><strong>Step 2: Accessing the Web Interface</strong> Open up your favorite web browser on your computer—whether it&#8217;s Chrome, Firefox, Edge, or another. Now, in the address bar at the top, type in the following: <code>192.168.0.1</code> and hit Enter. This magical combination of numbers will lead you to your MiFi device&#8217;s settings.</p>
+<p><strong>Step 3: Logging In</strong><br />
+You&#8217;ll be greeted by the MTN MiFi web interface. Sometimes, it might ask you for a username and password. If you&#8217;ve never changed these before, no worries! The default credentials are often &#8220;admin&#8221; for both the username and password. Go ahead and enter those in.</p>
+<div id="attachment_18010" style="width: 849px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-18010" class="size-full wp-image-18010" title="Dashboard login page" src="https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page.png" alt="Dashboard login page" width="839" height="589" srcset="https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page.png 839w, https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page-300x211.png 300w, https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page-768x539.png 768w, https://branditechture.agency/wp-content/uploads/2023/10/Dashboard-login-page-480x337.png 480w" sizes="(max-width: 839px) 100vw, 839px" /><p id="caption-attachment-18010" class="wp-caption-text">Dashboard login page</p></div>
+<p><strong>Step 4: Finding WLAN Settings</strong><br />
+Now comes the fun part—finding the section that&#8217;s all about your Wi-Fi settings because this depends on your MiFi or router model. You must look for labels like &#8220;WLAN Settings,&#8221; &#8220;WiFi Settings,&#8221; or something similar. Once you&#8217;ve located it, click on it.</p>
+<p>Here&#8217;s mine:</p>
+<div id="attachment_18011" style="width: 1008px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-18011" class="size-full wp-image-18011" title="WiFi Settings" src="https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings.png" alt="WiFi Settings" width="998" height="486" srcset="https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings.png 998w, https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings-300x146.png 300w, https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings-768x374.png 768w, https://branditechture.agency/wp-content/uploads/2023/10/WiFi-Settings-480x234.png 480w" sizes="(max-width: 998px) 100vw, 998px" /><p id="caption-attachment-18011" class="wp-caption-text">WiFi Settings</p></div>
+<p>&nbsp;</p>
+<p><strong>Step 5: Generating a New WLAN Key</strong><br />
+Inside the WLAN settings, you&#8217;ll find an option to generate a fresh WLAN key or password. This could be called &#8220;Security Key,&#8221; &#8220;Password,&#8221; or &#8220;WPA Key.&#8221; Click on that option and follow the instructions to generate a new key. If you&#8217;re feeling creative, some devices might even let you create your own.</p>
+<div id="attachment_18012" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-18012" class="size-full wp-image-18012" title="Update your WiFi password" src="https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password.png" alt="Update your WiFi password" width="1024" height="609" srcset="https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password.png 1024w, https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password-300x178.png 300w, https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password-768x457.png 768w, https://branditechture.agency/wp-content/uploads/2023/10/Update-your-WiFi-password-480x285.png 480w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-18012" class="wp-caption-text">Updating your WiFi password</p></div>
+<p><strong>Step 6:Saving Your Changes</strong><br />
+After you&#8217;ve generated or updated your WLAN key, it&#8217;s time to save the day! Look around for a &#8220;Save&#8221; or &#8220;Apply&#8221; button on the web interface. Click it with confidence, knowing that your changes are about to be locked in.</p>
+<p><strong>Step 7: Disconnect, Restart, and Reconnect</strong><br />
+Safely disconnect your MTN MiFi device from your computer. Now, give your MiFi a moment of rest by turning it off and then back on. Wait patiently for it to fully reboot. Once it&#8217;s up and running, connect to your MiFi&#8217;s Wi-Fi network using the new WLAN key you&#8217;ve just set.</p>
+<p><strong>Conclusion:</strong> And there you have it, a straightforward way to reset your MTN MiFi WLAN key and reclaim your Wi-Fi connection. Remember, this guide is your trusty companion whether you&#8217;re using the latest MiFi model or an older one. The next time you find yourself without that precious sticker, just grab your USB cable and computer (or laptop) and follow the above steps to restore your connection in no time.</p>
+<p>Happy browsing!</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/">How to Reset and Regain Access To Your MTN MiFi WiFi Password</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-to-reset-and-regain-access-to-your-mtn-mifi-wifi-password/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How Chrome&#8217;s Memory Saver Feature Can Slow Down Your Productivity</title>
+		<link>https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/</link>
+					<comments>https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2023 13:43:21 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=17859</guid>
+
+					<description><![CDATA[<p>Google Chrome is without a doubt one of the most popular web browsers available today, thanks to its simplicity, reliability, and ecosystem of browser extensions. However, due to its high resource demands, users who are running low on system resources, such as RAM or CPU, may find it challenging to keep the browser running smoothly. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/">How Chrome&#8217;s Memory Saver Feature Can Slow Down Your Productivity</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Google Chrome is without a doubt one of the most popular web browsers available today, thanks to its simplicity, reliability, and ecosystem of browser extensions. However, due to its high resource demands, users who are running low on system resources, such as RAM or CPU, may find it challenging to keep the browser running smoothly. To address this issue, Chrome comes with a feature called &#8220;Memory saver,&#8221; which can help save system resources by suspending tabs that are not in use.</p>
+<p>While this feature can be a boon to some users, it is a curse for others: Take, for example, Graphic Designers or Product Designers who switch frequently between <em>Shutterstock</em>, <em>icons8</em>, and <em>Figma</em>. To summarize this scenario, the Chrome Memory Saver feature will slow down your workflow and spike CPU resource usage if you frequently switch between multiple tabs or need to access certain previously opened websites very often and quickly. This is because the page would need to be reloaded after being idle for, say 5 minutes.</p>
+<h2>How Chrome&#8217;s Memory Saver Works</h2>
+<p>The Chrome browser memory saver feature works by identifying tabs that have been inactive for a specific period, typically five minutes. Once a tab is deemed inactive, the browser suspends it, freeing up system resources that would have been used to keep the tab running in the background. When a user clicks on the suspended tab, the page is automatically reloaded and the user can continue from where they left off. This process is designed to help users save system resources and keep the browser running smoothly, especially on devices with limited RAM or CPU.</p>
+<h2>The Drawbacks of Enabling Memory Saver on Chrome</h2>
+<p>The downside of the memory saver feature is that it can slow down your workflow, especially if you frequently switch between tabs or use certain websites regularly. For instance, if you are working on a research project and need to refer to multiple web pages simultaneously, the memory saver feature may suspend some of your tabs, making it difficult to access the information you need quickly. You may have to wait for a few seconds for the tab to reload, which can be frustrating and time-consuming, especially if you are working on a tight deadline.</p>
+<p>Moreover, the memory saver feature can also interfere with certain web applications, such as online banking, user registration, survey websites, or shopping websites. These types of sites often require constant updates and real-time data transmission to stay alive, and suspending them can cause errors or glitches in the application. This can result in frustration for the user and may even lead to data loss or financial losses in the case of online banking.</p>
+<p>Luckily, you can create exceptions by &#8220;whitelisting&#8221; some websites from inside Chrome&#8217;s <strong>performance</strong> settings, or you can disable Chrome&#8217;s memory saver feature altogether.</p>
+<h3>How To Disable Chrome&#8217;s Memory Saver</h3>
+<div id="attachment_17862" style="width: 752px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-17862" class="size-full wp-image-17862" title="Memory Saver toggle screen" src="https://branditechture.agency/wp-content/uploads/2023/03/Memory-Saver-toggle-screen.png" alt="Memory Saver toggle screen" width="742" height="281" srcset="https://branditechture.agency/wp-content/uploads/2023/03/Memory-Saver-toggle-screen.png 742w, https://branditechture.agency/wp-content/uploads/2023/03/Memory-Saver-toggle-screen-300x114.png 300w, https://branditechture.agency/wp-content/uploads/2023/03/Memory-Saver-toggle-screen-480x182.png 480w" sizes="(max-width: 742px) 100vw, 742px" /><p id="caption-attachment-17862" class="wp-caption-text">Memory Saver toggle screen</p></div>
+<p>Chrome&#8217;s Memory Saver is often enabled by default in recent versions of the browser. However, if you have made up your mind to disable this feature, you can follow these steps:</p>
+<ol>
+<li>Open Chrome on your computer.</li>
+<li>Click on the <strong>three dots</strong> icon in the top-right corner of the browser window.</li>
+<li>Select &#8220;<strong>Settings</strong>&#8221; from the drop-down menu.</li>
+<li>Look at the pane on your left, and click on &#8220;<strong>Performance</strong>&#8220;.</li>
+<li>Use the switch to toggle the <strong>Memory Saver</strong> feature.</li>
+</ol>
+<p>You can also add a list of sites to be kept active even though memory saver is left enabled. The choice is all yours.</p>
+<p>Note that disabling the Memory Saver feature may cause Chrome to use more system resources and may slow down your browser&#8217;s performance. If you have a device with very limited RAM or CPU, and switch tabs less frequently, it is better to keep the feature enabled.</p>
+<h2>Conclusion</h2>
+<p>In conclusion, while Chrome&#8217;s memory saver feature can be a helpful tool for users who are struggling with limited system resources, it can also slow down your workflow, especially if you frequently switch between tabs or use multiple websites regularly. If you find yourself missing deadlines often, it&#8217;s time to look towards the memory saver feature, you may consider disabling it. Ultimately, it is really up to you to decide whether the memory saver feature is a helpful tool or a hindrance to your workflow.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/">How Chrome&#8217;s Memory Saver Feature Can Slow Down Your Productivity</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/how-chromes-memory-saver-feature-can-slow-down-your-productivity/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What Is Microsoft HoloLens and What is it Used For?</title>
+		<link>https://branditechture.agency/what-is-microsoft-hololens/</link>
+					<comments>https://branditechture.agency/what-is-microsoft-hololens/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Thu, 28 Jul 2022 05:45:52 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[MR]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=13556</guid>
+
+					<description><![CDATA[<p>Microsoft HoloLens is a completely self-contained, wireless, holographic computer. It enables users to take a look at what is known as “mixed reality”. This means that people with Microsoft HoloLens can see digital content &#8211; so-called holograms &#8211; in the real world and interact with it using speech and gestures.  What is Microsoft HoloLens? What [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-is-microsoft-hololens/">What Is Microsoft HoloLens and What is it Used For?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_13558" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13558" class="size-full wp-image-13558" title="Microsoft Hololens" src="https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2.jpg" alt="Microsoft Hololens" width="1024" height="682" srcset="https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2-300x200.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2-768x512.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-Hololens-2-480x320.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-13558" class="wp-caption-text">The Microsoft Hololens 2</p></div>
+<p><em>Microsoft HoloLens is a completely self-contained, wireless, holographic computer. It enables users to take a look at what is known as “mixed reality”. This means that people with Microsoft HoloLens can see digital content &#8211; so-called holograms &#8211; in the real world and interact with it using speech and gestures. </em></p>
+<p><strong>What is Microsoft HoloLens? What can it be used for? In this article, you will find a simple definition and exciting application scenarios for Microsoft HoloLens.</strong></p>
+<p>Hololens is to Microsoft what Oculus is to Meta, formerly known as Facebook. But the Microsoft Hololens is targeted at businesses and enterprises, while Oculus is more inclined towards entertainment and the social metaverse.</p>
+<p>The potential of the Microsoft HoloLens is almost unlimited, and possible uses across all industries are conceivable. This diversity makes the Microsoft HoloLens particularly interesting for companies and convinces developers and corporate customers to work with its innovative technology.</p>
+<h2>Microsoft Hololens Models</h2>
+<p>In January 2015, Microsoft HoloLens, the world&#8217;s first wireless, stand-alone holographic computer based on the mixed reality platform, was presented. The powerful hardware allows high-resolution 3D holograms to be displayed in the real world without having to rely on separate hardware. HoloLens enables interaction with holographic objects via voice, gaze and gesture control. For example, holograms can be moved, positioned or changed in size completely freely in physical space using specific hand movements.</p>
+<p>The second generation was presented for the first time at MWC Barcelona in February 2019. Compared to the previous model, <strong>Microsoft HoloLens 2</strong> offers a field of view that is more than twice as large, significantly improved wearing comfort thanks to an optimized center of gravity and allows more intuitive interaction with holograms. For example, using finger tracking, which enables even more precise input about the movement of individual fingers.</p>
+<div id="attachment_13559" style="width: 410px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13559" class="size-full wp-image-13559" title="Microsoft HoloLens 2 Industrial Edition smart glasses - 64 GB" src="https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-HoloLens-2-Industrial-Edition-smart-glasses-64-GB.jpg" alt="Microsoft HoloLens 2 Industrial Edition smart glasses - 64 GB" width="400" height="300" srcset="https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-HoloLens-2-Industrial-Edition-smart-glasses-64-GB.jpg 400w, https://branditechture.agency/wp-content/uploads/2021/11/Microsoft-HoloLens-2-Industrial-Edition-smart-glasses-64-GB-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /><p id="caption-attachment-13559" class="wp-caption-text">Microsoft HoloLens 2 Industrial Edition Smart Glasses &#8211; 64 GB. Costs <span class="c-currency__code ">USD<span> </span></span><span class="c-currency__value ">$4,950</span></p></div>
+<h3>What Are Holograms?</h3>
+<p><span class="">Simply put, holograms are graphics created with light that appear to float three-dimensionally in space.<span> </span></span><span class="">Anyone who has ever been to an event with light projections probably knows this: images are projected into free space using laser beams.<span> </span></span><span>Microsoft HoloLens works in a similar way but displays the images on the device&#8217;s projection glass so that only the wearer can see them at first.</span></p>
+<h2>How does the Microsoft HoloLens work?</h2>
+<p><iframe title="Introducing Microsoft HoloLens 2" width="940" height="529" src="https://www.youtube.com/embed/eqFqtAJMtYE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h2></h2>
+<p>Microsoft HoloLens is equipped with the latest technology and relies on artificial intelligence (AI). For intuitive interactions in mixed reality, Microsoft HoloLens 2 relies on the AI ​​capabilities of Azure, Microsoft&#8217;s cloud computing platform, and uses numerous sensors and special tracking systems. For example, a special hand tracking system measures the individual shape of the hands and enables precise operation.</p>
+<p>Eye tracking makes it possible to measure the individual distance between the wearer&#8217;s pupil centers, which influences how a person sees near or distant objects. Based on an AI algorithm, personalized 3D models are then adapted to the hands and eyes of the user, which enables precise interaction with holograms.</p>
+<p>The corresponding AI technologies run on HoloLens 2 and are called <strong>Perception AI</strong> because they correspond to the instinctive perception and activity of the human brain. Perception AI works on the basis of the HPU 2.0 &#8211; the <strong>holographic processing unit</strong> that was specially developed for the HoloLens 2 &#8211; locally on the respective device, which avoids long latency times (reaction times).</p>
+<h3>What defines an “intelligent edge” device?</h3>
+<p>HoloLens 2 is considered a flagship device in the field of intelligent edge. This refers to technologies that can collect data even without a reliable internet connection and process it where it is created. However, you can share some or all of the data with the intelligent cloud when it is connected. The device, based on artificial intelligence and cloud computing, enables instinctive collaboration and the exchange of knowledge via holograms, regardless of space and time.</p>
+<h3>What apps are available for the HoloLens?</h3>
+<ol>
+<li>Dynamics 365 Remote Assist.</li>
+<li>Dynamics 365 Guides</li>
+<li>Azure Remote Rendering</li>
+<li>Azure Spatial Anchors</li>
+</ol>
+<p>One of the most popular applications is<a href="https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/" target="_blank" rel="noopener"> Dynamics 365 Remote Assist.</a> The solution allows the use of holograms to give precise instructions across different locations. This means, for example, that technicians can explain repairs remotely or carry out maintenance more easily.</p>
+<p><a href="https://dynamics.microsoft.com/en-us/mixed-reality/guides/" target="_blank" rel="noopener">Dynamics 365 Guides</a> for HoloLens enables users to practice-oriented learning based on holographic instructions when and where they need them. The instruction cards are visually tied to the location where the work is being carried out. They can contain images, videos, and 3D holographic models. Users see what needs to be done where and can get the job done faster and with fewer errors.</p>
+<p>With <a href="https://azure.microsoft.com/en-us/services/remote-rendering/" target="_blank" rel="noopener">Azure Remote Rendering,</a> high-quality 3D content and interactive surfaces are brought to mixed reality devices such as the HoloLens. Using the computing power of Azure, even the most complex models are rendered in the cloud and streamed to devices in real time. For example, designers or engineers can interact with 3D content with great attention to detail.</p>
+<p>Another application is <a href="https://azure.microsoft.com/en-us/services/spatial-anchors/" target="_blank" rel="noopener">Azure Spatial Anchors:</a> Customers use it to create mixed reality applications with spatial reference. For example, industrial customers in a factory can place maintenance information in the form of holograms next to machines on a production line and then make this information visible to specific employees.</p>
+<p>More apps are currently being developed.</p>
+<h3>What is the Azure Kinect Developer Kit?</h3>
+<p>The <a href="https://www.amazon.com/Azure-Kinect-Developer-Kit-PC-Linux/dp/B07WRV7T2G" target="_blank" rel="noopener">Azure Kinect Developer Kit (DK)</a> is an accessory and development kit with advanced AI sensors for various models in the field of machine vision and speech recognition. It combines a depth sensor and a spatial microphone arrangement with a video camera and a position sensor &#8211; all in one small device.</p>
+<p>This includes the time-of-flight depth sensor, a high-resolution RGB camera and seven microphones arranged in a circle, with which modern image processing and speech solutions can be developed based on Microsoft Azure. This enables applications that not only recognize the world, but also understand it. For example people, places and things in the area.</p>
+
+<h2>Where is the HoloLens used?</h2>
+<p>Microsoft HoloLens is essentially aimed at corporate customers. The innovative technology enables new, digital business processes across all industries &#8211; this ranges from the education or training of employees, through the attractive presentation of products in sales, to visual support for doctors in the operating room. Here are four exciting examples:</p>
+<p><strong>Knowledge transfer:</strong> The Collaborative Training 4.0 from <strong>Bosch</strong> is an end-to-end solution, works with mixed reality technology and was created on the basis of <a rel="nofollow noopener" href="https://www.re-flekt.com/reflekt-one" target="_blank">REFLEKT ONE</a>. The interactive training offers holographic step-by-step instructions that help workshop trainees understand new products and technologies and enable service technicians to work more efficiently and with fewer errors in repairs and maintenance.</p>
+<p><strong>Health:</strong> With the software, Virtual Surgery Intelligence (VSI) from Microsoft&#8217;s mixed reality partner, <strong>apoQlar GmbH</strong>, two-dimensional black and white X-ray images are turned into realistic, three-dimensional objects. This enables doctors to prepare even better for an operation and to explain the procedure in advance of an operation to the patient in a more understandable way.</p>
+<p><strong>Remote maintenance: </strong>In order to make inspections even more efficient, <a href="https://news.microsoft.com/transform/vroom-with-a-view-hololens-2-powers-faster-fixes-mercedes-benz-usa/" target="_blank" rel="noopener">Mercedes-Benz USA</a> equips its authorized American dealers and the associated service technicians with the Microsoft HoloLens 2. With the support of the Microsoft Dynamics 365 Remote Assist application, you can also maintain Mercedes vehicles remotely and give precise instructions for repairs in real time.</p>
+<p><strong>Interior design: </strong>The <strong>.rooms application</strong> from the Berlin company, Island Labs, enables holographic visualization of objects for planning rooms. For example, a Germany based company known as <a href="https://customers.microsoft.com/EN-AU/story/807378-kuechenquelle-retailers-azure" target="_blank" rel="noopener">küchenquelle GmbH uses</a> this solution in the planning and sales process for kitchens.</p>
+<h3>How to order the Microsoft Hololens</h3>
+<p>Interested corporate customers and MR developers can purchase the Microsoft HoloLens 2 either directly from Microsoft Stores or from authorized partners and solution developers.</p>
+<p>Click <a href="https://docs.microsoft.com/en-us/hololens/hololens2-purchase" target="_blank" rel="noopener">HERE</a> for a full list of where to buy.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-is-microsoft-hololens/">What Is Microsoft HoloLens and What is it Used For?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/what-is-microsoft-hololens/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What is Web Hosting and How Does it Affect Your Website?</title>
+		<link>https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/</link>
+					<comments>https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:23 +0000</pubDate>
+				<category><![CDATA[Web Hosting]]></category>
+		<category><![CDATA[Tech]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=13134</guid>
+
+					<description><![CDATA[<p>In the world of internet marketing, websites play a crucial role. Given their importance, it is necessary to know how they work and to understand the factors that influence their success. So this article explains what a hosting service means, the role it plays in web development and how it affects your website. What is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/">What is Web Hosting and How Does it Affect Your Website?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In the world of <a href="https://branditechture.agency/common-internet-marketing-mistakes/">internet marketing</a>, websites play a crucial role. Given their importance, it is necessary to know how they work and to understand the factors that influence their success. So this article explains what a hosting service means, the role it plays in web development and how it affects your website.</p>
+<h2>What is web hosting?</h2>
+<p>Any website must store its data in order to be accessible to the public. In this way, a website can receive targeted traffic where each individual clicks on different sections and uses different functions. This would not be possible if there was not a place where they can reach and meet these needs. This is precisely the job that any hosting service does: storing your website data so that it is accessible to the public.</p>
+<div id="attachment_13139" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13139" class="size-full wp-image-13139" title="Web Hosting Infographic iStock" src="https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock.jpg" alt="Web Hosting Infographic iStock" width="1024" height="656" srcset="https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock.jpg 1024w, https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock-300x192.jpg 300w, https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock-768x492.jpg 768w, https://branditechture.agency/wp-content/uploads/2021/10/Web-Hosting-Infographic.-iStock-480x308.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-13139" class="wp-caption-text">Web Hosting Infographic. Image via iStock</p></div>
+<p>However, while the concept itself is easy to understand, the different ways that hosting influences a website are almost endless. It is obvious that the extent of the benefits that <a href="https://namecheap.pxf.io/ZdBq9K" target="_blank" rel="noopener">a fast and secure hosting service</a> gives you depends on the hosting plan you choose. However, it should be remembered that in general there are some basic functions that should be provided by any provider, regardless of their plan.</p>
+
+<h2>How does hosting affect a website?</h2>
+<h3>Performance</h3>
+<p>It is without a doubt that <strong>web performance</strong> is one of the most important factors for the success of a website. The performance of a website is reflected in the loading speed which is governed by two important factors:</p>
+<ol>
+<li>The hosting server</li>
+<li>The optimization of the website.</li>
+</ol>
+<p>Indeed, in recent years, it has become evident that users do not tolerate slow-loading websites as they typically wait for just a few seconds (~ 2-4 secs) before going to another website to search for what they need.</p>
+<p>Objectively speaking there are certain details that you should check before judging the performance of a web host. In general, caching and compressing images makes a big difference in load times. Once these optimal conditions are met, your website will be stable and you will be able to more easily know if the server is working well or not.</p>
+<p>To facilitate this task, there are different tools that allow you to measure the loading speed:</p>
+<ul>
+<li><a href="https://gtmetrix.com/" target="_blank" rel="noopener">GTMetrix</a></li>
+<li><a href="https://tools.pingdom.com/" target="_blank" rel="noopener">PingdomTools</a></li>
+<li><a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" rel="noopener">PageSpeed ​​Insights</a></li>
+</ul>
+<p>To evaluate the power of the server:</p>
+<ul>
+<li><a href="https://www.webpagetest.org/" target="_blank" rel="noopener">WebPageTest</a></li>
+<li><a href="https://www.bytecheck.com/" target="_blank" rel="noopener">ByteCheck</a></li>
+</ul>
+<h3>Storage space</h3>
+<p>Imagine that your website is a blank notebook and the storage space is the pages. Not all notebooks are the same size and that&#8217;s because we need to store more information in some of them than in others. This way, you don&#8217;t need a huge notebook to just offer a service and showcase a business. However, as your expectations increase and you for example want to set up a blog with pictures, a customer service section or a description of the work team; you will also need to add pages to your notebook. You don&#8217;t need to buy a lot of storage space if you have a simple website, but if you have an online store, storage space is essential. The same goes for blogs,</p>
+<h3>Technical assistance and customer service</h3>
+<p>The 24 hour technical support service offered by hosting providers is almost a prerequisite so that you can always resolve any issue that arises. From our experience, <a href="https://namecheap.pxf.io/x9NojO" target="_blank" rel="noopener">Namecheap</a> is the best in this category; They will attend to you everytime, even in the middle of the night, but they are only available via Live Chat.</p>
+<p>Unfortunately, technical failures are bound to happen in web development and this can occur at any time. Some technical failures, even if they last only a few minutes, could seriously degrade a website&#8217;s traffic and visibility.</p>
+<p>Unless you have extensive computer knowledge, having access to such technical support is a great advantage in web development.</p>
+<p>A good web hosting service can positively influence your website. Asides the obvious performance benefits, a high availability, also known as <strong>uptime </strong>ensures that your website is online and accessible all of the time.</p>
+<p>By avoiding substandard web hosts, and knowing how to get the most from the good ones, you can see a big difference in the values ​​and development of your website.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/">What is Web Hosting and How Does it Affect Your Website?</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/what-is-web-hosting-and-how-does-it-affect-your-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DomainKing Nigeria Increases Domain Registration Fees, Others.</title>
+		<link>https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/</link>
+					<comments>https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:10:15 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Web Hosting]]></category>
+		<category><![CDATA[domain]]></category>
+		<category><![CDATA[domainking]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[namecheap]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=12934</guid>
+
+					<description><![CDATA[<p>Barely 4 weeks after DomainKing Nigeria was acquired by HostAfrica, a South Africa-based web hosting company, the new owners have announced an increase in the price of their domain services. The updated pricing has seen the dot com TLD (.com) rise by more than 20% as it surged up from ₦5000 (12.15 USD) on May [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/">DomainKing Nigeria Increases Domain Registration Fees, Others.</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Barely 4 weeks after <a href="https://branditechture.agency/host-africa-acquires-domainking-nigeria/">DomainKing Nigeria was acquired by HostAfrica</a>, a South Africa-based web hosting company, the new owners have announced an increase in the price of their domain services. The updated pricing has seen the dot com TLD (.com) rise by more than 20% as it surged up from ₦5000 (12.15 USD) on May 25, 2021, to ₦6,300 (15.31 USD) on October 5, 2021, but there are some other highlights that are worth talking about —more details below. </span></p>
+<p><span style="font-weight: 400;">For comparison, I got the old price list from a snapshot taken on May 25, 2021, on the <a class="extlink" href="https://web.archive.org/" target="_blank" rel="nofollow noopener">Internet Web Archive</a> (a.k.a Wayback Machine) since their email did not reflect the old pricing. Now let’s look at the prices of domain registration before DomainKing was acquired by HostAfrica, and let’s compare it with the newly updated prices. Finally, in the concluding part of this article, we would look at the <em><strong>percentage increase</strong></em> in the cost of <strong>registering</strong>, <strong>renewing,</strong> and <strong>transferring</strong> select <a class="extlink" href="https://support.branditechture.agency/docs/what-are-the-parts-of-a-domain/" target="_blank" rel="noopener">TLDs</a> on DomainKing.ng today.</span></p>
+<div id="attachment_12939" style="width: 2568px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-12939" class="wp-image-12939 size-full" title="Snapshot of DomainKing ng Taken on May Thanks to the Internet Archive" src="https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1.png" alt="Snapshot of DomainKing ng Taken on May Thanks to the Internet Archive" width="2558" height="508" srcset="https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1.png 2558w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-300x60.png 300w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-1024x203.png 1024w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-768x153.png 768w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-1536x305.png 1536w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-480x95.png 480w, https://branditechture.agency/wp-content/uploads/2021/10/Snapshot-of-DomainKing.ng-Taken-on-May-25-2021.-Thanks-to-the-Internet-Archive-1-1320x262.png 1320w" sizes="(max-width: 2558px) 100vw, 2558px" /><p id="caption-attachment-12939" class="wp-caption-text">Snapshot of DomainKing.ng as of May 25, 2021. Thanks to the Internet Web Archive (a.k.a <a href="https://web.archive.org/" class="extlink" target="_blank" rel="nofollow noopener">Wayback Machine</a>)</p></div>
+<div id="attachment_12938" style="width: 2570px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-12938" class="wp-image-12938 size-full" title="A screenie of the DomainKing Homepage after their updated pricing following its acquisition by HostAfrica" src="https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1.png" alt="A screenie of the DomainKing Homepage after their updated domain registration pricing following its acquisition by HostAfrica" width="2560" height="512" srcset="https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1.png 2560w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-300x60.png 300w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-1024x205.png 1024w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-768x154.png 768w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-1536x307.png 1536w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-480x96.png 480w, https://branditechture.agency/wp-content/uploads/2021/10/A-screenie-of-the-DomainKing-Homepage-after-their-updated-pricing-following-its-acquisition-by-HostAfrica-1-1320x264.png 1320w" sizes="(max-width: 2560px) 100vw, 2560px" /><p id="caption-attachment-12938" class="wp-caption-text">A screenshot of DomainKing.ng after their updated pricing for domain registration, a sequel to its acquisition by HostAfrica on September 10, 2021.</p></div>
+<p>In an &#8220;emergency&#8221; newsletter titled; <strong>VAT and Domain Pricing Update,</strong> they quoted; <em>&#8220;Due to an increase from our vendors as well as the extreme volatility in the Naira/USD exchange rate we have been forced to institute this increase. With all costs taken into account (tax, exchange rate, etc), we currently sell international domains at a loss.  We have made every effort to ensure that the increase has as low an impact as possible.&#8221;</em></p>
+<p>The email further reads;</p>
+<p><em>&#8220;<span>As explained above, we have had to introduce these increases to avoid selling the domains at a loss. <strong>The increase is effective immediately.</strong></span>&#8220;</em></p>
+<p>This couldn&#8217;t have sounded more like an emergency because customers were not given any prior notice ahead of the recent price change. Ideally, we customers should have been given a short 7-day notice.</p>
+<p><span style="font-weight: 400;">Prior to the new pricing update, Domainking was arguably the most affordable domain registrar in Nigeria but with the new price list, nothing of such can be said for the company again. Let&#8217;s look at the current industry prices of domain registration among the top 4 domain registrars and hosting providers in Nigeria, please refer to the table below;</span></p>
+<table>
+<thead>
+<tr>
+<th>TLD</th>
+<th><a href="https://clients.domainking.ng/aff.php?aff=1432" target="_blank" rel="noopener nofollow noreferrer">DomainKing</a></th>
+<th><a href="https://www.whogohost.com/host/aff.php?aff=8615" target="_blank" rel="noopener nofollow noreferrer">Whogohost</a></th>
+<th><a href="https://www.qservers.net/process/aff.php?aff=3856" target="_blank" rel="noopener nofollow noreferrer">QServers</a></th>
+<th><a href="https://smartweb.com.ng/web/aff.php?aff=4350" target="_blank" rel="noopener nofollow noreferrer">Smart Web</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">₦6,300</td>
+<td style="text-align: center;">₦5,700</td>
+<td style="text-align: center;">₦5,700</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦5,000</strong></span></td>
+</tr>
+<tr>
+<td>.com.ng</td>
+<td style="text-align: center;">₦1,100</td>
+<td style="text-align: center;">₦1,200</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦1,000</strong></span></td>
+<td style="text-align: center;">₦1,100</td>
+</tr>
+<tr>
+<td>.ng</td>
+<td style="text-align: center;">₦9,500</td>
+<td style="text-align: center;">₦9,500</td>
+<td style="text-align: center;"><span style="color: #ff6600;">₦9,000</span></td>
+<td style="text-align: center;"><span style="color: #ff6600;">₦9,000</span></td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">₦7,875</td>
+<td style="text-align: center;">₦7,300</td>
+<td style="text-align: center;">₦7,500</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦6,700</strong></span></td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">₦11,340</td>
+<td style="text-align: center;">₦10,600</td>
+<td style="text-align: center;">₦8,800</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦8,500</strong></span></td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">₦11,340</td>
+<td style="text-align: center;">₦11,800</td>
+<td style="text-align: center;">₦9,800</td>
+<td style="text-align: center;"><span style="color: #ff6600;"><strong>₦9,500</strong></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>As you can see in the table above <em>(best viewed on a PC)</em>, DomainKing (which is now a part of HostAfrica) is no longer the most affordable registrar in any of the top 6 TLDs.</p>
+<pre>Please, note that there is an ongoing price slash promo on the dot ng (.ng) domain TLD across all registrars in Nigeria. So, between <strong>Oct 1 - December 31st</strong> is the best time to purchase a .ng domain because you can get it from between ₦4,000 - ₦4,800.
+
+<span style="color: #ff6600;"><strong>PRO TIP:</strong></span> <a https:="" smartweb="" com="" ng="" web="" aff="" php="" href="https://smartweb.com.ng/web/aff.php?aff=4350" rel="noopener" target="_blank">Smartweb</a> gives you the best deal on the .ng at just ₦4,000</pre>
+<p>Is the new pricing too high? Or could it be due to the 7.5% addition of VAT and increase in the exchange rate? Okay, Let&#8217;s examine the percentage increase of the new pricing, and finally, let&#8217;s round up this article by comparing DomainKing&#8217;s domain registration, renewal, and transfer fees with Namecheap&#8217;s — one of the most popular international cloud and web hosting companies. Based on the updated pricing;</p>
+<p>&nbsp;</p>
+<p><strong>Old Price List of Int&#8217;l Domains on DomainKing (As seen on May 25, 2021)</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>TLD</strong></td>
+<td><strong>Registration</strong></td>
+<td><strong>Renewal</strong></td>
+<td><strong>Transfer</strong></td>
+</tr>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">₦5,000</td>
+<td style="text-align: center;">₦5,200</td>
+<td style="text-align: center;">₦5,000</td>
+</tr>
+<tr>
+<td>.net</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">₦5,600</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">₦5,600</td>
+<td style="text-align: center;">₦6,000</td>
+<td style="text-align: center;">₦6,000</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>New Price List of Int&#8217;l Domains on DomainKing as of October 5, 2021</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>TLD</strong></td>
+<td><strong>Registration</strong></td>
+<td><strong>Renewal</strong></td>
+<td><strong>Transfer</strong></td>
+</tr>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">₦6,300</td>
+<td style="text-align: center;">₦8,820</td>
+<td style="text-align: center;">₦8,820</td>
+</tr>
+<tr>
+<td>.net</td>
+<td style="text-align: center;">₦7,560</td>
+<td style="text-align: center;">₦10,000</td>
+<td style="text-align: center;">₦10,000</td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">₦7,875</td>
+<td style="text-align: center;">₦9,450</td>
+<td style="text-align: center;">₦9,450</td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">₦11,340</td>
+<td style="text-align: center;">₦12,600</td>
+<td style="text-align: center;">₦12,600</td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">₦11,340</td>
+<td style="text-align: center;">₦12,600</td>
+<td style="text-align: center;">₦12,600</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Percentage Increase in the Price of Int&#8217;l Domains on DomainKing</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>TLD</strong></td>
+<td><strong>Registration</strong></td>
+<td><strong>Renewal</strong></td>
+<td><strong>Transfer</strong></td>
+</tr>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">20.63%</td>
+<td style="text-align: center;">41%</td>
+<td style="text-align: center;">43.30%</td>
+</tr>
+<tr>
+<td>.net</td>
+<td style="text-align: center;">20.63%</td>
+<td style="text-align: center;">40%</td>
+<td style="text-align: center;">40%</td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">28.89%</td>
+<td style="text-align: center;">36.50%</td>
+<td style="text-align: center;">36.50%</td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">47.09%</td>
+<td style="text-align: center;">52.38%</td>
+<td style="text-align: center;">52.38%</td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">50.62%</td>
+<td style="text-align: center;">52.38%</td>
+<td style="text-align: center;">52.38%</td>
+</tr>
+</tbody>
+</table>
+<p>With a price increase ranging from 20.63% to as high as 52.38%. It is only reasonable to say that this is a massive change. When DomainKing got acquired by HostAfrica, I had hoped for more competitive pricing, but it is sad to see that the reverse is the case here.</p>
+<p>I&#8217;m I asking for too much? Let&#8217;s take a closer look at <a class="extlink" href="https://namecheap.pxf.io/15PR0a" target="_blank" rel="noopener nofollow">Namecheap&#8217;s pricing</a> for the same service.</p>
+<p>Here is the cost of acquiring the same domains listed above on Namecheap. I am going to use <strong>$1 = 480NGN.</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>TLD</strong></td>
+<td><strong>Registration</strong></td>
+<td><strong>Renewal</strong></td>
+<td><strong>Transfer</strong></td>
+</tr>
+<tr>
+<td>.com</td>
+<td style="text-align: center;">₦4,551</td>
+<td style="text-align: center;">₦6,471</td>
+<td style="text-align: center;">₦4,407</td>
+</tr>
+<tr>
+<td>.net</td>
+<td style="text-align: center;">₦5,271</td>
+<td style="text-align: center;">₦7,191</td>
+<td style="text-align: center;">₦5,271</td>
+</tr>
+<tr>
+<td>.org</td>
+<td style="text-align: center;">₦4,263</td>
+<td style="text-align: center;">₦7,191</td>
+<td style="text-align: center;">₦5,511</td>
+</tr>
+<tr>
+<td>.biz</td>
+<td style="text-align: center;">₦2,343</td>
+<td style="text-align: center;">₦8,151</td>
+<td style="text-align: center;">₦6,951</td>
+</tr>
+<tr>
+<td>.info</td>
+<td style="text-align: center;">₦1,911</td>
+<td style="text-align: center;">₦8,151</td>
+<td style="text-align: center;">₦5,693</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Asides from being the cheapest alternative, here are other reasons why I would rather turn to Namecheap to purchase my domain names (except .ng and other .ng related domains);</p>
+<ol>
+<li>Better customer support (24/7, 365 support through Live Chat)</li>
+<li>More alternative payment channels &#8211; Namecheap accepts Bitcoin</li>
+<li>I can securely save my debit card in my Namecheap account and use it conveniently anytime I want to make a new purchase.</li>
+<li>Namecheap has tens of free coupons that can get you discounts as high as 20% on domain renewal, domain purchase, and domain transfer.</li>
+<li>Higher commissions (at least, 30%) on referrals if you are an Affiliate. DomainKing.ng pays just 5%.</li>
+<li>Namecheap has a more robust knowledge base online &#8211; from support articles to DIY guides.</li>
+</ol>
+<p>I am a Nigerian, and I like to patronize local brands a lot, but I don&#8217;t mind getting the same product at cheaper rates from their foreign competitors.</p>
+<p>This is business, and it is what it is.</p>
+<hr />
+<p>Do you need Web Design services? We can help you <a href="https://branditechture.agency/lets-build-your-website/">build new bespoke websites</a>, audit, and <a href="https://branditechture.agency/website-maintenance-plans/">maintain your existing websites</a>. Check our <a href="https://branditechture.agency/web-design-portfolio/">web design portfolio</a> for some of our previous works.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/">DomainKing Nigeria Increases Domain Registration Fees, Others.</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/domainking-nigeria-increases-domain-registration-fees-others/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Key Differences Between a Mifi and a Router</title>
+		<link>https://branditechture.agency/the-key-differences-between-a-mifi-and-a-router/</link>
+					<comments>https://branditechture.agency/the-key-differences-between-a-mifi-and-a-router/#comments</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 22:09:22 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<guid isPermaLink="false">https://branditechture.agency/?p=14911</guid>
+
+					<description><![CDATA[<p>Routers and MiFis are both internet enabling devices that are widely used in offices, homes, and other corporate environments worldwide. In this article, I would be pointing out some key differences between a MiFi and a router. What is a MiFi? A MiFi is a compact, portable wireless router that can be used to create [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/the-key-differences-between-a-mifi-and-a-router/">The Key Differences Between a Mifi and a Router</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><strong>Routers and MiFis are both internet enabling devices that are widely used in offices, homes, and other corporate environments worldwide. In this article, I would be pointing out some key differences between a MiFi and a router.</strong></p>
+<h4>What is a MiFi?</h4>
+<p>A MiFi is a compact, portable wireless router that can be used to create a mobile hotspot connection for any of your wireless devices (e.g smartphone, computer, tablets, TV etc.).</p>
+<div id="attachment_14915" style="width: 890px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-14915" class="size-full wp-image-14915" title="MiFi" src="https://branditechture.agency/wp-content/uploads/2022/01/MiFi2372.jpg" alt="MiFi" width="880" height="540" srcset="https://branditechture.agency/wp-content/uploads/2022/01/MiFi2372.jpg 880w, https://branditechture.agency/wp-content/uploads/2022/01/MiFi2372-300x184.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/01/MiFi2372-768x471.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/01/MiFi2372-480x295.jpg 480w" sizes="(max-width: 880px) 100vw, 880px" /><p id="caption-attachment-14915" class="wp-caption-text">Picture: The original MiFi device (<span>A Novatel MiFi 2372 &#8220;Intelligent Mobile Wi-Fi Hotspot&#8221;)</span></p></div>
+<p>The biggest advantage of a MiFi is that you can carry it in your pocket due to its small size. Most MiFis can allow up to 8 connected devices at the same time.</p>
+<h4>Where did the term &#8220;MiFi&#8221; originate from?</h4>
+<p><a href="https://en.wikipedia.org/wiki/MiFi" target="_blank" rel="nofollow noopener">According to Wikipedia</a>, MiFi is a brand name used to describe a wireless router that acts as a mobile Wi-Fi hotspot. In many countries, including the United States, Canada, and Mexico, &#8220;MiFi&#8221; is a trademarked brand name owned by Inseego Corp (formerly known as Novatel). In the United Kingdom, the MiFi trademark is owned by Hutchison 3G Enterprises S.A.R.L., who are also owners of <a href="http://www.three.co.uk/" target="_blank" rel="nofollow noopener">Three</a> or 3.</p>
+<p>However, just as &#8220;Jeep&#8221; has become a common term for SUVs, &#8220;MiFi&#8221; has become a common term for a portable hotspot device.</p>
+<p>MiFi can mean &#8220;mobile Wi-Fi&#8221; or &#8220;my Wi-Fi.&#8221; – or whatever meaning you choose to give it.</p>
+<h4>What is a router?</h4>
+<p>A wireless router is a device that combines the capabilities of a router and a wireless access point into one device. It&#8217;s used to connect to either connect to the Internet (Wide Area Network) or a private network of computers (or Local Area Network).</p>
+<p>It can work on a wired local area network, a wireless-only LAN (or WLAN), or a hybrid wired and wireless network, depending on the manufacturer and model.</p>
+<p>All wireless routers feature one or more wireless network interface controllers. These may be separate chips on the printed circuit board or integrated into the main SoC. On larger routers, it can also be a separate card with a MiniPCI or MiniPCIe interface.</p>
+<p>Dual-band wireless routers such as the <span> </span><a href="https://branditechture.agency/mtn-hynetflex-honest-review/" target="_blank" rel="noopener">ZTE MF286</a> can broadcast both their 2.4 GHz and 5 GHz bands simultaneously.</p>
+<blockquote class="wp-embedded-content" data-secret="9oqIf1kJ8T"><p><a href="https://branditechture.agency/mtn-hynetflex-honest-review/">A Brutally Honest Review Of The MTN HyNetflex Router</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;A Brutally Honest Review Of The MTN HyNetflex Router&#8221; &#8212; Branditechture" src="https://branditechture.agency/mtn-hynetflex-honest-review/embed/#?secret=mGrcyNFFdj#?secret=9oqIf1kJ8T" data-secret="9oqIf1kJ8T" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Many dual-band wireless routers have data transfer rates exceeding 300 Mbit/s (for 2.4 GHz band) and 450 Mbit/s (for 5 GHz band).</p>
+<p>Wireless controllers support a part of the IEEE 802.11-standard family, and many dual-band wireless routers have data transfer rates exceeding 300 Mbit/s (for 5 GHz band).</p>
+<p>Some wireless routers have multiple streams, allowing data transmission rates to be multiplied (for example, a three-stream wireless router can transfer up to 1.3 Gbit/s on the 5 GHz bands).</p>
+<h2>Differences between a router and a MiFi</h2>
+<div id="attachment_14920" style="width: 950px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-14920" class="size-large wp-image-14920" title="MiFi vs Router" src="https://branditechture.agency/wp-content/uploads/2022/01/MiFi-vs-Router-1024x537.jpg" alt="MiFi vs Router" width="940" height="493" srcset="https://branditechture.agency/wp-content/uploads/2022/01/MiFi-vs-Router-1024x537.jpg 1024w, https://branditechture.agency/wp-content/uploads/2022/01/MiFi-vs-Router-300x157.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/01/MiFi-vs-Router-768x403.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/01/MiFi-vs-Router-480x252.jpg 480w, https://branditechture.agency/wp-content/uploads/2022/01/MiFi-vs-Router-1320x692.jpg 1320w, https://branditechture.agency/wp-content/uploads/2022/01/MiFi-vs-Router.jpg 1466w" sizes="(max-width: 940px) 100vw, 940px" /><p id="caption-attachment-14920" class="wp-caption-text">MiFi vs Router</p></div>
+<p>While routers and MiFis are both commonly used to facilitate internet connection among internet-enabled devices, here are key differences between the two devices.</p>
+<h3>1. Form Factor</h3>
+<p>The form factor is unarguably the most obvious difference between a router and a MiFi. A Mi-Fi is both small and lightweight and can fit into the pocket, whereas a router cannot.</p>
+<p>Routers, due to their large size, is meant to be placed on a surface, such as a table.</p>
+<h3>2. Broadband Speed</h3>
+<p>Raw speed and efficiency is the biggest reason why people opt for routers. Routers can be used to tether up to 64 wireless devices simultaneously. Despite broadband speed throttling by the ISP, an average router can still pump up to 60Mbps for Wireless connections and up to 100Mbps for wired LAN connections.</p>
+<div id="attachment_14923" style="width: 950px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-14923" class="size-large wp-image-14923" title="A USB Port in a Router" src="https://branditechture.agency/wp-content/uploads/2022/01/A-USB-Port-in-a-Router-1024x576.jpg" alt="A USB Port in a Router" width="940" height="529" srcset="https://branditechture.agency/wp-content/uploads/2022/01/A-USB-Port-in-a-Router-1024x576.jpg 1024w, https://branditechture.agency/wp-content/uploads/2022/01/A-USB-Port-in-a-Router-300x169.jpg 300w, https://branditechture.agency/wp-content/uploads/2022/01/A-USB-Port-in-a-Router-768x432.jpg 768w, https://branditechture.agency/wp-content/uploads/2022/01/A-USB-Port-in-a-Router-480x270.jpg 480w, https://branditechture.agency/wp-content/uploads/2022/01/A-USB-Port-in-a-Router.jpg 1280w" sizes="(max-width: 940px) 100vw, 940px" /><p id="caption-attachment-14923" class="wp-caption-text">A USB 2.0 Port in a Router</p></div>
+<p>Wireless routers have one or two USB ports. These can be used to connect a printer, a desktop computer, or a mobile external hard disk drive to a network as a shared resource. On the contrary, MiFis do not feature standard USB ports.</p>
+<p>Apart from connecting the wireless router to an Ethernet with xDSL or cable modem, a USB connection can also be utilized to connect a mobile broadband modem.</p>
+<p>In a router, you can share a mobile broadband internet connection over a wireless network by attaching a mobile broadband USB adapter to the router. You can&#8217;t do that with a Mi-Fi due to the lack of a standard USB port.</p>
+<p><a href="https://en.wikipedia.org/wiki/DSL_modem" target="_blank" rel="nofollow noopener">DSL modems</a>, DOCSIS modems, LTE modems, and fibre optic modems are all included in certain wireless routers, but most MiFis only feature an SoC 3G and/or LTE modem.</p>
+<h3>3. Ports and Interfaces</h3>
+<p>MiFis have no other interface apart from a Micro-USB charging port which can also be used to connect to another device, but routers have better options; Most routers have one or two USB 2.0 ports, multiple WLAN Ports, and a Phone Port that can be used to connect to a landline phone.</p>
+<h2>Why You Should Not Buy A Router</h2>
+<h3>1. Poor Battery Life</h3>
+<p>Unfortunately for routers, their battery life isn&#8217;t as great when compared to MiFis. Most routers can&#8217;t last more than four hours after a power outage, but an average MiFi can last up to a full day between charges.</p>
+<p>Some routers don&#8217;t even have a battery enclosure, so they&#8217;ll need to be supported by an external battery pack or UPS.</p>
+<h3>2. Poor Mobility</h3>
+<p>Unlike MiFis, routers aren&#8217;t intended for on-the-go usage due to their size. They can&#8217;t fit in the pocket and operating a router in an enclosed container such as a tote bag would result in overheating and possible damage due to poor ventilation.</p>
+<h3>3. High Power Consumption</h3>
+<p>Routers consume more power due to their hardware specifications. Routers typically operate on at least, 12V DC. On the other hand, MiFis can operate on a DC Power rated at just 5V.</p>
+<p>This also implies that you can charge a MiFi&#8217;s battery using a portable powerbank, but you would always need a specialized adapter and an AC power source to charge a router&#8217;s battery.</p>
+<h2>When to buy a router instead of a MiFi</h2>
+<p>You should buy a router instead of a MiFi if one or more of the following apply to you;</p>
+<ol>
+<li>You need a fast and reliable internet connection for multiple devices.</li>
+<li>You stay at home or the office most of the time.</li>
+<li>You have access to a regular supply of power.</li>
+<li>You have mobile internet for your mobile devices.</li>
+<li>You already have a MiFi.</li>
+</ol>
+<p>With all the points above, I hope I have been able to help you identify the key differences between a router and a MiFi.</p>
+<p>Thanks for reading.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.agency/the-key-differences-between-a-mifi-and-a-router/">The Key Differences Between a Mifi and a Router</a> appeared first on <a rel="nofollow" href="https://branditechture.agency/">Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.agency/the-key-differences-between-a-mifi-and-a-router/feed/</wfw:commentRss>
+			<slash:comments>22</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
